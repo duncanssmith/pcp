@@ -1,0 +1,91 @@
+@import url(//fonts.googleapis.com/css?family=Open%20Sans:600);
+
+body {
+    padding-top: 50px;
+    margin:0;
+    /*font-family:'Open Sans Condensed', sans-serif;*/
+    font-family:'Helvetica', sans-serif;
+    font-weight:100;
+    text-align:left;
+    color: #444;
+}
+
+.welcome {
+    /*text-align;center;*/
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -100px;
+}
+
+a, a:visited {
+    text-decoration:none;
+}
+
+a.header-link-secure {
+    color: #c6c !important;
+}
+
+a.header-link {
+    color: #666;
+}
+
+a.header-dropdown-link {
+    font-size: 0.8em;
+    color: #666;
+}
+
+h1 {
+    font-size: 22px;
+    margin: 16px 0 0 0;
+}
+
+.error {color:red; font-style:italic; font-size:.9em;}
+
+.container {
+    background: rgba(255, 255, 255, .999);
+}
+.work-container {
+    border: 0px solid #00f;
+    width: 200px;
+    padding: 10px 40px ;
+    font-size: 0.8em;
+    color: #444;
+}
+
+.text-left {
+    padding-bottom: 20px;
+}
+.text-container {
+    margin: 80px 0 0 0;
+    border: 0px solid #f00;
+    padding: 10px 40px ;
+    font-size: 0.9em;
+    color: #444;
+}
+
+.icon-white {
+    color: #fff;
+}
+
+.top-photo {
+    background: #282828 url('../images/Home/sh_0300s.jpg') no-repeat top center;
+    min-height: 285px;
+    background-size: cover;
+    color: rgba(100,100,100,.9);
+}
+.white-bg {
+    background: rgba(255,255,255,.9);
+}
+.navbar-end {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.nav-bottom-line {
+    background: rgba(255,255,255,.999);
+    border-bottom: 1px solid rgba(180,180,180,.7);
+}
