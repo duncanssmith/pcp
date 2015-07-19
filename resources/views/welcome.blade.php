@@ -20,7 +20,7 @@
             }
 
             .top-photo {
-                background: #cdcdcd no-repeat top center;
+                background: #fefefe no-repeat top center;
                 min-height: 285px;
                 background-size: cover;
                 color: rgba(100,100,100,.9);
@@ -37,12 +37,25 @@
                 display: inline-block;
             }
 
-            .title1 {
-                font-size: 96px;
+            .logo {
+                margin-top: 30px;
+                margin-bottom: 30px;
             }
 
             .title {
                 font-size: 64px;
+                color: #8a6;
+                font-weight: bold;
+            }
+
+            .address-box {
+
+            }
+
+            .address {
+                font-family: Lato ;
+                font-size: 24px;
+                line-height: 170%;
             }
 
         </style>
@@ -50,28 +63,31 @@
     <body class="top-photo">
         <div class="container">
             <div class="content">
-                <div class="title1">Coming soon!</div>
+                <div class="logo">
+                    <img src="/media/images/Home/logo.png" width="290px"/>
+                </div>
                 <table>
                     <tr>
-                        <td>
-                            <img src="/media/images/Home/terrace.jpg" width="280px"/>
+                        <td colspan="1">
+                            <img src="/media/images/Home/terrace.jpg" width="290px"/>
                         </td>
                         <td>
-                            <img src="/media/images/Home/teascones.jpg" width="280px"/>
+                            <img src="/media/images/Home/salads.jpg" width="290px"/>
                         </td>
                         <td>
-                            <img src="/media/images/Home/salads.jpg" width="280px"/>
+                            <img src="/media/images/Home/teascones.jpg" width="290px"/>
                         </td>
                     </tr>
                 </table>
-                <div class="title">Palm Court Pavilion</div>
-                <div class="content">
-                    <p>Palm Court Pavilion</p>
-                    <p>Lyndhurst Road</p>
-                    <p>Worthing</p>
-                    <p>BN11 2DB</p>
-                    <p>T: 01903 212 011</p>
-                    <p>W: www.palmcourtpavilion.co.uk</p>
+                <br/>
+                <div class="title">Coming soon!</div>
+                <div class="address-box">
+                    <p class="address">
+                    Lyndhurst Road<br/>
+                    Worthing<br/>
+                    BN11 2DB<br/>
+                    T: 01903 212 011<br/>
+                    W: www.palmcourtpavilion.co.uk</p>
                 </div>
             </div>
         </div>
