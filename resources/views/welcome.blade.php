@@ -20,7 +20,7 @@
             }
 
             .top-photo {
-                background: #282828 url('../../public/media/images/Home/terrace.jpg') no-repeat top center;
+                background: #cdcdcd no-repeat top center;
                 min-height: 285px;
                 background-size: cover;
                 color: rgba(100,100,100,.9);
@@ -51,6 +51,19 @@
         <div class="container">
             <div class="content">
                 <div class="title1">Coming soon!</div>
+                <table>
+                    <tr>
+                        <td>
+                            <img src="/media/images/Home/terrace.jpg" width="280px"/>
+                        </td>
+                        <td>
+                            <img src="/media/images/Home/teascones.jpg" width="280px"/>
+                        </td>
+                        <td>
+                            <img src="/media/images/Home/salads.jpg" width="280px"/>
+                        </td>
+                    </tr>
+                </table>
                 <div class="title">Palm Court Pavilion</div>
                 <div class="content">
                     <p>Palm Court Pavilion</p>
@@ -60,7 +73,6 @@
                     <p>T: 01903 212 011</p>
                     <p>W: www.palmcourtpavilion.co.uk</p>
                 </div>
-                <img src=""/>
             </div>
         </div>
     </body>
