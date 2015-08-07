@@ -37,8 +37,6 @@
                 display: inline-block;
             }
 
-            .title1 {
-                font-size: 96px;
             .logo {
                 margin-top: 30px;
                 margin-bottom: 30px;
@@ -63,42 +61,24 @@
         </style>
     </head>
     <body class="top-photo">
-        <div class="navigation">
-            <ul>
-                <li><a href="/mainmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Main menu</a></li>
-                <li><a href="/drinksmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Drinks</a></li>
-                <li><a href="/winelist" class="btn btn-info" ><i class="fa fa-menu"></i>Wine list</a></li>
-                <li><a href="/kidsmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Kids menu</a></li>
-            </ul>
-        </div>
+      <div class="navigation">
+          <ul>
+              <li><a href="/mainmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Main menu</a></li>
+              <li><a href="/drinksmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Drinks</a></li>
+              <li><a href="/winelist" class="btn btn-info" ><i class="fa fa-menu"></i>Wine list</a></li>
+              <li><a href="/kidsmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Kids menu</a></li>
+          </ul>
+      </div>
         <div class="container">
             <div class="content">
                 <div class="logo">
                     <img src="/media/images/Home/logo.png" width="290px"/>
                 </div>
-                <table>
-                    <tr>
-                        <td colspan="1">
-                            <img src="/media/images/Home/terrace.jpg" width="290px"/>
-                        </td>
-                        <td>
-                            <img src="/media/images/Home/salads.jpg" width="290px"/>
-                        </td>
-                        <td>
-                            <img src="/media/images/Home/teascones.jpg" width="290px"/>
-                        </td>
-                    </tr>
-                </table>
+
                 <br/>
-                <div class="title">Coming soon!</div>
-                <div class="address-box">
-                    <p class="address">
-                    Lyndhurst Road<br/>
-                    Worthing<br/>
-                    BN11 2DB<br/>
-                    T: 01903 212 011<br/>
-                    W: www.palmcourtpavilion.co.uk</p>
-                </div>
+                <div class="title">Drinks</div>
+                <img src="/media/images/Menu/pcpDrinksMenu2015.pdf"/>
+
             </div>
         </div>
     </body>
