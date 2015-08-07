@@ -19,6 +19,13 @@
                 font-family: 'Lato';
             }
 
+            .top-photo {
+                background: #fefefe no-repeat top center;
+                min-height: 285px;
+                background-size: cover;
+                color: rgba(100,100,100,.9);
+            }
+
             .container {
                 text-align: center;
                 display: table-cell;
@@ -32,26 +39,65 @@
 
             .title1 {
                 font-size: 96px;
+            .logo {
+                margin-top: 30px;
+                margin-bottom: 30px;
             }
 
             .title {
                 font-size: 64px;
+                color: #8a6;
+                font-weight: bold;
+            }
+
+            .address-box {
+
+            }
+
+            .address {
+                font-family: Lato ;
+                font-size: 24px;
+                line-height: 170%;
             }
 
         </style>
     </head>
-    <body>
+    <body class="top-photo">
+        <div class="navigation">
+            <ul>
+                <li><a href="/mainmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Main menu</a></li>
+                <li><a href="/drinksmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Drinks</a></li>
+                <li><a href="/winelist" class="btn btn-info" ><i class="fa fa-menu"></i>Wine list</a></li>
+                <li><a href="/kidsmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Kids menu</a></li>
+            </ul>
+        </div>
         <div class="container">
             <div class="content">
-                <div class="title1">Coming soon!</div>
-                <div class="title">Palm Court Pavilion</div>
-                <div class="content">
-                    <p>Palm Court Pavilion</p>
-                    <p>Lyndhurst Road</p>
-                    <p>Worthing</p>
-                    <p>BN11 2DB</p>
-                    <p>T: 01903 212 011</p>
-                    <p>W: www.palmcourtpavilion.co.uk</p>
+                <div class="logo">
+                    <img src="/media/images/Home/logo.png" width="290px"/>
+                </div>
+                <table>
+                    <tr>
+                        <td colspan="1">
+                            <img src="/media/images/Home/terrace.jpg" width="290px"/>
+                        </td>
+                        <td>
+                            <img src="/media/images/Home/salads.jpg" width="290px"/>
+                        </td>
+                        <td>
+                            <img src="/media/images/Home/teascones.jpg" width="290px"/>
+                        </td>
+                    </tr>
+                </table>
+                <br/>
+                <div class="title">Coming soon!</div>
+                <div class="address-box">
+                    <p class="address">
+                    Lyndhurst Road<br/>
+                    Worthing<br/>
+                    BN11 2DB<br/>
+                    T: 01903 212 011<br/>
+                    W: www.palmcourtpavilion.co.uk</p>
                 </div>
             </div>
         </div>
