@@ -77,7 +77,6 @@
 
                 <br/>
                 <div class="title">Kids menu</div>
-                <img src="/media/images/Menu/pcpKidsMenu2015.pdf"/>
 
             </div>
         </div>

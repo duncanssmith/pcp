@@ -77,7 +77,6 @@
 
                 <br/>
                 <div class="title">Drinks</div>
-                <img src="/media/images/Menu/pcpDrinksMenu2015.pdf"/>
 
             </div>
         </div>

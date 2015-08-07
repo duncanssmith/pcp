@@ -77,7 +77,6 @@
 
                 <br/>
                 <div class="title">Wine list</div>
-                <img src="/media/images/Menu/pcpWineList2015.pdf"/>
 
             </div>
         </div>
