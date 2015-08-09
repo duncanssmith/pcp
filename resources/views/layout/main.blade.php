@@ -5,10 +5,10 @@
         @include('layout.head')
     @show
 
-    <body <?php echo isset($body_class) ? 'class="'.$body_class.'"' : ''?>>
-    @section('nav')
-        @include('nav')
-    @show
+    <body>
+        @section('nav')
+            @include('nav')
+        @show
 
         <div class="container">
 
@@ -17,7 +17,5 @@
         </div>
 
     </body>
-
-    <!--<script>$("#image-sort").sortable();</script> -->
 
 </html>

@@ -1,31 +1,32 @@
 <!DOCTYPE html>
 <html>
-
-
     @section('head')
         @include('layout.head')
     @show
 
     <body class="top-photo">
 
-    @section('nav')
-        @include('layout.nav')
-    @show
         <div class="container">
             <div class="content">
                 <div class="logo">
                     <img src="/media/images/Home/logo.png" width="290px"/>
                 </div>
-                <table>
+                <table class="main-table">
                     <tr>
                         <td colspan="1">
-                            <img src="/media/images/Home/terrace.jpg" width="290px"/>
+                            <a href="/menu" alt="Al fresco dining at Palm Court Pavilion - Click for menus" title="Dining outdoors at Palm Court Pavilion. Click for menus">
+                                <img src="/media/images/Home/terrace.jpg" width="290px"/>
+                            </a>
                         </td>
                         <td>
+                          <a href="/menu" alt="Summer salads at Palm Court Pavilion - Click for menus" title="Delicious summer salads at Palm Court Pavilion. Click for menus">
                             <img src="/media/images/Home/salads.jpg" width="290px"/>
+                          </a>
                         </td>
                         <td>
+                          <a href="/menu" alt="Cream Teas at Pal Court Pavilion - Click for menus" title="Cream teas with jam and scones at Palm Court Pavilion. Click for menus">
                             <img src="/media/images/Home/teascones.jpg" width="290px"/>
+                          </a>
                         </td>
                     </tr>
                 </table>
