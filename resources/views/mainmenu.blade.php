@@ -1,84 +1,88 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Palm Court Pavilion</title>
+    @section('head')
+        @include('layout.head')
+    @show
 
-        <link href="//fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+    <body>
 
-        <style>
-            html, body {
-                height: 100%;
-            }
-
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                display: table;
-                font-weight: 100;
-                font-family: 'Lato';
-            }
-
-            .top-photo {
-                background: #fefefe no-repeat top center;
-                min-height: 285px;
-                background-size: cover;
-                color: rgba(100,100,100,.9);
-            }
-
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
-            }
-
-            .content {
-                text-align: center;
-                display: inline-block;
-            }
-
-            .logo {
-                margin-top: 30px;
-                margin-bottom: 30px;
-            }
-
-            .title {
-                font-size: 64px;
-                color: #8a6;
-                font-weight: bold;
-            }
-
-            .address-box {
-
-            }
-
-            .address {
-                font-family: Lato ;
-                font-size: 24px;
-                line-height: 170%;
-            }
-
-        </style>
-    </head>
-    <body class="top-photo">
-      <div class="navigation">
-          <ul>
-              <li><a href="/mainmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Main menu</a></li>
-              <li><a href="/drinksmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Drinks</a></li>
-              <li><a href="/winelist" class="btn btn-info" ><i class="fa fa-menu"></i>Wine list</a></li>
-              <li><a href="/kidsmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Kids menu</a></li>
-          </ul>
-      </div>
         <div class="container">
-            <div class="content">
-                <div class="logo">
-                    <img src="/media/images/Home/logo.png" width="290px"/>
-                </div>
 
-                <br/>
-                <div class="title">Main menu</div>
-                <img src="/media/images/Menu/pcpMainMenu2015.pdf"/>
+            <div class="content">
+
+                <div class="row">
+
+                    <div class="col-md-3 logo">
+                        <a href="/" class="logo">
+                            <img src="/media/images/Home/logo.png" width="290px"/>
+                        </a>
+                        <br>
+                        <br>
+                        <p>Main menu</p>
+                        <p>Drinks</p>
+                        <p>Kids</p>
+                        <p>Wines</p>
+
+                        <p><a href="/" class="btn btn-sm btn-success"><i class="fa fa-arrow-left"></i> Back</a></p>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                            <!-- Indicators -->
+                            <ol class="carousel-indicators">
+                              <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                              <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                              <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                              <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                            </ol>
+
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <img src="/media/images/Menu/pcpMainMenu2015-2.png" />
+                                    <div class="carousel-caption">
+                                        <h3>Main menu</h3>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img src="/media/images/Menu/pcpDrinksMenu2015-2.png" />
+                                    <div class="carousel-caption">
+                                        <h3>Drinks</h3>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img src="/media/images/Menu/pcpKidsMenu2015-2.png" />
+                                    <div class="carousel-caption">
+                                        <h3>Kids</h3>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img src="/media/images/Menu/pcpWineList2015-2.png" />
+                                    <div class="carousel-caption">
+                                        <h3>Winelist</h3>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Controls -->
+                            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                            </a>
+                        </div> <!-- Carousel -->
+
+                    </div>
+                    <div class="col-md-3">
+
+                    </div>
+
+                </div>
             </div>
         </div>
     </body>
 </html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/vendor/twitter/bootstrap/js/bootstrap.min.js"></script>

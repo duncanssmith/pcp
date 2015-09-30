@@ -1,103 +1,58 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Palm Court Pavilion</title>
+    @section('head')
+        @include('layout.head')
+    @show
 
-        <link href="//fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
-
-        <style>
-            html, body {
-                height: 100%;
-            }
-
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                display: table;
-                font-weight: 100;
-                font-family: 'Lato';
-            }
-
-            .top-photo {
-                background: #fefefe no-repeat top center;
-                min-height: 285px;
-                background-size: cover;
-                color: rgba(100,100,100,.9);
-            }
-
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
-            }
-
-            .content {
-                text-align: center;
-                display: inline-block;
-            }
-
-            .title1 {
-                font-size: 96px;
-            .logo {
-                margin-top: 30px;
-                margin-bottom: 30px;
-            }
-
-            .title {
-                font-size: 64px;
-                color: #8a6;
-                font-weight: bold;
-            }
-
-            .address-box {
-
-            }
-
-            .address {
-                font-family: Lato ;
-                font-size: 24px;
-                line-height: 170%;
-            }
-
-        </style>
-    </head>
     <body class="top-photo">
-        <div class="navigation">
-            <ul>
-                <li><a href="/mainmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Main menu</a></li>
-                <li><a href="/drinksmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Drinks</a></li>
-                <li><a href="/winelist" class="btn btn-info" ><i class="fa fa-menu"></i>Wine list</a></li>
-                <li><a href="/kidsmenu" class="btn btn-info" ><i class="fa fa-menu"></i>Kids menu</a></li>
-            </ul>
-        </div>
+
         <div class="container">
             <div class="content">
-                <div class="logo">
-                    <img src="/media/images/Home/logo.png" width="290px"/>
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <div class="logo">
+                            <img src="/media/images/Home/logo.png" width="290px"/>
+                        </div>
+                    </div>
+
                 </div>
-                <table>
-                    <tr>
-                        <td colspan="1">
-                            <img src="/media/images/Home/terrace.jpg" width="290px"/>
-                        </td>
-                        <td>
-                            <img src="/media/images/Home/salads.jpg" width="290px"/>
-                        </td>
-                        <td>
-                            <img src="/media/images/Home/teascones.jpg" width="290px"/>
-                        </td>
-                    </tr>
-                </table>
-                <br/>
-                <div class="title">Coming soon!</div>
-                <div class="address-box">
-                    <p class="address">
-                    Lyndhurst Road<br/>
-                    Worthing<br/>
-                    BN11 2DB<br/>
-                    T: 01903 212 011<br/>
-                    W: www.palmcourtpavilion.co.uk</p>
+
+                <div class="row">
+
+                    <div class="col-md-12">
+                        <table class="main-table">
+                            <tr>
+                                <td colspan="1">
+                                    <a href="/menu" alt="Al fresco dining at Palm Court Pavilion" title="Dining outdoors at Palm Court Pavilion">
+                                        <img src="/media/images/Home/terrace.jpg" width="290px"/>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="/menu" alt="Summer salads at Palm Court Pavilion" title="Delicious summer salads at Palm Court Pavilion">
+                                        <img src="/media/images/Home/salads.jpg" width="290px"/>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="/menu" alt="Cream Teas at Pal Court Pavilion" title="Cream teas with jam and scones at Palm Court Pavilion">
+                                        <img src="/media/images/Home/teascones.jpg" width="290px"/>
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                        <br/>
+                        <div class="title">Coming soon!</div>
+                        <div class="address-box">
+                            <p class="address">
+                            Lyndhurst Road<br/>
+                            Worthing<br/>
+                            BN11 2DB<br/>
+                            T: 01903 212 011<br/>
+                            W: www.palmcourtpavilion.co.uk</p>
+                        </div>
+                        <a href="/menu" class="btn btn-sm btn-primary">Menus <i class="fa fa-arrow-right"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
