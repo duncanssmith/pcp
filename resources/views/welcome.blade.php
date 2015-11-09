@@ -8,7 +8,7 @@
     @show
 
     <body id="top-photo">
-        <section id="section-1">
+        <section id="section-welcome">
             <div class="container">
                 <div class="content">
                     <div class="row">
@@ -43,22 +43,14 @@
                                 </tr>
                             </table>
                             <br/>
-                            <div class="address-box">
-                                <p class="address">
-                                Lyndhurst Road<br/>
-                                Worthing<br/>
-                                BN11 2DB<br/>
-                                www.palmcourtpavilion.co.uk<br>
-                                01903 212 011</p>
 
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="section-2">
+        <section id="section-about">
             <div class="container">
                 <div class="content">
             <div class="row">
@@ -91,7 +83,7 @@
             </div>
         </section>
 
-        <section id="section-3">
+        <section id="section-menu">
             <div class="container">
                 <div class="content">
                     <div class="row">
@@ -147,6 +139,28 @@
                 </div>
             </div>
         </section>
+
+        <section id="section-contact">
+            <div class="container">
+                <div class="content">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="title">Contact us</div>
+                            <div class="address-box">
+                                <p class="address">
+                                Lyndhurst Road<br/>
+                                Worthing<br/>
+                                BN11 2DB<br/>
+                                www.palmcourtpavilion.co.uk<br>
+                                01903 212 011</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
     </body>
 </html>
 

@@ -10,8 +10,21 @@ body {
     color: #444;
 }
 
+#section-welcome {
+  background-color: rgba(140, 200, 20, .4);
+}
+#section-about {
+  background-color: rgba(240, 100, 120, .4);
+}
+#section-menu {
+  background-color: rgba(180, 160, 20, .4);
+}
+#section-contact {
+  background-color: rgba(80, 160, 220, .4);
+}
+
 .welcome {
-    /*text-align;center;*/
+    text-align;center;
     width: 300px;
     height: 200px;
     position: absolute;
