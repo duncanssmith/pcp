@@ -22,6 +22,7 @@
                     <div class="row">
 
                         <div class="col-md-12">
+                            <div class="title">Welcome</div>
                             <table class="main-table">
                                 <tr>
                                     <td colspan="1">
@@ -47,8 +48,9 @@
                                 Lyndhurst Road<br/>
                                 Worthing<br/>
                                 BN11 2DB<br/>
-                                T: 01903 212 011<br/>
-                                W: www.palmcourtpavilion.co.uk</p>
+                                www.palmcourtpavilion.co.uk<br>
+                                01903 212 011</p>
+
                             </div>
                         </div>
                     </div>
@@ -62,7 +64,6 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="title">About</div>
-                    <p><a href="/" class="btn btn-sm btn-success"><i class="fa fa-arrow-left"></i> Back</a></p>
                     <p>
                         Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish,<br>
                         beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from<br>
@@ -95,6 +96,7 @@
                 <div class="content">
                     <div class="row">
                         <div class="col-md-12">
+                            <div class="title">Our menu</div>
                             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                                 <!-- Indicators -->
                                 <ol class="carousel-indicators">
