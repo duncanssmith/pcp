@@ -4,30 +4,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
-
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-
     <link rel="stylesheet" href="/media/css/font-awesome.css">
     <link rel="stylesheet" href="/media/css/main.css">
-
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
-
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" media="all"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
     <script src="{{ asset('/media/js/vendor/jquery/jquery-2.1.1.min.js') }}"></script>
-
     <script src="{{ asset('/media/js/vendor/twitter/bootstrap/js/bootstrap.min.js') }}"></script>
-
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
-
     <style>
         html, body {
             height: 100%;
@@ -39,7 +30,7 @@
             width: 100%;
             display: table;
             font-weight: 100;
-            font-family: 'Lato';
+            font-family: 'Open Sans';
         }
 
         .tablecloth {
@@ -87,7 +78,7 @@
         }
 
         .address {
-            font-family: Lato ;
+            font-family: Open Sans;
             font-size: 24px;
             line-height: 170%;
             font-weight: 200;

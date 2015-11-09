@@ -3,7 +3,9 @@
     @section('head')
         @include('layout.head')
     @show
-
+    @section('nav')
+        @include('layout.nav')
+    @show
     <body>
 
         <div class="container">
