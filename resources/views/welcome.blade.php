@@ -42,7 +42,7 @@
                             </tr>
                         </table>
                         <br/>
-                        <div class="title">Coming soon!</div>
+                        <div class="title">Palm Court Pavilion</div>
                         <div class="address-box">
                             <p class="address">
                             Lyndhurst Road<br/>
@@ -51,7 +51,10 @@
                             T: 01903 212 011<br/>
                             W: www.palmcourtpavilion.co.uk</p>
                         </div>
-                        <a href="/menu" class="btn btn-sm btn-primary">Menus <i class="fa fa-arrow-right"></i></a>
+
+                        <a href="/menu" class="btn btn-sm btn-primary">Menus </a>
+                        <a href="/about" class="btn btn-sm btn-primary">About </a>
+
                     </div>
                 </div>
             </div>

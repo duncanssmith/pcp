@@ -19,3 +19,6 @@ Route::get('/menu', function () {
     return view('mainmenu');
 });
 
+Route::get('/about', function () {
+    return view('about');
+});
