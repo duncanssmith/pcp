@@ -8,10 +8,14 @@
             @include('layout.nav')
         @show
         <div id="content">
-            <section id="section-welcome">
-                <h1 class="title">Welcome</h1>
+            <section id="section-welcome" class="">
                 <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <div class="row">
+                        <h1 class="title">Welcome</h1>
                         <div class="col-md-3">&nbsp;</div>
                         <div class="col-md-6">
                             <div class="logo">
@@ -42,42 +46,58 @@
                 </div>
             </section>
 
-            <section id="section-about">
-                <h1 class="title">About</h1>
+            <section id="section-about" class="wrap">
                 <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <div class="row">
+                        <h1 class="title">About</h1>
                         <div class="col-md-3">&nbsp;</div>
-                        <div class="col-md-6">
+                        <div class="col-md-3">
                             <p>
-                                    Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish,<br>
-                                    beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from<br>
-                                    the town centre and the seafront, Palm Court Pavilion serves delicious homemade food<br>
-                                    and has a range of options for functions and events.<br>
+                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish,<br>
+                                beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from<br>
+                                the town centre and the seafront, Palm Court Pavilion serves delicious homemade food<br>
+                                and has a range of options for functions and events.<br>
                             </p>
                             <p>
-                                    The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years<br>
-                                    in disuse, the Pavilion has been given a new lease of life. The landmark building has been<br>
-                                    sympathetically renovated, emphasising the natural light and an extensive outdoor decking<br>
-                                    area makes the most of the beautiful park setting. Both areas of decking can be used for<br>
-                                    private parties.<br>
+                                The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years<br>
+                                in disuse, the Pavilion has been given a new lease of life. The landmark building has been<br>
+                                sympathetically renovated, emphasising the natural light and an extensive outdoor decking<br>
+                                area makes the most of the beautiful park setting. Both areas of decking can be used for<br>
+                                private parties.<br>
+                            </p>
+                        </div>
+                        <div class="col-md-6"><img src="/media/images/Home/teascones.jpg" width="400px"/></div>
+                        <div class="col-md-3"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3"></div>
+                        <div class="col-md-6"><img src="/media/images/Home/terrace.jpg" width="400px"/></div>
+                        <div class="col-md-3">
+                            <p>
+                                The upstairs function room has a balcony giving delightful views of the park and bowling<br>
+                                greens, a perfect venue for parties, meetings and events.<br>
                             </p>
                             <p>
-                                    The upstairs function room has a balcony giving delightful views of the park and bowling<br>
-                                    greens, a perfect venue for parties, meetings and events.<br>
-                            </p>
-                            <p>
-                                    The outside space in the park can also be used for larger scale events of up to 1000 people,<br>
-                                    ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
+                                The outside space in the park can also be used for larger scale events of up to 1000 people,<br>
+                                ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
                             </p>
                         </div>
                         <div class="col-md-3"></div>
                     </div>
                 </div>
             </section>
-            <section id="section-menu">
-                <h1 class="title">Menu</h1>
+            <section id="section-menu" class="">
                 <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <div class="row">
+                        <h1 class="title">Menu</h1>
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
                             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -131,17 +151,46 @@
                 </div>
             </section>
 
-            <section id="section-contact">
-                <h1 class="title">Contact</h1>
+            <section id="section-contact" class="wrap">
                 <div class="container">
-                    <div class="address-box">
-                        <p class="address">
-                            Lyndhurst Road<br/>
-                            Worthing<br/>
-                            BN11 2DB<br/>
-                            www.palmcourtpavilion.co.uk<br>
-                            01903 212 011
-                        </p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <div class="row">
+                        <h1 class="title">Contact</h1>
+                        <div class="col-md-12">
+                            <div class="address-box">
+                                <p class="address">
+                                    Palm Court Pavilion<br>
+                                    Beach House Park<br>
+                                    Lyndhurst Road<br>
+                                    Worthing<br>
+                                    BN11 2DB<br>
+                                    www.palmcourtpavilion.co.uk<br>
+                                    01903 212 011
+                                </p>
+                            </div>
+                        </div>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
                     </div>
                 </div>
             </section>

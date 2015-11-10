@@ -23,6 +23,17 @@ body {
   background-color: rgba(80, 160, 220, .4);
 }
 
+section {
+    height: 100%;
+}
+
+section.wrap {
+  background: rgba(140, 200, 20, .8);
+}
+section.wrap > .container > .row {
+  background: rgba(140, 200, 20, .8);
+}
+
 .welcome {
     text-align;center;
     width: 300px;
