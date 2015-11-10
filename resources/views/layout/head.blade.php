@@ -63,6 +63,8 @@
             margin-top: 56px;
             margin-right: 36px;
             margin-bottom: 30px;
+            align-content: center;
+            align-self: center;
         }
 
         .title {

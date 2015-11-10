@@ -16,8 +16,11 @@
                         <div class="col-md-6">
                             <div class="logo">
                                 <img src="/media/images/Home/logo.png" width="290px"/>
+                                <img src="/media/images/Home/terrace.jpg" width="290px"/>
+                                <img src="/media/images/Home/salads.jpg" width="290px"/>
+                                <img src="/media/images/Home/teascones.jpg" width="290px"/>                              
                             </div>
-                            <table class="main-table">
+                            <!-- <table class="main-table">
                                 <tr>
                                     <td colspan="1">
                                         <a href="/menu" alt="Al fresco dining at Palm Court Pavilion" title="Dining outdoors at Palm Court Pavilion">
@@ -35,7 +38,7 @@
                                         </a>
                                     </td>
                                 </tr>
-                            </table>
+                            </table> -->
                         </div>
                         <div class="col-md-3">&nbsp;</div>
                     </div>
