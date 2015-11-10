@@ -3,8 +3,8 @@
 body {
     padding-top: 50px;
     margin:0;
-    /*font-family:'Open Sans Condensed', sans-serif;*/
-    font-family:'Helvetica', sans-serif;
+    font-family:'Open Sans Condensed', sans-serif;
+    /*font-family:'Helvetica', sans-serif;*/
     font-weight:100;
     text-align:left;
     color: #444;
@@ -12,30 +12,35 @@ body {
 
 #section-welcome {
   background-color: rgba(140, 200, 20, .4);
+    min-height:600px;
 }
 #section-about {
-  background-color: rgba(240, 100, 120, .4);
+    background-color: rgba(200, 70, 60, .5);
+    text-align: left;
+    text-justify: none;
+    color: rgba(255,255,255,1);
+    min-height:600px;
 }
 #section-menu {
   background-color: rgba(180, 160, 20, .4);
+    min-height:600px;
 }
 #section-contact {
-  background-color: rgba(80, 160, 220, .4);
-}
-
-section {
-    height: 100%;
+    background-color: rgba(80, 160, 220, .4);
+    text-align: center;
+    color: rgba(255,255,255,1);
+    min-height:600px;
 }
 
 section.wrap {
-  background: rgba(140, 200, 20, .8);
+  background: rgba(100, 60, 7, .8);
 }
 section.wrap > .container > .row {
-  background: rgba(140, 200, 20, .8);
+  background: rgba(100, 60, 7, .8);
 }
 
 .welcome {
-    text-align;center;
+    text-align;left;
     width: 300px;
     height: 200px;
     position: absolute;
@@ -96,7 +101,7 @@ h1 {
 }
 
 .top-photo {
-    background: #282828 url('../images/Home/sh_0300s.jpg') no-repeat top center;
+    background: #282828 url('') no-repeat top center;
     min-height: 285px;
     background-size: cover;
     color: rgba(100,100,100,.9);
