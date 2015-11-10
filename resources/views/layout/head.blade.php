@@ -22,6 +22,8 @@
     <style>
         html, body {
             height: 100%;
+            margin: 0;
+            padding: 0;
         }
 
         body {
@@ -33,9 +35,6 @@
             font-family: 'Open Sans';
         }
 
-        .tablecloth {
-        }
-
         .top-photo {
             background: #fefefe no-repeat top center;
             min-height: 285px;
@@ -43,10 +42,11 @@
             color: rgba(100,100,100,.9);
         }
 
-        .container {
+        .container-fluid {
             text-align: center;
             display: table-cell;
             vertical-align: middle;
+            color: rgba(100,100,100,.9);
         }
 
         .content {

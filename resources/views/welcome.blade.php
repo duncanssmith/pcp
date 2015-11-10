@@ -8,12 +8,8 @@
             @include('layout.nav')
         @show
         <div id="content">
-            <section id="section-welcome" class="">
+            <section id="section-welcome" class="photo">
                 <div class="container">
-                    <br>
-                    <br>
-                    <br>
-                    <br>
                     <div class="row">
                         <h1 class="title">Welcome</h1>
                         <div class="col-md-3">&nbsp;</div>
@@ -46,56 +42,49 @@
                 </div>
             </section>
 
-            <section id="section-about" class="wrap">
+            <section id="section-about" class="flat">
                 <div class="container">
-                    <br>
-                    <br>
-                    <br>
-                    <br>
+
                     <div class="row">
                         <h1 class="title">About</h1>
                         <div class="col-md-3">&nbsp;</div>
                         <div class="col-md-3">
-                            <p>
-                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish,<br>
-                                beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from<br>
-                                the town centre and the seafront, Palm Court Pavilion serves delicious homemade food<br>
-                                and has a range of options for functions and events.<br>
+                            <p style="text-align:right;">
+                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
                             </p>
-                            <p>
-                                The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years<br>
-                                in disuse, the Pavilion has been given a new lease of life. The landmark building has been<br>
-                                sympathetically renovated, emphasising the natural light and an extensive outdoor decking<br>
-                                area makes the most of the beautiful park setting. Both areas of decking can be used for<br>
-                                private parties.<br>
+                        </div>
+                        <div class="col-md-6"><img src="/media/images/Home/teascones.jpg" width="400px" style="align:right;"/></div>
+                        <div class="col-md-3"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">&nbsp;</div>
+                        <div class="col-md-6"><img src="/media/images/Home/terrace.jpg" width="400px"/></div>
+                        <div class="col-md-3">
+                        <p style="text-align:left;">
+                            The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
+                        </p>
+                        </div>
+                        <div class="col-md-3"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">&nbsp;</div>
+                        <div class="col-md-3">
+                            <p style="text-align: left;">
+                                The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
+                            </p>
+                            <p style="text-align: left;">
+                                The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
                             </p>
                         </div>
                         <div class="col-md-6"><img src="/media/images/Home/teascones.jpg" width="400px"/></div>
                         <div class="col-md-3"></div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-3"></div>
-                        <div class="col-md-6"><img src="/media/images/Home/terrace.jpg" width="400px"/></div>
-                        <div class="col-md-3">
-                            <p>
-                                The upstairs function room has a balcony giving delightful views of the park and bowling<br>
-                                greens, a perfect venue for parties, meetings and events.<br>
-                            </p>
-                            <p>
-                                The outside space in the park can also be used for larger scale events of up to 1000 people,<br>
-                                ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
-                            </p>
-                        </div>
-                        <div class="col-md-3"></div>
-                    </div>
+
                 </div>
             </section>
-            <section id="section-menu" class="">
+
+            <section id="section-menu" class="photo">
                 <div class="container">
-                    <br>
-                    <br>
-                    <br>
-                    <br>
                     <div class="row">
                         <h1 class="title">Menu</h1>
                         <div class="col-md-2"></div>
@@ -151,12 +140,8 @@
                 </div>
             </section>
 
-            <section id="section-contact" class="wrap">
+            <section id="section-contact" class="flat">
                 <div class="container">
-                    <br>
-                    <br>
-                    <br>
-                    <br>
                     <div class="row">
                         <h1 class="title">Contact</h1>
                         <div class="col-md-12">
