@@ -19,6 +19,23 @@
     <script src="{{ asset('/media/js/vendor/twitter/bootstrap/js/bootstrap.min.js') }}"></script>
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script>
+        $(function() {
+            $('a[href*=#]:not([href=#carousel-example-generic])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                    var target = $(this.hash);
+                    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                    if (target.length) {
+                        $('html,body').animate({
+                            scrollTop: target.offset().top
+                        }, 600);
+                        return false;
+                    }
+                }
+            });
+        });
+    </script>
+
     <style>
         html, body {
             height: 100%;
@@ -35,12 +52,12 @@
             font-family: 'Open Sans';
         }
 
-        .top-photo {
-            background: #fefefe no-repeat top center;
-            min-height: 285px;
-            background-size: cover;
-            color: rgba(100,100,100,.9);
-        }
+        /*.top-photo {*/
+            /*background: #fefefe no-repeat top center;*/
+            /*min-height: 285px;*/
+            /*background-size: cover;*/
+            /*color: rgba(100,100,100,.9);*/
+        /*}*/
 
         .container-fluid {
             text-align: center;

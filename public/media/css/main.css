@@ -12,30 +12,33 @@ body {
 
 #section-welcome {
     background-color: rgba(122, 133, 59, 1);
-    min-height:400px;
+    min-height:285px;
+    /*background: #282828 url('/media/images/Home/pavilion.jpg') no-repeat center center;*/
+    background-size: cover;
+    color: #fff;
+    position: relative;
 }
 #section-about {
     background-color: rgba(200, 70, 60, .5);
     text-align: left;
     color: rgba(255,255,255,1);
-    min-height:400px;
+    min-height:100px;
 }
 #section-menu {
-  background-color: rgba(180, 160, 20, .4);
-    min-height:400px;
+    background-color: rgba(180, 160, 20, .4);
+    min-height:100px;
 }
 #section-contact {
     background-color: rgba(79, 89, 89, 1);
     text-align: center;
     color: rgba(255,255,255,1);
-    min-height:400px;
+    min-height:100px;
 }
 
 section.flat {
     background: rgba(100, 60, 7, .8);
     padding: 80px 20px 20px 20px;
 }
-
 section.flat > .container {
     background: rgba(100, 60, 7, .8);
     padding: 80px 20px 20px 20px;
