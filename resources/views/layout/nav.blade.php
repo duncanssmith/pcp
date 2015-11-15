@@ -7,7 +7,9 @@
                     </li>
                     <li><a href="#section-welcome">Welcome</a></li>
                     <li><a href="#section-about">About</a></li>
+                    <li><a href="#section-christmas">Christmas</a></li>
                     <li><a href="#section-menu">Menu</a></li>
+                    <li><a href="#section-gallery">Gallery</a></li>
                     <li><a href="#section-contact">Contact</a></li>
                 </ul>
             </div>

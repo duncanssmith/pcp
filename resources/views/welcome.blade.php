@@ -87,43 +87,106 @@
                 </div>
             </section>
 
+            <section id="section-christmas" class="photo">
+                <div class="container">
+                    <div class="row">
+                        <h1 class="title">Christmas</h1>
+                        <div class="col-md-12">
+                            <div class="download-pdf">
+                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-danger"><i class="fa fa-arrow-down"></i> Our booking form</a>
+                            </div>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-md-4">
+                            <div class="menu-page-1">
+                                <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" width="400px"/>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="menu-page-2">
+                                <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" width="400px"/>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                    </div>
+                </div>
+            </section>
+
             <section id="section-menu" class="photo">
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Menu</h1>
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
-                            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                            <div id="carousel-menu" class="carousel slide" data-ride="carousel">
                             <!-- Indicators -->
                                 <ol class="carousel-indicators">
-                                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                                    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="1"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="2"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="3"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="4"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="5"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="6"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/pcpMainMenu2015-2.png" />
+                                        <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" />
+                                        <div class="carousel-caption">
+                                            <h3>Christmas</h3>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" />
+                                        <div class="carousel-caption">
+                                            <h3>Christmas</h3>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/ChristmasMenu2015-11-3.png" />
+                                        <div class="carousel-caption">
+                                            <h3>Christmas</h3>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/MainMenu2015-2.png" />
                                         <div class="carousel-caption">
                                             <h3>Main menu</h3>
                                         </div>
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/pcpDrinksMenu2015-2.png" />
+                                        <img src="/media/images/Menu/DrinksMenu2015-2.png" />
                                         <div class="carousel-caption">
                                             <h3>Drinks</h3>
                                         </div>
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/pcpKidsMenu2015-2.png" />
+                                        <img src="/media/images/Menu/KidsMenu2015-2.png" />
                                         <div class="carousel-caption">
                                             <h3>Kids</h3>
                                         </div>
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/pcpWineList2015-2.png" />
+                                        <img src="/media/images/Menu/WineList2015-2.png" />
                                         <div class="carousel-caption">
                                             <h3>Winelist</h3>
                                         </div>
@@ -131,15 +194,29 @@
                                 </div>
 
                                 <!-- Controls -->
-                                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                                <a class="left carousel-control" href="#carousel-menu" role="button" data-slide="prev">
                                     <span class="glyphicon glyphicon-chevron-left"></span>
                                 </a>
-                                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                                <a class="right carousel-control" href="#carousel-menu" role="button" data-slide="next">
                                     <span class="glyphicon glyphicon-chevron-right"></span>
                                 </a>
                             </div> <!-- Carousel -->
                         </div>
                         <div class="col-md-2"></div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section id="section-gallery" class="photo">
+                <div class="container">
+                    <div class="row">
+                        <h1 class="title">Gallery</h1>
+                        <div class="col-md-12">
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
                     </div>
                 </div>
             </section>
