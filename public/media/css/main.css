@@ -1,15 +1,58 @@
 @import url(//fonts.googleapis.com/css?family=Open%20Sans:600);
 
-body {
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
     padding-top: 50px;
     margin:0;
-    font-family:'Open Sans Condensed', sans-serif;
+    font-family:'Open Sans', sans-serif;
     /*font-family:'Helvetica', sans-serif;*/
     font-weight:100;
     text-align:left;
     color: #444;
+    display: table;
 }
 
+/*.top-photo {*/
+    /*background: #fefefe no-repeat top center;*/
+    /*min-height: 285px;*/
+    /*background-size: cover;*/
+    /*color: rgba(100,100,100,.9);*/
+/*}*/
+
+.container-fluid {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    color: rgba(100,100,100,.9);
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.logo {
+    margin-top: 56px;
+    margin-right: 36px;
+    margin-bottom: 30px;
+    align-content: center;
+    align-self: center;
+}
+
+.title {
+    font-size: 64px;
+    color: rgba(255,255,255,1);
+    font-weight: 100;
+}
+
+.address {
+    font-family: Open Sans;
+    font-size: 24px;
+    line-height: 170%;
+    font-weight: 200;
+}
 #section-welcome {
     background-color: rgba(122, 133, 59, 1);
     min-height:285px;
@@ -47,27 +90,27 @@ body {
 
 section.flat {
     background: rgba(100, 60, 7, .8);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.flat > .container {
     background: rgba(100, 60, 7, .8);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.flat > .container > .row {
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
     background: rgba(100, 60, 7, .8);
 }
 
 section.photo {
     background: rgba(100, 60, 7, .1);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.photo > .container {
     background: rgba(100, 60, 7, .1);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.photo > .container > .row {
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
     background: rgba(100, 60, 7, .0);
 }
 

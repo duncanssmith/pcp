@@ -93,7 +93,7 @@
                         <h1 class="title">Christmas</h1>
                         <div class="col-md-12">
                             <div class="download-pdf">
-                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-danger"><i class="fa fa-arrow-down"></i> Our booking form</a>
+                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-danger"><i class="fa fa-download"></i> Download our Christmas menu and booking form</a>
                             </div>
                         </div>
                      </div>
@@ -213,6 +213,22 @@
                     <div class="row">
                         <h1 class="title">Gallery</h1>
                         <div class="col-md-12">
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
+                                <br><br>
                                 <br><br>
                                 <br><br>
                                 <br><br>
