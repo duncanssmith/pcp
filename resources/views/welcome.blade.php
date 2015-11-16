@@ -19,7 +19,7 @@
                                 <img src="/media/images/Home/logo.png" width="290px"/>
                                 <img src="/media/images/Home/terrace.jpg" width="290px"/>
                                 <img src="/media/images/Home/salads.jpg" width="290px"/>
-                                <img src="/media/images/Home/teascones.jpg" width="290px"/>                              
+                                <img src="/media/images/Home/teascones.jpg" width="290px"/>
                             </div>
                             <table class="main-table">
                                 <tr>
@@ -73,10 +73,10 @@
                     <div class="row">
                         <div class="col-md-3">&nbsp;</div>
                         <div class="col-md-3">
-                            <p style="text-align: left;">
+                            <p style="text-align:right;">
                                 The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
                             </p>
-                            <p style="text-align: left;">
+                            <p style="text-align:left;">
                                 The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
                             </p>
                         </div>
