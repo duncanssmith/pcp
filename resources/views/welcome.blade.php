@@ -273,7 +273,7 @@
                                     01903 212 011
                                 </p>
                                 <p class="opening-times">
-                                  Open every day from 8 am to 4:30 pm
+                                  Open daily from 8 am to 4:30 pm
                                 </p>
                             </div>
                         </div>
