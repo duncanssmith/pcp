@@ -19,7 +19,7 @@
                                 <img src="/media/images/Home/logo.png" width="290px"/>
                                 <img src="/media/images/Home/terrace.jpg" width="290px"/>
                                 <img src="/media/images/Home/salads.jpg" width="290px"/>
-                                <img src="/media/images/Home/teascones.jpg" width="290px"/>                              
+                                <img src="/media/images/Home/teascones.jpg" width="290px"/>
                             </div>
                             <table class="main-table">
                                 <tr>
@@ -169,7 +169,7 @@
                                 <br><br>
                                 <br><br>
                                 <br><br>
-                                <br><br>
+    <div id="map-canvas-london-office" class="google-map-canvas google-map-canvas-home"></div>
                                 <br><br>
                                 <br><br>
                                 <br><br>
@@ -185,7 +185,29 @@
             </section>
         </div>
     </body>
+
+
 </html>
+
+
+<script type="text/javascript" src="/js/vendor/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/plugins.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqiK_ZL8OxnvdEUfEcokCyG5P_JdHoeJY&sensor=false"></script>
+<script type="text/javascript" src="/js/public/main.js"></script>
+<script type="text/javascript" src="/js/public/home.js"></script>
+
+    <script>
+ (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+ function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+ e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+ e.src='//www.google-analytics.com/analytics.js';
+ r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+ ga('create','UA-17096113-1');ga('send','pageview');
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2bdcf2f255","applicationID":"3184818","transactionName":"blVbbRFZX0VXBUddClcfeFoXUV5YGTZSUwBKH1FWDl0=","queueTime":0,"applicationTime":40,"atts":"QhJYG1lDTEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+
+
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="js/vendor/twitter/bootstrap/js/bootstrap.min.js"></script>

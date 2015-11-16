@@ -32,32 +32,30 @@ body {
     background-color: rgba(79, 89, 89, 1);
     text-align: center;
     color: rgba(255,255,255,1);
-    min-height:100px;
+    min-height:300px;
 }
-
 section.flat {
     background: rgba(100, 60, 7, .8);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.flat > .container {
     background: rgba(100, 60, 7, .8);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.flat > .container > .row {
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
     background: rgba(100, 60, 7, .8);
 }
-
 section.photo {
     background: rgba(100, 60, 7, .1);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.photo > .container {
     background: rgba(100, 60, 7, .1);
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 section.photo > .container > .row {
-    padding: 80px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
     background: rgba(100, 60, 7, .0);
 }
 
