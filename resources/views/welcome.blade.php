@@ -8,7 +8,7 @@
             @include('layout.nav')
         @show
         <div id="content">
-            <section id="section-welcome" class="photo">
+            <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Welcome</h1>
@@ -46,7 +46,7 @@
                 </div>
             </section>
 
-            <section id="section-about" class="flat">
+            <section id="section-about" class="section flat">
                 <div class="container">
 
                     <div class="row">
@@ -87,7 +87,7 @@
                 </div>
             </section>
 
-            <section id="section-christmas" class="photo">
+            <section id="section-christmas" class="section photo">
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Christmas</h1>
@@ -129,7 +129,7 @@
                 </div>
             </section>
 
-            <section id="section-menu" class="photo">
+            <section id="section-menu" class="section photo">
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Menu</h1>
@@ -208,13 +208,33 @@
             </section>
 
 
-            <section id="section-gallery" class="photo">
+            <section id="section-gallery" class="section photo">
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Gallery</h1>
-                        <div class="col-md-12">
-                                <br><br>
-                                <br><br>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="">
+                        </div>
+                    </div>
                                 <br><br>
                                 <br><br>
                                 <br><br>
@@ -237,7 +257,7 @@
                 </div>
             </section>
 
-            <section id="section-contact" class="flat">
+            <section id="section-contact" class="section flat">
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Contact</h1>
@@ -251,6 +271,9 @@
                                     BN11 2DB<br>
                                     www.palmcourtpavilion.co.uk<br>
                                     01903 212 011
+                                </p>
+                                <p class="opening-times">
+                                  Open every day from 8 am to 4:30 pm
                                 </p>
                             </div>
                         </div>
