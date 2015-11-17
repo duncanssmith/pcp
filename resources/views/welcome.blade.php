@@ -19,7 +19,7 @@
                     <div class="row">
                         <div class="col-md-2"></div>
                         <div class="col-md-10">
-                            <div class="logo">
+<!--    <div class="logo">
                                 <img src="/media/images/Home/pavilion.jpg" width="290px"/>
                                 <img src="/media/images/Home/logo.png" width="290px"/>
                                 <img src="/media/images/Home/terrace.jpg" width="290px"/>
@@ -44,7 +44,7 @@
                                         </a>
                                     </td>
                                 </tr>
-                            </table>
+                            </table> -->
                         </div>
                     </div>
                 </div>

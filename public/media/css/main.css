@@ -72,6 +72,10 @@ html, body {
     /*background: #282828 url('/media/images/Home/pavilion.jpg') no-repeat center center;*/
     background-size: cover;
     color: #fff;
+    background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
+    min-height: 900px;
+    background-size: cover;
+    color: #fff;
 }
 #section-welcome > container > row > .title {
     font-size: 64px;
@@ -99,6 +103,12 @@ html, body {
 }
 .menu-page-2 {
   margin: 0 0 0 80px;
+}
+.top-photo {
+  background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
+  min-height: 285px;
+  background-size: cover;
+  color: #fff;
 }
 
 section.flat {
