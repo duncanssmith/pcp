@@ -11,9 +11,14 @@
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <h1 class="title">Welcome</h1>
-                        <div class="col-md-3">&nbsp;</div>
-                        <div class="col-md-6">
+                        <span class="title">Welcome</span>
+                        <a href="/" class="navbar-brand header-link">
+                            <img id="welcome-logo" src="/media/images/Home/logo.png" width="180px"/>
+                        </a>&nbsp;
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
                             <div class="logo">
                                 <img src="/media/images/Home/pavilion.jpg" width="290px"/>
                                 <img src="/media/images/Home/logo.png" width="290px"/>
@@ -41,7 +46,6 @@
                                 </tr>
                             </table>
                         </div>
-                        <div class="col-md-3">&nbsp;</div>
                     </div>
                 </div>
             </section>

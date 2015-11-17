@@ -62,16 +62,21 @@ html, body {
 
 .section {
     position: relative;
-    min-height:100px;
+    min-height:400px;
 }
 
 #section-welcome {
     background-color: rgba(122, 133, 59, 1);
     background-color: rgba(255, 255, 255, 1);
-    min-height:285px;
+    /*min-height:285px; */
     /*background: #282828 url('/media/images/Home/pavilion.jpg') no-repeat center center;*/
     background-size: cover;
     color: #fff;
+}
+#section-welcome > container > row > .title {
+    font-size: 64px;
+    color: rgba(122,133,59,1);
+    font-weight: 100;
 }
 #section-about {
     background-color: rgba(200, 70, 60, .5);
