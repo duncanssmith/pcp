@@ -62,7 +62,7 @@ html, body {
 
 .section {
     position: relative;
-    min-height:400px;
+    min-height: 400px;
 }
 
 #section-welcome {
@@ -78,7 +78,7 @@ html, body {
     color: #fff;
 }
 #section-welcome > container > row > .title {
-    font-size: 64px;
+    font-size: 44px;
     color: rgba(122,133,59,1);
     font-weight: 100;
 }
@@ -113,27 +113,27 @@ html, body {
 
 section.flat {
     background: rgba(100, 60, 7, .8);
-    padding: 20px 20px 20px 20px;
+    padding: 0px 20px 20px 20px;
 }
 section.flat > .container {
     background: rgba(100, 60, 7, .8);
-    padding: 20px 20px 20px 20px;
+    padding: 0px 20px 20px 20px;
 }
 section.flat > .container > .row {
-    padding: 20px 20px 20px 20px;
+    padding: 40px 20px 20px 20px;
     background: rgba(100, 60, 7, .8);
 }
 
 section.photo {
     background: rgba(100, 60, 7, .1);
-    padding: 20px 20px 20px 20px;
+    padding: 0px 20px 20px 20px;
 }
 section.photo > .container {
     background: rgba(100, 60, 7, .1);
-    padding: 20px 20px 20px 20px;
+    padding: 0px 20px 20px 20px;
 }
 section.photo > .container > .row {
-    padding: 20px 20px 20px 20px;
+    padding: 40px 20px 20px 20px;
     background: rgba(100, 60, 7, .0);
 }
 

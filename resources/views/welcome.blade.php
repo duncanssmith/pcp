@@ -13,7 +13,7 @@
                     <div class="row">
                         <span class="title">Welcome</span>
                         <a href="/" class="navbar-brand header-link">
-                            <img id="welcome-logo" src="/media/images/Home/logo.png" width="180px"/>
+                            <img id="welcome-logo" src="/media/images/Home/logo-transparent.png" width="280px"/>
                         </a>&nbsp;
                     </div>
                     <div class="row">
