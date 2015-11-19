@@ -33,16 +33,14 @@ html, body {
     display: inline-block;
 }
 
-.logo {
-    margin-top: 56px;
-    margin-right: 36px;
-    margin-bottom: 30px;
-    align-content: center;
-    align-self: center;
-}
-
 .title {
     font-size: 64px;
+    color: rgba(255,255,255,1);
+    font-weight: 100;
+}
+
+.title-sub {
+    font-size: 38px;
     color: rgba(255,255,255,1);
     font-weight: 100;
 }
@@ -59,31 +57,28 @@ html, body {
     line-height: 170%;
     font-weight: 200;
 }
+.banner, a {
+    background-color: rgba(255,255,255,0.1);
+}
 
 .section {
     position: relative;
-    min-height: 400px;
+    min-height: 900px;
 }
-
 #section-welcome {
-    background-color: rgba(122, 133, 59, 1);
-    background-color: rgba(255, 255, 255, 1);
+    /*background-color: rgba(122, 133, 59, 1);*/
+    /*background-color: rgba(255, 255, 255, 1);*/
     /*min-height:285px; */
     /*background: #282828 url('/media/images/Home/pavilion.jpg') no-repeat center center;*/
     background-size: cover;
     color: #fff;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
-    min-height: 900px;
     background-size: cover;
     color: #fff;
 }
-#section-welcome > container > row > .title {
-    font-size: 44px;
-    color: rgba(122,133,59,1);
-    font-weight: 100;
-}
 #section-about {
-    background-color: rgba(200, 70, 60, .5);
+    background-color: rgba(255,255,255,0.1);
+    /*background-color: rgba(200, 70, 60, .0);*/
     text-align: left;
     color: rgba(255,255,255,1);
 }
@@ -113,7 +108,7 @@ html, body {
 
 section.flat {
     background: rgba(100, 60, 7, .8);
-    padding: 0px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
 }
 section.flat > .container {
     background: rgba(100, 60, 7, .8);
@@ -125,11 +120,11 @@ section.flat > .container > .row {
 }
 
 section.photo {
-    background: rgba(100, 60, 7, .1);
+    background: rgba(100, 60, 7, 1);
     padding: 0px 20px 20px 20px;
 }
 section.photo > .container {
-    background: rgba(100, 60, 7, .1);
+    background: rgba(200, 200, 200, .2);
     padding: 0px 20px 20px 20px;
 }
 section.photo > .container > .row {

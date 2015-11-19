@@ -11,41 +11,12 @@
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <span class="title">Welcome to Palm Court Pavilion</span>
-                        <a href="/" class="navbar-brand header-link">
+                            <span class="title">Welcome to Palm Court Pavilion</span>
                             <img id="welcome-logo" src="/media/images/Home/logo-transparent.png" width="280px"/>
-                        </a>&nbsp;
                     </div>
                     <div class="row">
                         <div class="col-md-2"></div>
-                        <div class="col-md-10">
-<!--    <div class="logo">
-                                <img src="/media/images/Home/pavilion.jpg" width="290px"/>
-                                <img src="/media/images/Home/logo.png" width="290px"/>
-                                <img src="/media/images/Home/terrace.jpg" width="290px"/>
-                                <img src="/media/images/Home/salads.jpg" width="290px"/>
-                                <img src="/media/images/Home/teascones.jpg" width="290px"/>
-                            </div>
-                            <table class="main-table">
-                                <tr>
-                                    <td colspan="1">
-                                        <a href="/menu" alt="Al fresco dining at Palm Court Pavilion" title="Dining outdoors at Palm Court Pavilion">
-                                            <img src="/media/images/Home/terrace.jpg" width="290px"/>
-                                        </a>
-                                    </td>
-                                    <td>
-                                        <a href="/menu" alt="Summer salads at Palm Court Pavilion" title="Delicious summer salads at Palm Court Pavilion">
-                                            <img src="/media/images/Home/salads.jpg" width="290px"/>
-                                        </a>
-                                    </td>
-                                    <td>
-                                        <a href="/menu" alt="Cream Teas at Palm Court Pavilion" title="Cream teas with jam and scones at Palm Court Pavilion">
-                                            <img src="/media/images/Home/teascones.jpg" width="290px"/>
-                                        </a>
-                                    </td>
-                                </tr>
-                            </table> -->
-                        </div>
+                        <div class="col-md-10"></div>
                     </div>
                 </div>
             </section>
@@ -54,7 +25,7 @@
                 <div class="container">
 
                     <div class="row">
-                        <h1 class="title">About</h1>
+                        <h1 class="title">About us</h1>
                         <div class="col-md-3">&nbsp;</div>
                         <div class="col-md-3">
                             <p style="text-align:right;">
@@ -74,6 +45,7 @@
                         </div>
                         <div class="col-md-3"></div>
                     </div>
+
                     <div class="row">
                         <div class="col-md-3">&nbsp;</div>
                         <div class="col-md-3">
@@ -88,6 +60,56 @@
                         <div class="col-md-3"></div>
                     </div>
 
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gBar.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gOffer2.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gCocktail.jpg" width="400px">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gCoffeeMachine.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gGlasses.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gFacade.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gTable.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gTerrace.jpg" width="400px">
+                        </div>
+                    </div>
+                        <div class="col-md-12">
+                            <div class="address-box">
+                                <p class="address">
+                                    Palm Court Pavilion<br>
+                                    Beach House Park<br>
+                                    Lyndhurst Road<br>
+                                    Worthing<br>
+                                    BN11 2DB<br>
+                                    www.palmcourtpavilion.co.uk<br>
+                                    01903 212 011
+                                </p>
+                                <p class="opening-times">
+                                  Open daily from 8 am to 4:30 pm
+                                </p>
+                            </div>
+                    </div>
+
                 </div>
             </section>
 
@@ -95,54 +117,39 @@
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Christmas</h1>
-                        <div class="col-md-12">
-                            <div class="download-pdf">
-                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-danger"><i class="fa fa-download"></i> Download our Christmas menu and booking form</a>
-                            </div>
+                        <div class="col-md-4"></div>
+                        <div class="col-md-8">
+                            <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-success pull-right"><i class="fa fa-download"></i> Download our Christmas booking form</a>
                         </div>
                      </div>
                      <div class="row">
                         <div class="col-md-4">
-                            <div class="menu-page-1">
+                            <div class="menu-page-1 pull-left">
                                 <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" width="400px"/>
                             </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="menu-page-2">
+                        <div class="col-md-8">
+                            <div class="menu-page-2 pull-right">
                                 <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" width="400px"/>
                             </div>
                         </div>
-                        <div class="col-md-2"></div>
                                 <br><br>
                                 <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                    </div>
+                     </div>
                 </div>
             </section>
 
             <section id="section-menu" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <h1 class="title">Menu</h1>
+                        <h1 class="title">Our menu</h1>
                         <div class="col-md-2">
-                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Christmas menu </a><br>
-                                <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Main menu </a><br>
-                                <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Drinks </a><br>
-                                <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Wine list </a><br>
-                                <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Children's menu </a><br>
+                            <h4 class="title-sub">Download</h4>
+                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Christmas Menu</a><br>
+                                <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Main menu </a><br>
+                                <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Drinks </a><br>
+                                <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Wine list </a><br>
+                                <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Kid's menu </a><br>
                         </div>
                         <div class="col-md-8">
                             <div id="carousel-menu" class="carousel slide" data-ride="carousel">
@@ -157,40 +164,21 @@
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
-                                  <!--  <div class="item active">
-                                        <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" />
-                                        <div class="carousel-caption">
-                                        </div>
-                                    </div>
-                                  -->
                                     <div class="item active">
                                         <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" />
                                         <div class="carousel-caption"></div>
                                     </div>
-                                  <!--  <div class="item">
-                                        <img src="/media/images/Menu/ChristmasMenu2015-11-3.png" />
-                                        <div class="carousel-caption">
-                                            <h3>Christmas</h3>
-                                        </div>
-                                    </div>
-                                   -->
                                     <div class="item">
                                         <img src="/media/images/Menu/MainMenu2015-2.png" />
-                                        <div class="carousel-caption"></div>
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/DrinksMenu2015-2.png" />
-                                        <div class="carousel-caption">
-                                            <h3>Drinks</h3>
-                                        </div>
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/KidsMenu2015-2.png" />
-                                        <div class="carousel-caption"> <h3></h3> </div>
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/WineList2015-2.png" />
-                                        <div class="carousel-caption"> <h3></h3> </div>
                                     </div>
                                 </div>
 
@@ -230,10 +218,10 @@
                             <img src="/media/images/Home/gCoffeeMachine.jpg" width="400px">
                         </div>
                         <div class="col-md-4">
-                            <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
+                            <img src="/media/images/Home/gGlasses.jpg" width="400px">
                         </div>
                         <div class="col-md-4">
-                            <img src="/media/images/Home/gGlasses.jpg" width="400px">
+                            <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
                         </div>
                     </div>
                     <div class="row">
@@ -247,21 +235,13 @@
                             <img src="/media/images/Home/gTerrace.jpg" width="400px">
                         </div>
                     </div>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                    </div>
                 </div>
             </section>
 
             <section id="section-contact" class="section flat">
                 <div class="container">
                     <div class="row">
-                        <h1 class="title">Contact</h1>
+                        <h1 class="title">Find us</h1>
                         <div class="col-md-12">
                             <div class="address-box">
                                 <p class="address">
