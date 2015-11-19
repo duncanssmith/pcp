@@ -11,8 +11,8 @@
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                            <span class="title">Welcome to Palm Court Pavilion</span>
-                            <img id="welcome-logo" src="/media/images/Home/logo-transparent.png" width="280px"/>
+                            <h1 class="title pull-right">Welcome</h1>
+                            <img id="welcome-logo" class="pull-right" src="/media/images/Home/logo-transparent.png" width="480px"/>
                     </div>
                     <div class="row">
                         <div class="col-md-2"></div>
@@ -23,43 +23,10 @@
 
             <section id="section-about" class="section flat">
                 <div class="container">
-
                     <div class="row">
-                        <h1 class="title">About us</h1>
-                        <div class="col-md-3">&nbsp;</div>
-                        <div class="col-md-3">
-                            <p style="text-align:right;">
-                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
-                            </p>
-                        </div>
-                        <div class="col-md-6"><img src="/media/images/Home/teascones.jpg" width="400px" style="align:right;"/></div>
-                        <div class="col-md-3"></div>
+                        <h1 class="title pull-right">About us</h1>
                     </div>
-                    <div class="row">
-                        <div class="col-md-3">&nbsp;</div>
-                        <div class="col-md-6"><img src="/media/images/Home/terrace.jpg" width="400px"/></div>
-                        <div class="col-md-3">
-                        <p style="text-align:left;">
-                            The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
-                        </p>
-                        </div>
-                        <div class="col-md-3"></div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-3">&nbsp;</div>
-                        <div class="col-md-3">
-                            <p style="text-align:right;">
-                                The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
-                            </p>
-                            <p style="text-align:left;">
-                                The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
-                            </p>
-                        </div>
-                        <div class="col-md-6"><img src="/media/images/Home/teascones.jpg" width="400px"/></div>
-                        <div class="col-md-3"></div>
-                    </div>
-
+<!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row">
                         <div class="col-md-4">
                             <img src="/media/images/Home/gBar.jpg" width="400px">
@@ -71,6 +38,9 @@
                             <img src="/media/images/Home/gCocktail.jpg" width="400px">
                         </div>
                     </div>
+<!-- //////////////////////////////////////////////////////////////////////////////////-->
+
+<!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row">
                         <div class="col-md-4">
                             <img src="/media/images/Home/gCoffeeMachine.jpg" width="400px">
@@ -82,6 +52,7 @@
                             <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
                         </div>
                     </div>
+<!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row">
                         <div class="col-md-4">
                             <img src="/media/images/Home/gFacade.jpg" width="400px">
@@ -93,8 +64,9 @@
                             <img src="/media/images/Home/gTerrace.jpg" width="400px">
                         </div>
                     </div>
-                        <div class="col-md-12">
-                            <div class="address-box">
+<!-- //////////////////////////////////////////////////////////////////////////////////-->
+                    <div class="row photo-float">
+                        <div class="col-md-4">
                                 <p class="address">
                                     Palm Court Pavilion<br>
                                     Beach House Park<br>
@@ -104,10 +76,26 @@
                                     www.palmcourtpavilion.co.uk<br>
                                     01903 212 011
                                 </p>
-                                <p class="opening-times">
+                                <p class="address">
                                   Open daily from 8 am to 4:30 pm
                                 </p>
-                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <p class="float-text" style="text-align:left;">
+                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
+                            </p>
+                            <p class="float-text" style="text-align:left;">
+                                The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
+                            </p>
+                        </div>
+                        <div class="col-md-4">
+                            <p class="float-text" style="text-align:left;">
+                                The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
+                            </p>
+                            <p class="float-text" style="text-align:justify;">
+                                The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
+                            </p>
+                        </div>
                     </div>
 
                 </div>
@@ -125,12 +113,12 @@
                      <div class="row">
                         <div class="col-md-4">
                             <div class="menu-page-1 pull-left">
-                                <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" width="400px"/>
+                                <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" width="480px"/>
                             </div>
                         </div>
                         <div class="col-md-8">
                             <div class="menu-page-2 pull-right">
-                                <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" width="400px"/>
+                                <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" width="480px"/>
                             </div>
                         </div>
                                 <br><br>
@@ -192,91 +180,6 @@
                             </div> <!-- Carousel -->
                         </div>
                         <div class="col-md-2"></div>
-                    </div>
-                </div>
-            </section>
-
-
-            <section id="section-gallery" class="section photo">
-                <div class="container">
-                    <div class="row">
-                        <h1 class="title">Gallery</h1>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gBar.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gOffer2.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gCocktail.jpg" width="400px">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gCoffeeMachine.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gGlasses.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gFacade.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gTable.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gTerrace.jpg" width="400px">
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section id="section-contact" class="section flat">
-                <div class="container">
-                    <div class="row">
-                        <h1 class="title">Find us</h1>
-                        <div class="col-md-12">
-                            <div class="address-box">
-                                <p class="address">
-                                    Palm Court Pavilion<br>
-                                    Beach House Park<br>
-                                    Lyndhurst Road<br>
-                                    Worthing<br>
-                                    BN11 2DB<br>
-                                    www.palmcourtpavilion.co.uk<br>
-                                    01903 212 011
-                                </p>
-                                <p class="opening-times">
-                                  Open daily from 8 am to 4:30 pm
-                                </p>
-                            </div>
-                        </div>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
                     </div>
                 </div>
             </section>
