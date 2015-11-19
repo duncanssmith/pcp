@@ -11,7 +11,7 @@
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <span class="title">Welcome</span>
+                        <span class="title">Welcome to Palm Court Pavilion</span>
                         <a href="/" class="navbar-brand header-link">
                             <img id="welcome-logo" src="/media/images/Home/logo-transparent.png" width="280px"/>
                         </a>&nbsp;
@@ -137,7 +137,13 @@
                 <div class="container">
                     <div class="row">
                         <h1 class="title">Menu</h1>
-                        <div class="col-md-2"></div>
+                        <div class="col-md-2">
+                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Christmas menu </a><br>
+                                <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Main menu </a><br>
+                                <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Drinks </a><br>
+                                <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Wine list </a><br>
+                                <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="btn btn-default"><i class="fa fa-download"></i> Children's menu </a><br>
+                        </div>
                         <div class="col-md-8">
                             <div id="carousel-menu" class="carousel slide" data-ride="carousel">
                             <!-- Indicators -->
@@ -147,35 +153,30 @@
                                     <li data-target="#carousel-menu" data-slide-to="2"></li>
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="5"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="6"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
-                                    <div class="item active">
+                                  <!--  <div class="item active">
                                         <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" />
                                         <div class="carousel-caption">
-                                            <h3>Christmas</h3>
                                         </div>
                                     </div>
-                                    <div class="item">
+                                  -->
+                                    <div class="item active">
                                         <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" />
-                                        <div class="carousel-caption">
-                                            <h3>Christmas</h3>
-                                        </div>
+                                        <div class="carousel-caption"></div>
                                     </div>
-                                    <div class="item">
+                                  <!--  <div class="item">
                                         <img src="/media/images/Menu/ChristmasMenu2015-11-3.png" />
                                         <div class="carousel-caption">
                                             <h3>Christmas</h3>
                                         </div>
                                     </div>
+                                   -->
                                     <div class="item">
                                         <img src="/media/images/Menu/MainMenu2015-2.png" />
-                                        <div class="carousel-caption">
-                                            <h3>Main menu</h3>
-                                        </div>
+                                        <div class="carousel-caption"></div>
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/DrinksMenu2015-2.png" />
@@ -185,15 +186,11 @@
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/KidsMenu2015-2.png" />
-                                        <div class="carousel-caption">
-                                            <h3>Kids</h3>
-                                        </div>
+                                        <div class="carousel-caption"> <h3></h3> </div>
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/WineList2015-2.png" />
-                                        <div class="carousel-caption">
-                                            <h3>Winelist</h3>
-                                        </div>
+                                        <div class="carousel-caption"> <h3></h3> </div>
                                     </div>
                                 </div>
 
@@ -219,37 +216,37 @@
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="">
+                            <img src="/media/images/Home/gBar.jpg" width="400px">
                         </div>
                         <div class="col-md-4">
-                            <img src="">
+                            <img src="/media/images/Home/gOffer2.jpg" width="400px">
                         </div>
                         <div class="col-md-4">
-                            <img src="">
+                            <img src="/media/images/Home/gCocktail.jpg" width="400px">
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="">
+                            <img src="/media/images/Home/gCoffeeMachine.jpg" width="400px">
                         </div>
                         <div class="col-md-4">
-                            <img src="">
+                            <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
                         </div>
                         <div class="col-md-4">
-                            <img src="">
+                            <img src="/media/images/Home/gGlasses.jpg" width="400px">
                         </div>
                     </div>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
-                                <br><br>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gFacade.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gTable.jpg" width="400px">
+                        </div>
+                        <div class="col-md-4">
+                            <img src="/media/images/Home/gTerrace.jpg" width="400px">
+                        </div>
+                    </div>
                                 <br><br>
                                 <br><br>
                                 <br><br>
