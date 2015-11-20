@@ -107,7 +107,7 @@
                         <h1 class="title">Christmas</h1>
                         <div class="col-md-4"></div>
                         <div class="col-md-8">
-                            <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-success pull-right"><i class="fa fa-download"></i> Download our Christmas booking form</a>
+                            <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-success pull-right" target="_blank"><i class="fa fa-download"></i> Download our Christmas booking form</a>
                         </div>
                      </div>
                      <div class="row">
