@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Open%20Sans:600);
 
 html, body {
-    background-color: rgba(100,100,100,0.9);
+    background-color: rgba(100,70,7,0.8);
     height: 100%;
     width: 100%;
     padding: 0;
@@ -17,7 +17,8 @@ html, body {
     text-align: center;
     display: table-cell;
     vertical-align: middle;
-    color: rgba(100,100,100,.9);
+    color: rgba(255,255,255,.7);
+    width: inherit;
 }
 
 .content {
@@ -51,7 +52,7 @@ html, body {
     font-weight: 200;
 }
 .banner, a {
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(190,190,190, .1);
 }
 .section {
     position: relative;
@@ -88,18 +89,18 @@ html, body {
   margin: 0 0 0 80px;
 }
 .top-photo {
-  background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
+  background: #eee url('../images/Home/gOffer1.jpg') no-repeat center center;
   min-height: 285px;
   background-size: cover;
   color: #fff;
 }
 
 section.flat {
-    background: rgba(100, 60, 7, .8);
+    background: rgba(230, 230, 230, .6);
     padding: 0px 0px 0px 0px;
 }
 section.flat > .container {
-    background: rgba(100, 60, 7, .8);
+    background: rgba(230, 230, 230, .4);
     padding: 0px 20px 20px 20px;
     padding: 0px 0px 0px 0px;
 }
@@ -107,11 +108,11 @@ section.flat > .container > .photo-float {
     /*padding: 40px 20px 20px 20px;*/
     padding: 30px 0px 30px 0px;
     min-height: 285px;
-    background: #282828 url('../images/Home/gOffer2.jpg') no-repeat center center;
+    background: #ccc url('../images/Home/gOffer2.jpg') no-repeat center center;
 }
 
 .photo-float {
-  background: #282828 url('../images/Home/gOffer2.jpg') no-repeat center center;
+  background: #ddd url('../images/Home/gOffer2.jpg') no-repeat center center;
 }
 p.float-text {
     margin: 10px;
@@ -121,6 +122,7 @@ p.float-text {
 }
 
 section.photo {
+    /*background: rgba(180, 160, 20, 1);*/
     background: rgba(180, 160, 20, 1);
     padding: 0px 0px 0px 0px;
 }
