@@ -113,12 +113,12 @@
                      <div class="row">
                         <div class="col-md-4">
                             <div class="menu-page-1 pull-left">
-                                <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" width="480px"/>
+                                <img src="/media/images/Menu/ChristmasMenu2015-11-2a.png" width="480px"/>
                             </div>
                         </div>
                         <div class="col-md-8">
                             <div class="menu-page-2 pull-right">
-                                <img src="/media/images/Menu/ChristmasMenu2015-11-1.png" width="480px"/>
+                                <img src="/media/images/Menu/ChristmasMenu2015-11-1a.png" width="480px"/>
                             </div>
                         </div>
                                 <br><br>
@@ -153,7 +153,7 @@
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/ChristmasMenu2015-11-2.png" />
+                                        <img src="/media/images/Menu/ChristmasMenu2015-11-2a.png" />
                                         <div class="carousel-caption"></div>
                                     </div>
                                     <div class="item">

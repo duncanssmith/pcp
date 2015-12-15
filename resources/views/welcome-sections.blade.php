@@ -1,4 +1,3 @@
-
             <section id="section-gallery" class="section photo">
                 <div class="container">
                     <div class="row">

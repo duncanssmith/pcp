@@ -35,10 +35,4 @@
             });
         });
     </script>
-
-    <style>
-
-
-    </style>
-
 </head>

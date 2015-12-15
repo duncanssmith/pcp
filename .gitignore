@@ -3,4 +3,5 @@
 Homestead.yaml
 .env
 /public/media/orig
+.idea/*
 
