@@ -76,7 +76,7 @@
                                     www.palmcourtpavilion.co.uk<br>
                                     01903 212 011
                                 </p>
-                                <p class="address">
+                                <p class="address float-text">
                                   Open daily from 8 am to 4:30 pm
                                 </p>
                         </div>
