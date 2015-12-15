@@ -67,7 +67,7 @@
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row photo-float">
                         <div class="col-md-4">
-                                <p class="address">
+                                <p class="address float-text">
                                     Palm Court Pavilion<br>
                                     Beach House Park<br>
                                     Lyndhurst Road<br>
