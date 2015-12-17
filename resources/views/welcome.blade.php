@@ -11,8 +11,10 @@
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                            <h1 class="title pull-right">Welcome</h1>
+                        <div class="col-md-12">
+                            <h1 class="title">Welcome</h1>
                             <img id="welcome-logo" class="pull-right" src="/media/images/Home/logo-transparent.png" width="480px"/>
+                        </div>
                     </div>
                     <div class="row">
                         <div class="col-md-2"></div>
@@ -24,7 +26,9 @@
             <section id="section-about" class="section flat">
                 <div class="container">
                     <div class="row">
-                        <h1 class="title pull-right">About us</h1>
+                        <div class="col-md-12">
+                            <h1 class="title">About us</h1>
+                        </div>
                     </div>
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row">
@@ -76,9 +80,7 @@
                                     www.palmcourtpavilion.co.uk<br>
                                     01903 212 011
                                 </p>
-                                <p class="address float-text">
-                                  Open daily from 8 am to 4:30 pm
-                                </p>
+                                <p class="address float-text"> Open daily 8am to 4:30pm </p>
                         </div>
                         <div class="col-md-4">
                             <p class="float-text" style="text-align:left;">
@@ -104,7 +106,9 @@
             <section id="section-christmas" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <h1 class="title">Christmas</h1>
+                        <div class="col-md-12">
+                            <h1 class="title">Christmas</h1>
+                        </div>
                         <div class="col-md-4"></div>
                         <div class="col-md-8">
                             <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-success pull-right" target="_blank"><i class="fa fa-download"></i> Download our Christmas booking form</a>
@@ -130,7 +134,9 @@
             <section id="section-menu" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <h1 class="title">Our menu</h1>
+                        <div class="col-md-12">
+                            <h1 class="title">Our menu</h1>
+                        </div>
                         <div class="col-md-2">
                             <h4 class="title-sub">Download</h4>
                                 <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Christmas Menu</a><br>
