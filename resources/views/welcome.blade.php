@@ -12,7 +12,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="title">Welcome</h1>
+                            <h1 class="title pull-right">Welcome</h1>
                             <img id="welcome-logo" class="pull-right" src="/media/images/Home/logo-transparent.png" width="480px"/>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="title">About us</h1>
+                            <h1 class="title pull-right">About us</h1>
                         </div>
                     </div>
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
@@ -107,7 +107,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="title">Christmas</h1>
+                            <h1 class="title pull-right">Christmas</h1>
                         </div>
                         <div class="col-md-4"></div>
                         <div class="col-md-8">
@@ -135,15 +135,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="title">Our menu</h1>
+                            <h1 class="title pull-right">Our menu</h1>
                         </div>
                         <div class="col-md-2">
-                            <h4 class="title-sub">Download</h4>
-                                <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Christmas Menu</a><br>
-                                <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Main menu </a><br>
-                                <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Drinks </a><br>
-                                <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Wine list </a><br>
-                                <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Kid's menu </a><br>
+
                         </div>
                         <div class="col-md-8">
                             <div id="carousel-menu" class="carousel slide" data-ride="carousel">
@@ -185,7 +180,14 @@
                                 </a>
                             </div> <!-- Carousel -->
                         </div>
-                        <div class="col-md-2"></div>
+                        <div class="col-md-2">
+                            <h4 class="title-sub pull-right">Download</h4>
+                            <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Christmas Menu</a><br>
+                            <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Main menu </a><br>
+                            <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Drinks </a><br>
+                            <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Wine list </a><br>
+                            <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Kid's menu </a><br>
+                        </div>
                     </div>
                 </div>
             </section>
