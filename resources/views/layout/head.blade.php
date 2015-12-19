@@ -21,88 +21,18 @@
     <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
     <script>
         $(function() {
-            $('a[href*=#]:not([href=#carousel-example-generic])').click(function() {
+            $('a[href*=#]:not([href=#carousel-menu])').click(function() {
                 if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
                     var target = $(this.hash);
                     target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
                     if (target.length) {
                         $('html,body').animate({
                             scrollTop: target.offset().top
-                        }, 600);
+                        }, 800);
                         return false;
                     }
                 }
             });
         });
     </script>
-
-    <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            display: table;
-            font-weight: 100;
-            font-family: 'Open Sans';
-        }
-
-        /*.top-photo {*/
-            /*background: #fefefe no-repeat top center;*/
-            /*min-height: 285px;*/
-            /*background-size: cover;*/
-            /*color: rgba(100,100,100,.9);*/
-        /*}*/
-
-        .container-fluid {
-            text-align: center;
-            display: table-cell;
-            vertical-align: middle;
-            color: rgba(100,100,100,.9);
-        }
-
-        .content {
-            text-align: center;
-            display: inline-block;
-        }
-
-        .title1 {
-            font-size: 72pt;
-            font-weight: 100;
-          }
-
-        .logo {
-            margin-top: 56px;
-            margin-right: 36px;
-            margin-bottom: 30px;
-            align-content: center;
-            align-self: center;
-        }
-
-        .title {
-            font-size: 64px;
-            color: #8a6;
-            font-weight: 100;
-        }
-
-        .title2 {
-            font-size: 24px;
-            color: #684;
-            font-weight: 100;
-        }
-
-        .address {
-            font-family: Open Sans;
-            font-size: 24px;
-            line-height: 170%;
-            font-weight: 200;
-        }
-
-    </style>
-
 </head>

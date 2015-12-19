@@ -1,64 +1,139 @@
 @import url(//fonts.googleapis.com/css?family=Open%20Sans:600);
 
-body {
-    padding-top: 50px;
-    margin:0;
-    font-family:'Open Sans Condensed', sans-serif;
-    /*font-family:'Helvetica', sans-serif;*/
+html, body {
+    background-color: rgba(100,70,7,0.8);
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family:'Open Sans', sans-serif;
     font-weight:100;
     text-align:left;
-    color: #444;
+    color: #fff;
+    display: table;
 }
 
+.container-fluid {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    color: rgba(255,255,255,.7);
+    width: inherit;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.title {
+    font-size: 64px;
+    color: rgba(255,255,255,1);
+    font-weight: 100;
+}
+
+.title-sub {
+    font-size: 38px;
+    color: rgba(255,255,255,1);
+    font-weight: 100;
+}
+
+.address {
+    background-color: rgba(255, 255, 255, .35);
+    font-family: Open Sans;
+    font-size: 24px;
+    line-height: 170%;
+    font-weight: 200;
+}
+.opening-times {
+    font-family: Open Sans;
+    font-size: 24px;
+    line-height: 170%;
+    font-weight: 200;
+}
+.banner, a {
+    background-color: rgba(190,190,190, .1);
+}
+.section {
+    position: relative;
+    min-height: 900px;
+}
+#welcome-logo {
+    margin-top: 20px;
+}
 #section-welcome {
-    background-color: rgba(122, 133, 59, 1);
-    min-height:285px;
-    /*background: #282828 url('/media/images/Home/pavilion.jpg') no-repeat center center;*/
+    padding-top: 40px;
+    background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
-    position: relative;
 }
 #section-about {
-    background-color: rgba(200, 70, 60, .5);
+    padding-top: 40px;
+    background-color: rgba(255,255,255,0.1);
     text-align: left;
     color: rgba(255,255,255,1);
-    min-height:100px;
 }
 #section-menu {
+    padding-top: 40px;
+    background-color: rgba(122, 133, 59, .4);
     background-color: rgba(180, 160, 20, .4);
-    min-height:100px;
 }
-#section-contact {
-    background-color: rgba(79, 89, 89, 1);
-    text-align: center;
-    color: rgba(255,255,255,1);
-    min-height:100px;
+#section-christmas {
+    padding-top: 40px;
+    background-color: rgba(180, 160, 20, .4);
+}
+.menu-page-1 {
+  margin: 0 80px 0 0;
+}
+.menu-page-2 {
+  margin: 0 0 0 80px;
+}
+.top-photo {
+  background: #eee url('../images/Home/gOffer1.jpg') no-repeat center center;
+  min-height: 285px;
+  background-size: cover;
+  color: #fff;
 }
 
 section.flat {
-    background: rgba(100, 60, 7, .8);
-    padding: 80px 20px 20px 20px;
+    background: rgba(230, 230, 230, .6);
+    padding: 0px 0px 0px 0px;
 }
 section.flat > .container {
-    background: rgba(100, 60, 7, .8);
-    padding: 80px 20px 20px 20px;
+    background: rgba(230, 230, 230, .4);
+    padding: 0px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
 }
-section.flat > .container > .row {
-    padding: 80px 20px 20px 20px;
-    background: rgba(100, 60, 7, .8);
+section.flat > .container > .photo-float {
+    /*padding: 40px 20px 20px 20px;*/
+    padding: 30px 0px 30px 0px;
+    min-height: 285px;
+    background: #ccc url('../images/Home/gOffer2.jpg') no-repeat center center;
+}
+
+.photo-float {
+  background: #ddd url('../images/Home/gOffer2.jpg') no-repeat center center;
+}
+p.float-text {
+    margin: 10px;
+    padding: 20px;
+    color: rgba(50,55,55,1);
+    background: rgba(255, 255, 255, 0.80);
 }
 
 section.photo {
-    background: rgba(100, 60, 7, .1);
-    padding: 80px 20px 20px 20px;
+    /*background: rgba(180, 160, 20, 1);*/
+    background: rgba(180, 160, 20, 1);
+    padding: 0px 0px 0px 0px;
 }
 section.photo > .container {
-    background: rgba(100, 60, 7, .1);
-    padding: 80px 20px 20px 20px;
+    background: rgba(255, 255, 255, .2);
+    padding: 0px 0px 0px 0px;
 }
 section.photo > .container > .row {
-    padding: 80px 20px 20px 20px;
+    padding: 0px 0px 0px 0px;
     background: rgba(100, 60, 7, .0);
+    background: rgba(200, 200, 200, .0);
 }
 
 .welcome {
