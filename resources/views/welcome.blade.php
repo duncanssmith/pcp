@@ -30,6 +30,37 @@
                             <h1 class="title pull-right">About us</h1>
                         </div>
                     </div>
+                    <div class="row photo-float">
+                        <div class="col-md-4">
+                                <p class="address float-text">
+                                    Palm Court Pavilion<br>
+                                    Beach House Park<br>
+                                    Lyndhurst Road<br>
+                                    Worthing<br>
+                                    BN11 2DB<br>
+                                    www.palmcourtpavilion.co.uk<br>
+                                    01903 212 011
+                                </p>
+                                <p class="address float-text"> Open daily 8am to 4:30pm </p>
+                        </div>
+                        <div class="col-md-4">
+                            <p class="float-text" style="text-align:left;">
+                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
+                            </p>
+                            <p class="float-text" style="text-align:left;">
+                                The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
+                            </p>
+                        </div>
+                        <div class="col-md-4">
+                            <p class="float-text" style="text-align:left;">
+                                The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
+                            </p>
+                            <p class="float-text" style="text-align:justify;">
+                                The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
+                            </p>
+                        </div>
+                    </div>
+
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row">
                         <div class="col-md-4">
@@ -69,36 +100,7 @@
                         </div>
                     </div>
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
-                    <div class="row photo-float">
-                        <div class="col-md-4">
-                                <p class="address float-text">
-                                    Palm Court Pavilion<br>
-                                    Beach House Park<br>
-                                    Lyndhurst Road<br>
-                                    Worthing<br>
-                                    BN11 2DB<br>
-                                    www.palmcourtpavilion.co.uk<br>
-                                    01903 212 011
-                                </p>
-                                <p class="address float-text"> Open daily 8am to 4:30pm </p>
-                        </div>
-                        <div class="col-md-4">
-                            <p class="float-text" style="text-align:left;">
-                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
-                            </p>
-                            <p class="float-text" style="text-align:left;">
-                                The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
-                            </p>
-                        </div>
-                        <div class="col-md-4">
-                            <p class="float-text" style="text-align:left;">
-                                The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
-                            </p>
-                            <p class="float-text" style="text-align:justify;">
-                                The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
-                            </p>
-                        </div>
-                    </div>
+
 
                 </div>
             </section>
