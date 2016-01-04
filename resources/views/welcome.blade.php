@@ -123,6 +123,7 @@
                                 </ol>
 
                                 <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
                                     <div class="item active">
                                         <img src="/media/images/Menu/MainMenu2015-2.png" />
                                         <div class="carousel-caption"></div>
