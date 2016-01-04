@@ -1,4 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Open%20Sans:600);
+@import url(//fonts.googleapis.com/css?family=Lora:400);
+@import url(//fonts.googleapis.com/css?family=Oswald:400);
 
 html, body {
     background-color: rgba(100,70,7,0.8);
@@ -6,8 +8,8 @@ html, body {
     width: 100%;
     padding: 0;
     margin: 0;
-    font-family:'Open Sans', sans-serif;
-    font-weight:100;
+    font-family:'Oswald', sans-serif;
+    font-weight: 100;
     text-align:left;
     color: #fff;
     display: table;
@@ -27,8 +29,9 @@ html, body {
 }
 
 .title {
+    padding: 80px 0 80px 0;
     font-size: 64px;
-    color: rgba(255,255,255,1);
+    color: rgba(255,255,255,.49);
     font-weight: 100;
 }
 
@@ -44,6 +47,7 @@ html, body {
     font-size: 24px;
     line-height: 170%;
     font-weight: 200;
+
 }
 .opening-times {
     font-family: Open Sans;
@@ -78,7 +82,7 @@ html, body {
     background-color: rgba(122, 133, 59, .4);
     background-color: rgba(180, 160, 20, .4);
 }
-#section-christmas {
+#section-views {
     padding-top: 40px;
     background-color: rgba(180, 160, 20, .4);
 }
@@ -97,14 +101,13 @@ html, body {
 
 section.flat {
     background: rgba(230, 230, 230, .6);
-    padding: 0 0 0 0;
+    padding: 0;
 }
 section.flat > .container {
     background: rgba(230, 230, 230, .4);
-    padding: 0 0 0 0;
+    padding: 0;
 }
 section.flat > .container > .photo-float {
-    /*padding: 40px 20px 20px 20px;*/
     padding: 30px 0px 30px 0px;
     min-height: 285px;
     background: #ccc url('../images/Home/gOffer2.jpg') no-repeat center center;
@@ -114,6 +117,7 @@ section.flat > .container > .photo-float {
   background: #ddd url('../images/Home/gOffer2.jpg') no-repeat center center;
 }
 p.float-text {
+    text-align: left;
     margin: 10px;
     padding: 20px;
     color: rgba(50,55,55,1);
@@ -125,10 +129,10 @@ section.photo {
 }
 section.photo > .container {
     background: rgba(255, 255, 255, .2);
-    padding: 0 0 0 0;
+    padding: 0;
 }
 section.photo > .container > .row {
-    padding: 0 0 0 0;
+    padding: 0;
     background: rgba(100, 60, 7, .0);
     background: rgba(200, 200, 200, .0);
 }

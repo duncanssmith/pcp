@@ -8,17 +8,14 @@
             @include('layout.nav')
         @show
         <div id="content">
+
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="title pull-right">Welcome</h1>
-                            <img id="welcome-logo" class="pull-right" src="/media/images/Home/logo-transparent.png" width="480px"/>
+                                <h1 class="title pull-right">Palm Court Pavilion</h1>
+                                <p> 
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-md-10"></div>
                     </div>
                 </div>
             </section>
@@ -44,20 +41,32 @@
                                 <p class="address float-text"> Open daily 8am to 4:30pm </p>
                         </div>
                         <div class="col-md-4">
-                            <p class="float-text" style="text-align:left;">
+                            <p class="float-text">
                                 Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
                             </p>
-                            <p class="float-text" style="text-align:left;">
+                            <p class="float-text">
                                 The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
                             </p>
                         </div>
                         <div class="col-md-4">
-                            <p class="float-text" style="text-align:left;">
+                            <p class="float-text">
                                 The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
                             </p>
-                            <p class="float-text" style="text-align:justify;">
+                            <p class="float-text">
                                 The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
                             </p>
+
+
+                        </div>
+
+
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.9094489491195!2d-0.36574868437995894!3d50.81431636896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDQ4JzUxLjUiTiAwwrAyMSc0OC44Ilc!5e0!3m2!1sen!2suk!4v1451944856246" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
                         </div>
                     </div>
                 </div>
@@ -67,7 +76,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="title pull-right">Enjoy the view</h1>
+                            <h1 class="title pull-right">Enjoy the view &hellip;</h1>
                         </div>
                     </div>
 
@@ -160,10 +169,10 @@
                         </div>
                         <div class="col-md-2">
                             <h4 class="title-sub pull-right">Download</h4>
-                            <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Main menu </a><br>
-                            <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Drinks </a><br>
-                            <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Wine list </a><br>
-                            <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Kid's menu </a><br>
+                            <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank">Main menu </a><br>
+                            <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank">Drinks </a><br>
+                            <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank">Wine list </a><br>
+                            <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="" target="_blank">Kid's menu </a><br>
                         </div>
                     </div>
                 </div>
