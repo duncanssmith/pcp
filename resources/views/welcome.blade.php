@@ -103,34 +103,6 @@
                 </div>
             </section>
 
-            <section id="section-christmas" class="section photo">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h1 class="title pull-right">Christmas</h1>
-                        </div>
-                        <div class="col-md-4"></div>
-                        <div class="col-md-8">
-                            <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="btn btn-success pull-right" target="_blank"><i class="fa fa-download"></i> Download our Christmas booking form</a>
-                        </div>
-                     </div>
-                     <div class="row">
-                        <div class="col-md-4">
-                            <div class="menu-page-1 pull-left">
-                                <img src="/media/images/Menu/ChristmasMenu2015-11-2a.png" width="480px"/>
-                            </div>
-                        </div>
-                        <div class="col-md-8">
-                            <div class="menu-page-2 pull-right">
-                                <img src="/media/images/Menu/ChristmasMenu2015-11-1a.png" width="480px"/>
-                            </div>
-                        </div>
-                                <br><br>
-                                <br><br>
-                     </div>
-                </div>
-            </section>
-
             <section id="section-menu" class="section photo">
                 <div class="container">
                     <div class="row">
@@ -148,17 +120,12 @@
                                     <li data-target="#carousel-menu" data-slide-to="1"></li>
                                     <li data-target="#carousel-menu" data-slide-to="2"></li>
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="4"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
-                                <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/ChristmasMenu2015-11-2a.png" />
-                                        <div class="carousel-caption"></div>
-                                    </div>
-                                    <div class="item">
                                         <img src="/media/images/Menu/MainMenu2015-2.png" />
+                                        <div class="carousel-caption"></div>
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/DrinksMenu2015-2.png" />
@@ -182,7 +149,6 @@
                         </div>
                         <div class="col-md-2">
                             <h4 class="title-sub pull-right">Download</h4>
-                            <a href="/media/images/Menu/ChristmasMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Christmas Menu</a><br>
                             <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Main menu </a><br>
                             <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Drinks </a><br>
                             <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank"><i class="fa fa-download"></i> Wine list </a><br>
