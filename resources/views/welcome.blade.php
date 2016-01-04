@@ -60,6 +60,16 @@
                             </p>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            <section id="section-views" class="section photo">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="title pull-right">Enjoy the view</h1>
+                        </div>
+                    </div>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row">
@@ -100,8 +110,6 @@
                         </div>
                     </div>
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
-
-
                 </div>
             </section>
 
