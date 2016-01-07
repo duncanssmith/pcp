@@ -14,7 +14,21 @@
                     <div class="row">
                         <div class="col-md-12">
                                 <h1 class="title pull-right">Palm Court Pavilion</h1>
-                                <p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="spacer">
+                    <div class="row">
+                        <div class="col-md-12">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="float-text-main">
+                                Palm Court Pavilion is a stylish, beautifully renovated café-bistro in Worthing's Beach House Park. We are a few minutes walk from the town centre and the seafront. We serve delicious homemade food and offer facilities for functions and events.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -28,7 +42,7 @@
                         </div>
                     </div>
                     <div class="row photo-float">
-                        <div class="col-md-4">
+                        <div class="col-md-5">
                                 <p class="address float-text">
                                     Palm Court Pavilion<br>
                                     Beach House Park<br>
@@ -40,6 +54,11 @@
                                 </p>
                                 <p class="address float-text"> Open daily 8am to 4:30pm </p>
                         </div>
+                        <div class="col-md-7">
+                        </div>
+                    </div>
+
+                    <div class="row">
                         <div class="col-md-4">
                             <p class="float-text">
                                 Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
@@ -48,25 +67,37 @@
                                 The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
                             </p>
                         </div>
+                        <div class="col-md-8">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.9094489491195!2d-0.36574868437995894!3d50.81431636896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDQ4JzUxLjUiTiAwwrAyMSc0OC44Ilc!5e0!3m2!1sen!2suk!4v1451944856246" width="600" height="450" frameborder="2" style="border:2" ></iframe>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="section-functions" class="section flat">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="title pull-right">Functions</h1>
+                        </div>
+                    </div>
+                    <div class="row photo-float">
+                        <div class="col-md-6">
+                        </div>
+                        <div class="col-md-6">
+                        </div>
+                    </div>
+
+                    <div class="row">
                         <div class="col-md-4">
                             <p class="float-text">
                                 The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
                             </p>
-                            <p class="float-text">
-                                The outside space in the park can also be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
-                            </p>
-
-
                         </div>
-
-
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.9094489491195!2d-0.36574868437995894!3d50.81431636896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDQ4JzUxLjUiTiAwwrAyMSc0OC44Ilc!5e0!3m2!1sen!2suk!4v1451944856246" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
+                        <div class="col-md-4">
+                            <p class="float-text">
+                                The outside space in the park can be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
+                            </p>
                         </div>
                     </div>
                 </div>

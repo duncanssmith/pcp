@@ -7,6 +7,7 @@
                     </li>
                     <li><a href="#section-welcome">Welcome</a></li>
                     <li><a href="#section-about">About us</a></li>
+                    <li><a href="#section-functions">Functions</a></li>
                     <li><a href="#section-views">Views</a></li>
                     <li><a href="#section-menu">Our menu</a></li>
                 </ul>
