@@ -73,8 +73,13 @@ html, body {
 #section-welcome {
     padding-top: 40px;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
+    background: #282828 url('../images/Home/gQuartet.jpg') no-repeat center center;
+    background: #282828 url('../images/Home/gTerrace.jpg') no-repeat center center;
+    background: #282828 url('../images/Home/gQuartet.jpg') no-repeat center center;
     background-size: cover;
     color: rgba(255,255,255,1);
+    font-size: 1.0em;
+    font-weight: normal;
 }
 #section-about {
     padding-top: 40px;
@@ -116,11 +121,10 @@ section.flat > .container {
 section.flat > .container > .photo-float {
     padding: 30px 0px 30px 0px;
     min-height: 285px;
-    background: #ccc url('../images/Home/gOffer2.jpg') no-repeat center center;
 }
 
 .photo-float {
-  background: #ddd url('../images/Home/gOffer2.jpg') no-repeat center center;
+  background: #ddd url('../images/Home/gQuartet.jpg') no-repeat center center;
 }
 p.float-text-main {
     text-align: center;

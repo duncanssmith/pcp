@@ -23,11 +23,29 @@
                         </div>
                     </div>
                 </div>
-                <div class="container">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div class="container" >
                     <div class="row">
                         <div class="col-md-12">
                             <p class="float-text-main">
-                                Palm Court Pavilion is a stylish, beautifully renovated café-bistro in Worthing's Beach House Park. We are a few minutes walk from the town centre and the seafront. We serve delicious homemade food and offer facilities for functions and events.
+                                Palm Court Pavilion is a beautifully renovated, stylish café-bistro in Worthing's Beach House Park serving delicious homemade food in a tranquil park setting.  A matter of a few minutes walk from the town centre and the seafront, we also offer excellent facilities for events and functions.
                             </p>
                         </div>
                     </div>
@@ -107,7 +125,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="title pull-right">Enjoy the view &hellip;</h1>
+                            <h1 class="title pull-right">Enjoy the views &hellip;</h1>
                         </div>
                     </div>
 
@@ -138,17 +156,17 @@
                         </div>
                     </div>
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
-                    <div class="row">
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gFacade.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gTable.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gTerrace.jpg" width="400px">
-                        </div>
-                    </div>
+                    {{--<div class="row">--}}
+                        {{--<div class="col-md-4">--}}
+                            {{--<img src="/media/images/Home/gFacade.jpg" width="400px">--}}
+                        {{--</div>--}}
+                        {{--<div class="col-md-4">--}}
+                            {{--<img src="/media/images/Home/gTable.jpg" width="400px">--}}
+                        {{--</div>--}}
+                        {{--<div class="col-md-4">--}}
+                            {{--<img src="/media/images/Home/gTerrace.jpg" width="400px">--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
 <!-- //////////////////////////////////////////////////////////////////////////////////-->
                 </div>
             </section>
