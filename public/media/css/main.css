@@ -36,7 +36,7 @@ html, body {
     font-size: 64px;
     font-weight: 100;
     background-color: rgba(0, 0, 0, .45);
-    color: rgba(255,255,255,.49);
+    color: rgba(255,255,255,.89);
 }
 
 .title-sub {
@@ -70,12 +70,20 @@ html, body {
 #welcome-logo {
     margin-top: 20px;
 }
+#top-row{
+
+}
+#middle-row {
+
+}
+#bottom-row {
+    margin-top: 260px;
+    padding-top: 260px;
+}
 #section-welcome {
     padding-top: 40px;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
-    background: #282828 url('../images/Home/gQuartet.jpg') no-repeat center center;
     background: #282828 url('../images/Home/gTerrace.jpg') no-repeat center center;
-    background: #282828 url('../images/Home/gQuartet.jpg') no-repeat center center;
     background-size: cover;
     color: rgba(255,255,255,1);
     font-size: 1.0em;
@@ -85,16 +93,26 @@ html, body {
     padding-top: 40px;
     text-align: left;
     background-color: rgba(255,255,255,0.1);
+    background: #282828 url('../images/Home/gCoffeeMachine.jpg') no-repeat center center;
     color: rgba(255,255,255,1);
+}
+#section-functions {
+    padding-top: 40px;
+    background: #282828 url('../images/Home/gQuartet.jpg') no-repeat center center;
+    background-size: cover;
+    color: rgba(255,255,255,1);
+    font-size: 1.0em;
+    font-weight: normal;
 }
 #section-menu {
     padding-top: 40px;
-    background-color: rgba(122, 133, 59, .4);
+    background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
     background-color: rgba(180, 160, 20, .4);
 }
 #section-views {
     padding-top: 40px;
     background-color: rgba(180, 160, 20, .4);
+    background: #282828 url('../images/Home/gBar.jpg') no-repeat center center;
     color: rgba(255,255,255,1);
 }
 .menu-page-1 {
@@ -138,14 +156,14 @@ p.float-text {
     margin: 10px;
     padding: 20px;
     background: rgba(0,0,0,.65);
-    color: rgba(255, 255, 255, 0.90);
+    color: rgba(255, 255, 255, 0.9);
 }
 
 section.photo {
     background: rgba(180, 160, 20, 1);
 }
 section.photo > .container {
-    background: rgba(200, 200, 200, .3);
+    background: rgba(255, 255, 255, .0);
     padding: 0;
 }
 section.photo > .container > .row {
@@ -189,7 +207,7 @@ h1 {
 .error {color:red; font-style:italic; font-size:.9em;}
 
 .container {
-    background: rgba(255, 255, 255, .999);
+    background: rgba(255, 255, 255, .0);
 }
 .work-container {
     border: 0px solid #00f;
