@@ -36,7 +36,7 @@ html, body {
     font-size: 64px;
     font-weight: 100;
     background-color: rgba(0, 0, 0, .45);
-    color: rgba(255,255,255,.89);
+    color: rgba(255,255,255,.95);
 }
 
 .title-sub {
@@ -52,8 +52,8 @@ html, body {
     font-size: 24px;
     line-height: 170%;
     font-weight: 200;
-
 }
+
 .opening-times {
     font-family: Open Sans;
     font-size: 24px;
@@ -70,16 +70,9 @@ html, body {
 #welcome-logo {
     margin-top: 20px;
 }
-#top-row{
-
-}
-#middle-row {
-
-}
-#bottom-row {
-    margin-top: 260px;
-    padding-top: 260px;
-}
+#top-row{ }
+#middle-row { }
+#bottom-row { }
 #section-welcome {
     padding-top: 40px;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
@@ -140,7 +133,11 @@ section.flat > .container > .photo-float {
     padding: 30px 0px 30px 0px;
     min-height: 285px;
 }
-
+.groupon-logo-style {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    color: green;
+}
 .photo-float {
   background: #ddd url('../images/Home/gQuartet.jpg') no-repeat center center;
 }
@@ -158,7 +155,13 @@ p.float-text {
     background: rgba(0,0,0,.65);
     color: rgba(255, 255, 255, 0.9);
 }
-
+div.float-text-main {
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    background: rgba(255,255,255,.85);
+    color: rgba(0, 0, 0, 0.99);
+}
 section.photo {
     background: rgba(180, 160, 20, 1);
 }
