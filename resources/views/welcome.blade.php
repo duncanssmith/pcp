@@ -216,7 +216,6 @@
                             <a href="/media/images/Menu/ValentinesMenu2016.pdf" class="" target="_blank">Valentine's Day </a><br>
                             <a href="/media/images/Menu/MothersDayMenu2016.pdf" class="" target="_blank">Mother's Day </a><br>
                             <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank">Main menu </a><br>
-                            <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank">Main menu </a><br>
                             <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank">Drinks </a><br>
                             <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank">Wine list </a><br>
                             <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="" target="_blank">Kid's menu </a><br>
