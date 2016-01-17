@@ -48,15 +48,15 @@ html, body {
 .address {
     color: rgba(255,255,255,.99);
     background-color: rgba(0, 0, 0, .35);
-    font-family: Open Sans;
-    font-size: 24px;
+    font-family: Old Standard TT;
+    font-size: 1.2em;
     line-height: 170%;
     font-weight: 200;
 }
 
 .opening-times {
-    font-family: Open Sans;
-    font-size: 24px;
+    font-family: Old Standard TT;
+    font-size: 1.2em;
     line-height: 170%;
     font-weight: 200;
 }
@@ -137,6 +137,13 @@ section.flat > .container > .photo-float {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 600;
     color: green;
+}
+.google-map-container{
+    margin: 10px;
+    padding:10px;
+    background: rgba(255,255,255,.75);
+    color: rgba(0,0,0,.95);
+
 }
 .photo-float {
   background: #ddd url('../images/Home/gQuartet.jpg') no-repeat center center;

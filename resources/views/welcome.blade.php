@@ -64,11 +64,6 @@
                                 <p class="address float-text">Daily 8am to 4:30pm </p>
                         </div>
                         <div class="col-md-7">
-                        </div>
-                    </div>
-
-                    <div class="row bottom-row">
-                        <div class="col-md-4">
                             <p class="float-text">
                                 Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
                             </p>
@@ -76,8 +71,13 @@
                                 The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
                             </p>
                         </div>
-                        <div class="col-md-8">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.9094489491195!2d-0.36574868437995894!3d50.81431636896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDQ4JzUxLjUiTiAwwrAyMSc0OC44Ilc!5e0!3m2!1sen!2suk!4v1451944856246" width="600" height="450" frameborder="2" style="border:2" ></iframe>
+                    </div>
+                    <div class="row bottom-row">
+                        <div class="col-md-12">
+                            <div class="google-map-container">
+                                <h1>How to find us</h1>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.9094489491195!2d-0.36574868437995894!3d50.81431636896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDQ4JzUxLjUiTiAwwrAyMSc0OC44Ilc!5e0!3m2!1sen!2suk!4v1451944856246" width="100%" height="400px" frameborder="2" style="border:2px; padding:4px;" ></iframe>
+                            </div>
                         </div>
                     </div>
                 </div>
