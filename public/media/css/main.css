@@ -73,6 +73,7 @@ html, body {
 #top-row{ }
 #middle-row { }
 #bottom-row { }
+
 #section-welcome {
     padding-top: 40px;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
@@ -85,8 +86,8 @@ html, body {
 #section-about {
     padding-top: 40px;
     text-align: left;
-    background-color: rgba(255,255,255,0.1);
     background: #282828 url('../images/Home/gCoffeeMachine.jpg') no-repeat center center;
+    background-size: cover;
     color: rgba(255,255,255,1);
 }
 #section-functions {
@@ -99,14 +100,14 @@ html, body {
 }
 #section-views {
     padding-top: 40px;
-    background-color: rgba(180, 160, 20, .4);
     background: #282828 url('../images/Home/gBar.jpg') no-repeat center center;
+    background-size: cover;
     color: rgba(255,255,255,1);
 }
 #page-menu {
     padding-top: 40px;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
-    background-color: rgba(180, 160, 20, .4);
+    background-size: cover;
 }
 .menu-page-1 {
   margin: 0 80px 0 0;
