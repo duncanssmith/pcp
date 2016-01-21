@@ -39,23 +39,23 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img src="/media/images/Menu/ValentinesMenu2016.jpg" />
+                            <img src="/media/images/Menu/png/ValentinesMenu2016-4.png" />
                             <div class="carousel-caption"></div>
                         </div>
                         <div class="item">
-                            <img src="/media/images/Menu/MothersDayMenu2016.jpg" />
+                            <img src="/media/images/Menu/png/MothersDayMenu2016-4.png" />
                         </div>
                         <div class="item">
-                            <img src="/media/images/Menu/MainMenu2015-3.png" />
+                            <img src="/media/images/Menu/png/MainMenu2015-4.png" />
                         </div>
                         <div class="item">
-                            <img src="/media/images/Menu/DrinksMenu2015-3.png" />
+                            <img src="/media/images/Menu/png/DrinksMenu2015-4.png" />
                         </div>
                         <div class="item">
-                            <img src="/media/images/Menu/KidsMenu2015-3.png" />
+                            <img src="/media/images/Menu/png/KidsMenu2015-4.png" />
                         </div>
                         <div class="item">
-                            <img src="/media/images/Menu/WineList2015-3.png" />
+                            <img src="/media/images/Menu/png/WineList2015-4.png" />
                         </div>
                     </div>
 
@@ -70,12 +70,12 @@
             </div>
             <div class="col-md-2">
                 <h4 class="title-sub pull-right">Download</h4>
-                <a href="/media/images/Menu/ValentinesMenu2016.pdf" class="" target="_blank">Valentine's Day </a><br>
-                <a href="/media/images/Menu/MothersDayMenu2016.pdf" class="" target="_blank">Mother's Day </a><br>
-                <a href="/media/images/Menu/PalmCourtMainMenu2015.pdf" class="" target="_blank">Main menu </a><br>
-                <a href="/media/images/Menu/PalmCourtDrinksMenu2015.pdf" class="" target="_blank">Drinks </a><br>
-                <a href="/media/images/Menu/PalmCourtWineList2015.pdf" class="" target="_blank">Wine list </a><br>
-                <a href="/media/images/Menu/PalmCourtKidsMenu2015.pdf" class="" target="_blank">Kid's menu </a><br>
+                <a href="/media/images/Menu/pdf/ValentinesMenu2016.pdf" class="" target="_blank">Valentine's Day </a><br>
+                <a href="/media/images/Menu/pdf/MothersDayMenu2016.pdf" class="" target="_blank">Mother's Day </a><br>
+                <a href="/media/images/Menu/pdf/PalmCourtMainMenu2015.pdf" class="" target="_blank">Main menu </a><br>
+                <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2015.pdf" class="" target="_blank">Drinks </a><br>
+                <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" class="" target="_blank">Kid's menu </a><br>
+                <a href="/media/images/Menu/pdf/PalmCourtWineList2015.pdf" class="" target="_blank">Wine list </a><br>
             </div>
         </div>
     </div>
