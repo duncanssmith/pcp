@@ -19,6 +19,14 @@
     <script src="{{ asset('/media/js/vendor/twitter/bootstrap/js/bootstrap.min.js') }}"></script>
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+
+    <!-- 1. Link to jQuery (1.8 or later), -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
+
+    <!-- fotorama.css & fotorama.js. -->
+    <link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
+
     <script>
         $(function() {
             $('a[href*=#]:not([href=#carousel-menu])').click(function() {
@@ -35,4 +43,29 @@
             });
         });
     </script>
+    {{--<script>--}}
+        {{--$(function() {--}}
+            {{--$('#myCarousel').carousel({--}}
+                {{--interval: 4000;--}}
+            {{--});--}}
+
+        {{--// handles the carousel thumbnails--}}
+        {{--$('[id^=carousel-selector-]').click( function(){--}}
+            {{--var id_selector = $(this).attr("id");--}}
+            {{--var id = id_selector.substr(id_selector.length -1);--}}
+            {{--id = parseInt(id);--}}
+            {{--$('#myCarousel').carousel(id);--}}
+            {{--$('[id^=carousel-selector-]').removeClass('selected');--}}
+            {{--$(this).addClass('selected');--}}
+            {{--});--}}
+
+            {{--// when the carousel slides, auto update--}}
+            {{--$('#myCarousel').on('slid', function (e) {--}}
+                {{--var id = $('.item.active').data('slide-number');--}}
+                {{--id = parseInt(id);--}}
+                {{--$('[id^=carousel-selector-]').removeClass('selected');--}}
+                {{--$('[id=carousel-selector-'+id+']').addClass('selected');--}}
+            {{--});--}}
+        {{--});--}}
+    {{--</script>--}}
 </head>

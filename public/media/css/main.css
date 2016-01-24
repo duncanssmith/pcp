@@ -74,6 +74,10 @@ html, body {
 #middle-row { }
 #bottom-row { }
 
+.selected img {
+    opacity:0.5;
+}
+
 #section-welcome {
     padding-top: 40px;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
@@ -100,8 +104,6 @@ html, body {
 }
 #section-views {
     padding-top: 40px;
-    background: #282828 url('../images/Home/gBar.jpg') no-repeat center center;
-    background-size: cover;
     color: rgba(255,255,255,1);
 }
 #page-menu {

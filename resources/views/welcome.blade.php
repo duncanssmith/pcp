@@ -11,12 +11,12 @@
 
             <section id="section-welcome" class="section photo">
                 <div class="container">
-                    <div class="row top-row">
+                    <div class="row">
                         <div class="col-md-12">
                                 <h1 class="title pull-right">Palm Court Pavilion</h1>
                         </div>
                     </div>
-                    <div class="row middle-row">
+                    <div class="row ">
                         <div class="col-md-12">
                             <p class="float-text-main">
                                 Palm Court Pavilion is a beautifully renovated, stylish café-bistro in Worthing's delightful Beach House Park.
@@ -113,46 +113,32 @@
                             <h1 class="title pull-right">Enjoy the views &hellip;</h1>
                         </div>
                     </div>
-
-<!-- //////////////////////////////////////////////////////////////////////////////////-->
                     <div class="row">
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gBar.jpg" width="400px">
+                        <div class="col-md-8 col-md-offset-2">
+                            <p class="float-text">
+                               To give you a flavour &hellip;
+                            </p>
                         </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gOffer2.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gCocktail.jpg" width="400px">
+
+                    </div>
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <div class="fotorama" data-nav="thumbs">
+                                <img src="/media/images/Home/gBar.jpg" width="200px">
+                                <img src="/media/images/Home/gOffer2.jpg" width="200px">
+                                <img src="/media/images/Home/gCocktail.jpg" width="200px">
+                                <img src="/media/images/Home/gCoffeeMachine.jpg" width="200px">
+                                <img src="/media/images/Home/gGlasses.jpg" width="400px">
+                                <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
+                                <img src="/media/images/Home/gFacade.jpg" width="400px">
+                                <img src="/media/images/Home/gTable.jpg" width="400px">
+                                <img src="/media/images/Home/gOffer1.jpg" width="400px">
+                                <img src="/media/images/Home/gQuartet.jpg" width="400px">
+                                <img src="/media/images/Home/gTerrace.jpg" width="400px">
+                            </div>
+
                         </div>
                     </div>
-<!-- //////////////////////////////////////////////////////////////////////////////////-->
-
-<!-- //////////////////////////////////////////////////////////////////////////////////-->
-                    <div class="row">
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gCoffeeMachine.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gGlasses.jpg" width="400px">
-                        </div>
-                        <div class="col-md-4">
-                            <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
-                        </div>
-                    </div>
-<!-- //////////////////////////////////////////////////////////////////////////////////-->
-                    {{--<div class="row">--}}
-                        {{--<div class="col-md-4">--}}
-                            {{--<img src="/media/images/Home/gFacade.jpg" width="400px">--}}
-                        {{--</div>--}}
-                        {{--<div class="col-md-4">--}}
-                            {{--<img src="/media/images/Home/gTable.jpg" width="400px">--}}
-                        {{--</div>--}}
-                        {{--<div class="col-md-4">--}}
-                            {{--<img src="/media/images/Home/gTerrace.jpg" width="400px">--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-<!-- //////////////////////////////////////////////////////////////////////////////////-->
                 </div>
             </section>
         </div>
