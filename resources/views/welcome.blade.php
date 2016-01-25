@@ -68,7 +68,7 @@
                                 Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
                             </p>
                             <p class="float-text">
-                                The cafe is an exciting new chapter in the Pavilion’s interesting history; after some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated, emphasising the natural light and an extensive outdoor decking area makes the most of the beautiful park setting. Both areas of decking can be used for private parties.
+                                The cafe marks an exciting new chapter in the Pavilion’s history. After some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated to emphasise natural light inside, and large decking areas outside have been added so that visitors can enjoy the beautiful park setting. The decking areas can also be used for private parties or functions.
                             </p>
                         </div>
                     </div>
