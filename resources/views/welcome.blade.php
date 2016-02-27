@@ -62,16 +62,11 @@
                                     <li data-target="#carousel-menu" data-slide-to="2"></li>
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="5"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/ValentinesMenu2016-4.png" />
-                                        <div class="carousel-caption"></div>
-                                    </div>
-                                    <div class="item">
                                         <img src="/media/images/Menu/png/MothersDayMenu2016-4.png" />
                                     </div>
                                     <div class="item">
@@ -99,7 +94,6 @@
                         </div>
                         <div class="col-md-2">
                             <h4 class="title-sub pull-right">Download</h4>
-                            <a href="/media/images/Menu/pdf/ValentinesMenu2016.pdf" class="" target="_blank">Valentine's Day </a><br>
                             <a href="/media/images/Menu/pdf/MothersDayMenu2016.pdf" class="" target="_blank">Mother's Day </a><br>
                             <a href="/media/images/Menu/pdf/PalmCourtMainMenu2015.pdf" class="" target="_blank">Main menu </a><br>
                             <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2015.pdf" class="" target="_blank">Drinks </a><br>
