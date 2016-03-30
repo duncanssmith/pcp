@@ -66,10 +66,13 @@
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/MainMenu2015-4.png" />
+                                        <img src="/media/images/Menu/png/MainMenu2016-0-1.png" />
+                                    </div>
+                                    <div class="item ">
+                                        <img src="/media/images/Menu/png/MainMenu2016-0-2.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/DrinksMenu2015-4.png" />
+                                        <img src="/media/images/Menu/png/DrinksMenu2016-0.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/KidsMenu2015-4.png" />
@@ -90,8 +93,8 @@
                         </div>
                         <div class="col-md-2">
                             <h4 class="title-sub pull-right">Download</h4>
-                            <a href="/media/images/Menu/pdf/PalmCourtMainMenu2015.pdf" class="" target="_blank">Main menu </a><br>
-                            <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2015.pdf" class="" target="_blank">Drinks </a><br>
+                            <a href="/media/images/Menu/pdf/PalmCourtMainMenu2016.pdf" class="" target="_blank">Main menu </a><br>
+                            <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2016.pdf" class="" target="_blank">Drinks </a><br>
                             <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" class="" target="_blank">Kid's menu </a><br>
                             <a href="/media/images/Menu/pdf/PalmCourtWineList2015.pdf" class="" target="_blank">Wine list </a><br>
                         </div>
