@@ -146,6 +146,35 @@
                         </div>
                     </div>
 
+
+                    {{--####--}}
+                    <div class="col-md-12">
+                        <a href="/media/images/Docs/PalmCourtPavilionFunctions.pdf" class="" target="_blank">Functions information </a><br>
+                        <a id="modal-function-info" href="#" class=""> <h1 class="title"> Functions </h1></a>
+                        <!-- Image display modal ////////////////////////////////////////////////////////// -->
+                        <div id="function-show" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+                                        <h4 class="modal-title">Functions</h4>
+                                    </div>
+                                    <div class="modal-body ">
+                                       <h1>Functions content here</h1>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <p class="modal-title pull-left">
+                                            Functions blurb here
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    {{--####--}}
+
                     <div class="row bottom-row">
                         <div class="col-md-4">
                             <p class="float-text">
