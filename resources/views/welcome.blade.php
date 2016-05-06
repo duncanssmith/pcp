@@ -92,11 +92,14 @@
                             </div> <!-- Carousel -->
                         </div>
                         <div class="col-md-2">
-                            <h4 class="title-sub pull-right">Download</h4>
-                            <a href="/media/images/Menu/pdf/PalmCourtMainMenu2016.pdf" class="" target="_blank">Main menu </a><br>
-                            <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2016.pdf" class="" target="_blank">Drinks </a><br>
-                            <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" class="" target="_blank">Kid's menu </a><br>
-                            <a href="/media/images/Menu/pdf/PalmCourtWineList2015.pdf" class="" target="_blank">Wine list </a><br>
+                            <h4 class="title-sub">Download</h4>
+
+                            <p class="download-box">
+                                <a href="/media/images/Menu/pdf/PalmCourtMainMenu2016.pdf" target="_blank" title="Click to download the Main Menu">Main menu </a><br>
+                                <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2016.pdf" target="_blank" title="Click to download the Drinks Menu">Drinks </a><br>
+                                <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" target="_blank" title="Click to download the Kids Menu">Kid's menu </a><br>
+                                <a href="/media/images/Menu/pdf/PalmCourtWineList2015.pdf" target="_blank" title="Click to download the Wine List">Wine list </a><br>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -141,39 +144,10 @@
             <section id="section-functions" class="section flat">
                 <div class="container">
                     <div class="row top-row">
-                        <div class="col-md-6 col-md-offset-6">
-                            <h1 class="title pull-right">Functions</h1>
+                        <div class="col-md-4 col-md-offset-8">
+                            <h1 class="title">Functions</h1>
                         </div>
                     </div>
-
-
-                    {{--####--}}
-                    <div class="col-md-12">
-                        <a href="/media/images/Docs/PalmCourtPavilionFunctions.pdf" class="" target="_blank">Functions information </a><br>
-                        <a id="modal-function-info" href="#" class=""> <h1 class="title"> Functions </h1></a>
-                        <!-- Image display modal ////////////////////////////////////////////////////////// -->
-                        <div id="function-show" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
-                                        <h4 class="modal-title">Functions</h4>
-                                    </div>
-                                    <div class="modal-body ">
-                                       <h1>Functions content here</h1>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <p class="modal-title pull-left">
-                                            Functions blurb here
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    {{--####--}}
 
                     <div class="row bottom-row">
                         <div class="col-md-4">
@@ -185,6 +159,13 @@
                             <p class="float-text">
                                 The outside space in the park can be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
                             </p>
+                        </div>
+                        <div class="col-md-4">
+                            <h4 class="title-sub">Download</h4>
+
+                                <p class="download-box">
+                                    <a href="/media/images/Docs/PalmCourtPavilionFunctions.pdf" target="_blank" title="Click to download details about Palm Court Pavilions Functions">Functions information </a><br>
+                                </p>
                         </div>
                     </div>
                 </div>

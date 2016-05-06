@@ -124,6 +124,12 @@ html, body {
   color: #fff;
 }
 
+.download-box {
+    background: rgba(255,255,255,.8);
+    padding: 1em;
+    font-size: 1.3em;
+}
+
 section.flat {
     background: rgba(230, 230, 230, .6);
     padding: 0;
