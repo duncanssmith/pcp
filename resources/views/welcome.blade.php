@@ -24,23 +24,21 @@
                             </p>
                         </div>
                     </div>
-                    {{--<div class="row bottom-row">--}}
-                        {{--<div class="col-md-6">--}}
-                            {{--<div class="float-text-main">--}}
-                                {{--<img src="/media/images/Home/logo-transparent.png" width="140px"/>--}}
-                                {{--<h1><a href="https://www.groupon.co.uk/deals/palm-court-pavilion-1">Our <span class="groupon-logo-style">GROUPON</span> offer</a></h1>--}}
-                                {{--<p>--}}
-                                    {{--Enjoy sandwiches, scones with cream and jam, and a slice of cake served with a pot of tea and a glass of Prosecco.--}}
-                                {{--</p>--}}
-                                {{--<h2> Choose Between Two Options </h2>--}}
-                                {{--<p>--}}
-                                    {{--£15 for an afternoon tea for two with a glass of Prosecco (40% off)<br>--}}
-                                    {{--£29 for an afternoon tea for four with a glass of Prosecco (42% off)--}}
-                                {{--</p>--}}
-                            {{--</div>--}}
-                            {{--<div class="col-md-6"></div>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
+                    <div class="row bottom-row">
+                        <div class="col-md-4">
+                            <h4 class="opening-times float-text">June 2016 opening times:</h4>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="opening-times float-text">
+                                Monday: Closed<br>
+                                Tuesday, Wednesday: 8am to 5pm<br>
+                                Thursday, Friday, Saturday: 8am to 8pm (weather permitting after 5pm)<br>
+                                Sunday: 8am to 6pm (later if sunny!)<br>
+                                Other evenings, private hire, leaving do's: by arrangement
+                                <!-- Daily 8am to 4:30pm -->
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </section>
 
@@ -189,7 +187,6 @@
                                 www.palmcourtpavilion.co.uk<br>
                                 01903 212 011
                             </p>
-                            <p class="address float-text">Daily 8am to 4:30pm </p>
                         </div>
                         <div class="col-md-7">
                             <p class="float-text">
@@ -197,6 +194,21 @@
                             </p>
                             <p class="float-text">
                                 The cafe marks an exciting new chapter in the Pavilion’s history. After some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated to emphasise natural light inside, and large decking areas outside have been added so that visitors can enjoy the beautiful park setting. The decking areas can also be used for private parties or functions.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row bottom-row">
+                        <div class="col-md-4">
+                            <h4 class="opening-times float-text">June 2016 opening times:</h4>
+                        </div>
+                        <div class="col-md-8">
+                            <p class="opening-times float-text">
+                                Monday: Closed<br>
+                                Tuesday, Wednesday: 8am to 5pm<br>
+                                Thursday, Friday, Saturday: 8am to 8pm (weather permitting after 5pm)<br>
+                                Sunday: 8am to 6pm (later if sunny!)<br>
+                                Other evenings, private hire, leaving do's: by arrangement
+                                <!-- Daily 8am to 4:30pm -->
                             </p>
                         </div>
                     </div>

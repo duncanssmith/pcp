@@ -55,10 +55,19 @@ html, body {
 }
 
 .opening-times {
+    color: rgba(255,255,255,.99);
+    background-color: rgba(0, 0, 0, .35);
     font-family: Old Standard TT;
     font-size: 1.2em;
     line-height: 170%;
     font-weight: 200;
+}
+h4.opening-times {
+    padding: 60px 40px 60px 40px;
+    font-family:'Oswald', sans-serif;
+    font-size: 1.8em;
+    line-height: 170%;
+    font-weight: 400;
 }
 .banner, a {
     background-color: rgba(190,190,190, .1);
