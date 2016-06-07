@@ -26,7 +26,7 @@
                     </div>
                     <div class="row bottom-row">
                         <div class="col-md-4">
-                            <h4 class="opening-times float-text">June 2016 opening times:</h4>
+                            <h4 class="opening-times float-text">Summer 2016 opening times:</h4>
                         </div>
                         <div class="col-md-8">
                             <p class="opening-times float-text">
@@ -198,7 +198,7 @@
                     </div>
                     <div class="row bottom-row">
                         <div class="col-md-4">
-                            <h4 class="opening-times float-text">June 2016 opening times:</h4>
+                            <h4 class="opening-times float-text">Summer 2016 opening times:</h4>
                         </div>
                         <div class="col-md-8">
                             <p class="opening-times float-text">
