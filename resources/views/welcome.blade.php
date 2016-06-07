@@ -64,10 +64,10 @@
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/MainMenu2016-0-1.png" />
+                                        <img src="/media/images/Menu/png/SummerMenuWithWine-20160525-2.png" />
                                     </div>
                                     <div class="item ">
-                                        <img src="/media/images/Menu/png/MainMenu2016-0-2.png" />
+                                        <img src="/media/images/Menu/png/SummerMenuWithWine-20160525-3.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/DrinksMenu2016-0.png" />
@@ -76,7 +76,7 @@
                                         <img src="/media/images/Menu/png/KidsMenu2015-4.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/WineList2015-4.png" />
+                                        <img src="/media/images/Menu/png/SummerMenuWithWine-20160525-4.png" />
                                     </div>
                                 </div>
 
@@ -93,10 +93,9 @@
                             <h4 class="title-sub">Download</h4>
 
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/PalmCourtMainMenu2016.pdf" target="_blank" title="Click to download the Main Menu">Main menu </a><br>
+                                <a href="/media/images/Menu/pdf/PalmCourtMainMenu201605.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2016.pdf" target="_blank" title="Click to download the Drinks Menu">Drinks </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" target="_blank" title="Click to download the Kids Menu">Kid's menu </a><br>
-                                <a href="/media/images/Menu/pdf/PalmCourtWineList2015.pdf" target="_blank" title="Click to download the Wine List">Wine list </a><br>
                             </p>
                         </div>
                     </div>
