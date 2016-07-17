@@ -64,6 +64,9 @@
                                         <img src="/media/images/Menu/png/SummerMenuWithWine-20160525-3.png" />
                                     </div>
                                     <div class="item">
+                                        <img src="/media/images/Menu/png/BreakfastMenu-20160717-1.png" />
+                                    </div>
+                                    <div class="item">
                                         <img src="/media/images/Menu/png/DrinksMenu2016-0.png" />
                                     </div>
                                     <div class="item">
@@ -88,6 +91,7 @@
 
                             <p class="download-box">
                                 <a href="/media/images/Menu/pdf/PalmCourtMainMenu201605.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br>
+                                <a href="/media/images/Menu/pdf/PalmCourtBreakfastMenu201607.pdf" target="_blank" title="Click to download the Breakfast Menu">Breakfast </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2016.pdf" target="_blank" title="Click to download the Drinks Menu">Drinks </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" target="_blank" title="Click to download the Kids Menu">Kid's menu </a><br>
                             </p>
