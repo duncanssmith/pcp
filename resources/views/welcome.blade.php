@@ -119,18 +119,10 @@
                                 <img src="/media/images/Home/aMainFront-2.jpg" width="400px">
                                 <img src="/media/images/Home/aInteriorSpace-2.jpg" width="400px">
                                 <img src="/media/images/Home/aMainFront-3.jpg" width="400px">
-                                <img src="/media/images/Home/gOffer2.jpg" width="200px">
-                                <img src="/media/images/Home/aMainFront-4.jpg" width="400px">
-                                <img src="/media/images/Home/gCocktail.jpg" width="200px">
                                 <img src="/media/images/Home/gCoffeeMachine.jpg" width="200px">
-                                <img src="/media/images/Home/gGlasses.jpg" width="400px">
+                                <img src="/media/images/Home/aMainFront-4.jpg" width="400px">
                                 <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
                                 <img src="/media/images/Home/gFacade.jpg" width="400px">
-                                <img src="/media/images/Home/gTable.jpg" width="400px">
-                                <img src="/media/images/Home/gOffer1.jpg" width="400px">
-                                <img src="/media/images/Home/gBar.jpg" width="200px">
-                                <img src="/media/images/Home/gQuartet.jpg" width="400px">
-                                <img src="/media/images/Home/gTerrace.jpg" width="400px">
                             </div>
 
                         </div>
