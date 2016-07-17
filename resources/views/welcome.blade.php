@@ -7,7 +7,7 @@
         @section('nav')
             @include('layout.nav')
         @show
-        <section id="content">
+        <div id="content">
 
             <section id="section-welcome" class="section photo">
                 <div class="container">
@@ -17,25 +17,19 @@
                         </div>
                     </div>
                     <div class="row ">
-                        <div class="col-md-12">
+                        <div class="col-md-5 col-md-offset-7">
                             <p class="float-text-main">
-                                Palm Court Pavilion is a beautifully renovated, stylish café-bistro in Worthing's delightful Beach House Park.
-                                We serve delicious homemade food in a tranquil setting, and are a few minutes walk from the town centre and the seafront. We also offer excellent facilities for events and functions.
+                                @include('partials.text_1')
                             </p>
                         </div>
                     </div>
                     <div class="row bottom-row">
-                        <div class="col-md-4">
+                        <div class="col-md-5 col-md-offset-7">
                             <h4 class="opening-times float-text">Summer 2016 opening times:</h4>
                         </div>
-                        <div class="col-md-8">
+                        <div class="col-md-5 col-md-offset-7">
                             <p class="opening-times float-text">
-                                Monday: Closed<br>
-                                Tuesday, Wednesday: 8am to 5pm<br>
-                                Thursday, Friday, Saturday: 8am to 8pm (weather permitting after 5pm)<br>
-                                Sunday: 8am to 6pm (later if sunny!)<br>
-                                Other evenings, private hire, leaving do's: by arrangement
-                                <!-- Daily 8am to 4:30pm -->
+                                @include('partials.opening_times')
                             </p>
                         </div>
                     </div>
@@ -120,8 +114,13 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
                             <div class="fotorama" data-nav="thumbs">
-                                <img src="/media/images/Home/gBar.jpg" width="200px">
+                                <img src="/media/images/Home/aMainFront-1.jpg" width="400px">
+                                <img src="/media/images/Home/aInteriorSpace-1.jpg" width="400px">
+                                <img src="/media/images/Home/aMainFront-2.jpg" width="400px">
+                                <img src="/media/images/Home/aInteriorSpace-2.jpg" width="400px">
+                                <img src="/media/images/Home/aMainFront-3.jpg" width="400px">
                                 <img src="/media/images/Home/gOffer2.jpg" width="200px">
+                                <img src="/media/images/Home/aMainFront-4.jpg" width="400px">
                                 <img src="/media/images/Home/gCocktail.jpg" width="200px">
                                 <img src="/media/images/Home/gCoffeeMachine.jpg" width="200px">
                                 <img src="/media/images/Home/gGlasses.jpg" width="400px">
@@ -129,6 +128,7 @@
                                 <img src="/media/images/Home/gFacade.jpg" width="400px">
                                 <img src="/media/images/Home/gTable.jpg" width="400px">
                                 <img src="/media/images/Home/gOffer1.jpg" width="400px">
+                                <img src="/media/images/Home/gBar.jpg" width="200px">
                                 <img src="/media/images/Home/gQuartet.jpg" width="400px">
                                 <img src="/media/images/Home/gTerrace.jpg" width="400px">
                             </div>
@@ -149,12 +149,12 @@
                     <div class="row bottom-row">
                         <div class="col-md-4">
                             <p class="float-text">
-                                The upstairs function room has a balcony giving delightful views of the park and bowling greens, a perfect venue for parties, meetings and events.
+                                @include('partials.text_2')
                             </p>
                         </div>
                         <div class="col-md-4">
                             <p class="float-text">
-                                The outside space in the park can be used for larger scale events of up to 1000 people, ideal for weddings, dining, exhibitions, corporate launches, markets and roadshows.<br>
+                                @include('partials.text_3')
                             </p>
                         </div>
                         <div class="col-md-4">
@@ -178,21 +178,15 @@
                     <div class="row middle-row">
                         <div class="col-md-5">
                             <p class="address float-text">
-                                Palm Court Pavilion<br>
-                                Beach House Park<br>
-                                Lyndhurst Road<br>
-                                Worthing<br>
-                                BN11 2DB<br>
-                                email: <a href="mailto:palmcourtpavilion@gmail.com" class="address-email" target="_blank">palmcourtpavilion@gmail.com</a><br>
-                                01903 212 011
+                                @include('partials.address')
                             </p>
                         </div>
                         <div class="col-md-7">
                             <p class="float-text">
-                                Nestled in Worthing’s stunning Beach House Park, Palm Court Pavilion is a stylish, beautifully renovated café-bistro in the park’s Old Pavilion. Located just minutes from the town centre and the seafront, Palm Court Pavilion serves delicious homemade food and has a range of options for functions and events.
+                                @include('partials.text_4')
                             </p>
                             <p class="float-text">
-                                The cafe marks an exciting new chapter in the Pavilion’s history. After some years in disuse, the Pavilion has been given a new lease of life. The landmark building has been sympathetically renovated to emphasise natural light inside, and large decking areas outside have been added so that visitors can enjoy the beautiful park setting. The decking areas can also be used for private parties or functions.
+                                @include('partials.text_5')
                             </p>
                         </div>
                     </div>
@@ -202,12 +196,7 @@
                         </div>
                         <div class="col-md-8">
                             <p class="opening-times float-text">
-                                Monday: Closed<br>
-                                Tuesday, Wednesday: 8am to 5pm<br>
-                                Thursday, Friday, Saturday: 8am to 8pm (weather permitting after 5pm)<br>
-                                Sunday: 8am to 6pm (later if sunny!)<br>
-                                Other evenings, private hire, leaving do's: by arrangement
-                                <!-- Daily 8am to 4:30pm -->
+                                @include('partials.opening_times')
                             </p>
                         </div>
                     </div>
