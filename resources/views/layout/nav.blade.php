@@ -3,7 +3,7 @@
             <div class="navbar-collapse collapse " role="navigation">
                 <ul class="nav navbar-nav">
                     <li><a href="/" class="navbar-brand header-link">
-                        <img id="nav-logo" src="/media/images/Home/logo-transparent.png" width="210" style="margin-top:60px;"/></a>
+                        <img id="nav-logo" src="/media/images/Home/logo-transparent.png" class="nav-logo" width="210" ></a>
                     </li>
                     <li><a href="/#section-welcome">Welcome</a></li>
                     <li><a href="/#section-menu">Our menu</a></li>

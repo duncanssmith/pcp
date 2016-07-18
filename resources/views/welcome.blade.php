@@ -104,16 +104,8 @@
                 <div class="container">
                     <div class="row top-row">
                         <div class="col-md-6 col-md-offset-6">
-                            <h1 class="title pull-right">Enjoy the views &hellip;</h1>
+                            <h1 class="title pull-right">Enjoy the views</h1>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
-                            <p class="float-text">
-                               To give you a flavour &hellip;
-                            </p>
-                        </div>
-
                     </div>
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">

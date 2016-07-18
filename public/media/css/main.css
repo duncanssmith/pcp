@@ -10,6 +10,7 @@ html, body {
     padding: 0;
     margin: 0;
     font-family:'Old Standard TT', sans-serif;
+    font-size: 1.07em;
     font-weight: 200;
     text-align:left;
     color: #fff;
@@ -87,6 +88,12 @@ h4.opening-times {
 #welcome-logo {
     margin-top: 20px;
 }
+#nav-logo {
+    width: 210px;
+    background-color: rgba(255,255,255, .9999);
+    margin: 60px;
+    padding: 24px;
+}
 #top-row{ }
 #middle-row { }
 #bottom-row { }
@@ -97,8 +104,6 @@ h4.opening-times {
 
 #section-welcome {
     padding-top: 40px;
-    /*background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;*/
-    /*background: #282828 url('../images/Home/gTerrace.jpg') no-repeat center center;*/
     background: #282828 url('../images/Home/aMainFront-5.jpg') no-repeat center center;
     background-size: cover;
     color: rgba(255,255,255,1);
@@ -286,6 +291,6 @@ h1 {
 }
 
 .nav-bottom-line {
-    background: rgba(255,255,255,.999);
+    background: rgba(255,255,255,1);
     border-bottom: 1px solid rgba(180,180,180,.7);
 }
