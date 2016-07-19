@@ -126,37 +126,33 @@
                 </div>
             </section>
 
-            <section id="section-functions" class="section flat">
+            <section id="section-functions" class="section photo">
                 <div class="container">
-                    <div class="row top-row">
-                        <div class="col-md-4 col-md-offset-8">
-                            <h1 class="title">Functions</h1>
-                        </div>
+                    <div class="col-md-4 col-md-offset-8">
+                        <h1 class="title">Functions</h1>
                     </div>
 
-                    <div class="row bottom-row">
-                        <div class="col-md-4">
-                            <p class="float-text">
-                                @include('partials.text_2')
-                            </p>
-                        </div>
-                        <div class="col-md-4">
-                            <p class="float-text">
-                                @include('partials.text_3')
-                            </p>
-                        </div>
-                        <div class="col-md-4">
-                            <h4 class="title-sub">Download</h4>
-
-                                <p class="download-box">
-                                    <a href="/media/images/Docs/PalmCourtPavilionFunctions.pdf" target="_blank" title="Click to download details about Palm Court Pavilions Functions">Functions information </a><br>
-                                </p>
-                        </div>
+                    <div class="col-md-4 col-md-offset-8">
+                        <p class="float-text">
+                            @include('partials.text_2')
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-md-offset-8">
+                        <p class="float-text">
+                            @include('partials.text_3')
+                        </p>
+                    </div>
+                    <div class="col-md-4 col-md-offset-8">
+                        <h4 class="title-sub">Download</h4>
+                        <p class="download-box">
+                            <a href="/media/images/Docs/PalmCourtPavilionFunctions.pdf" target="_blank" title="Click to download details about Palm Court Pavilions Functions">Functions information </a><br>
+                        </p>
+                    </div>
                     </div>
                 </div>
             </section>
 
-            <section id="section-about" class="section flat">
+            <section id="section-about" class="section photo">
                 <div class="container">
                     <div class="row top-row">
                         <div class="col-md-6 col-md-offset-6">
@@ -164,7 +160,7 @@
                         </div>
                     </div>
                     <div class="row middle-row">
-                        <div class="col-md-5">
+                        <div class="col-md-5 ">
                             <p class="address float-text">
                                 @include('partials.address')
                             </p>
