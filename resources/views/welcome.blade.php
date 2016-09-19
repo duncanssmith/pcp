@@ -152,7 +152,7 @@
                     <div class="col-md-4 col-md-offset-8">
                         <h4 class="title-sub">Download</h4>
                         <p class="download-box">
-                            <a href="/media/images/Docs/PalmCourtPavilionFunctions.pdf" target="_blank" title="Click to download details about Palm Court Pavilions Functions">Functions information </a><br>
+                            <a href="/media/images/Docs/PalmCourtPavilionFunctionsCurrent.pdf" target="_blank" title="Click to download details about Palm Court Pavilions Functions">Functions information </a><br>
                         </p>
                     </div>
                     </div>
