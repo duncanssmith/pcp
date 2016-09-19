@@ -25,7 +25,7 @@
                     </div>
                     <div class="row bottom-row">
                         <div class="col-md-5 col-md-offset-7">
-                            <h4 class="opening-times float-text">Summer 2016 opening times:</h4>
+                            <h4 class="opening-times float-text">2016 Autumn opening times:</h4>
                         </div>
                         <div class="col-md-5 col-md-offset-7">
                             <p class="opening-times float-text">
@@ -53,27 +53,35 @@
                                     <li data-target="#carousel-menu" data-slide-to="1"></li>
                                     <li data-target="#carousel-menu" data-slide-to="2"></li>
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="4"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="5"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/SummerMenuWithWine-20160525-2.png" />
+                                        <img src="/media/images/Menu/png/201609PalmCourtMenu2Specials.png" />
+                                        {{--<img src="/media/images/Menu/png/SummerMenuWithWine-20160525-2.png" />--}}
                                     </div>
                                     <div class="item ">
-                                        <img src="/media/images/Menu/png/SummerMenuWithWine-20160525-3.png" />
+                                        {{--<img src="/media/images/Menu/png/SummerMenuWithWine-20160525-3.png" />--}}
+                                        <img src="/media/images/Menu/png/201609PalmCourtMenu1Lunch.png" />
                                     </div>
                                     <div class="item">
+                                        {{--<img src="/media/images/Menu/png/BreakfastMenu-20160717-1.png" />--}}
                                         <img src="/media/images/Menu/png/BreakfastMenu-20160717-1.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/DrinksMenu2016-0.png" />
+                                        {{--<img src="/media/images/Menu/png/DrinksMenu2016-0.png" />--}}
+                                        <img src="/media/images/Menu/png/201609PalmCourtMenu3Wine.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/KidsMenu2015-4.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/SummerMenuWithWine-20160525-4.png" />
+                                        <img src="/media/images/Menu/png/201609PalmCourtMenu4Drinks.png" />
+                                        {{--<img src="/media/images/Menu/png/201609PalmCourtMenu0Cover.png" />--}}
+                                        {{--<img src="/media/images/Menu/png/SummerMenuWithWine-20160525-4.png" />--}}
                                     </div>
                                 </div>
 
@@ -90,9 +98,8 @@
                             <h4 class="title-sub">Download</h4>
 
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/PalmCourtMainMenu201605.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br>
+                                <a href="/media/images/Menu/pdf/PalmCourtMainMenu201609.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtBreakfastMenu201607.pdf" target="_blank" title="Click to download the Breakfast Menu">Breakfast </a><br>
-                                <a href="/media/images/Menu/pdf/PalmCourtDrinksMenu2016.pdf" target="_blank" title="Click to download the Drinks Menu">Drinks </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" target="_blank" title="Click to download the Kids Menu">Kid's menu </a><br>
                             </p>
                         </div>
@@ -176,7 +183,7 @@
                     </div>
                     <div class="row bottom-row">
                         <div class="col-md-4">
-                            <h4 class="opening-times float-text">Summer 2016 opening times:</h4>
+                            <h4 class="opening-times float-text">2016 Autumn opening times:</h4>
                         </div>
                         <div class="col-md-8">
                             <p class="opening-times float-text">
