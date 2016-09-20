@@ -243,6 +243,16 @@ a.header-dropdown-link {
     color: #666;
 }
 
+a.christmas {
+    padding: 4px;
+    background-color: rgba(30, 240, 90, .35);
+    font-family:'Oswald', sans-serif;
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #f66;
+    text-decoration: none;
+}
+
 h1 {
     font-size: 22px;
     margin: 16px 0 0 0;

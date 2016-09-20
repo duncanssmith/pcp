@@ -98,6 +98,7 @@
                             <h4 class="title-sub">Download</h4>
 
                             <p class="download-box">
+                                <a href="/media/images/Menu/pdf/ChristmasMenu2016.pdf" target="_blank" title="Download the menu. Book early!">Christmas 2016 </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtMainMenu201609.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtBreakfastMenu201607.pdf" target="_blank" title="Click to download the Breakfast Menu">Breakfast </a><br>
                                 <a href="/media/images/Menu/pdf/PalmCourtKidsMenu2015.pdf" target="_blank" title="Click to download the Kids Menu">Kid's menu </a><br>
