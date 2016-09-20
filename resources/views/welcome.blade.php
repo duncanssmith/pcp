@@ -55,24 +55,24 @@
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="6"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/201609PalmCourtMenu2Specials.png" />
-                                        {{--<img src="/media/images/Menu/png/SummerMenuWithWine-20160525-2.png" />--}}
+                                        <img src="/media/images/Menu/png/ChristmasMenu2016.png" />
                                     </div>
                                     <div class="item ">
-                                        {{--<img src="/media/images/Menu/png/SummerMenuWithWine-20160525-3.png" />--}}
+                                        <img src="/media/images/Menu/png/201609PalmCourtMenu2Specials.png" />
+                                    </div>
+                                    <div class="item ">
                                         <img src="/media/images/Menu/png/201609PalmCourtMenu1Lunch.png" />
                                     </div>
                                     <div class="item">
-                                        {{--<img src="/media/images/Menu/png/BreakfastMenu-20160717-1.png" />--}}
                                         <img src="/media/images/Menu/png/BreakfastMenu-20160717-1.png" />
                                     </div>
                                     <div class="item">
-                                        {{--<img src="/media/images/Menu/png/DrinksMenu2016-0.png" />--}}
                                         <img src="/media/images/Menu/png/201609PalmCourtMenu3Wine.png" />
                                     </div>
                                     <div class="item">
@@ -80,8 +80,6 @@
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/201609PalmCourtMenu4Drinks.png" />
-                                        {{--<img src="/media/images/Menu/png/201609PalmCourtMenu0Cover.png" />--}}
-                                        {{--<img src="/media/images/Menu/png/SummerMenuWithWine-20160525-4.png" />--}}
                                     </div>
                                 </div>
 
