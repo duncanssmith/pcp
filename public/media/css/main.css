@@ -98,6 +98,13 @@ h4.opening-times {
 #middle-row { }
 #bottom-row { }
 
+.row.video div {
+    width: inherit;
+    background-color: rgba(255,255,255,.8);
+    margin: 60px;
+    padding: 24px;
+}
+
 .selected img {
     opacity:0.5;
 }

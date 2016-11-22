@@ -16,13 +16,25 @@
                                 <h1 class="title pull-right">Palm Court Pavilion</h1>
                         </div>
                     </div>
-                    <div class="row ">
-                        <div class="col-md-5 col-md-offset-7">
+                    <div class="row">
+                        <div class="col-md-12 col-md-offset-0">
                             <p class="float-text-main">
                                 @include('partials.text_1')
                             </p>
                         </div>
                     </div>
+                    <div class="row video">
+                        <div class="col-md-6 col-md-offset-1">
+                            @include('partials.you-tube-video')
+                        </div>
+                    </div>
+                    <!-- <div class="row"> -->
+                        <!-- <div class="col-md-5 col-md-offset-7"> -->
+                            <!-- <p class="float-text-main"> -->
+                                <!-- @include('partials.text_1') -->
+                            <!-- </p> -->
+                        <!-- </div> -->
+                    <!-- </div> -->
                     <div class="row bottom-row">
                         <div class="col-md-5 col-md-offset-7">
                             <h4 class="opening-times float-text">2016 Autumn opening times:</h4>
