@@ -78,22 +78,22 @@
                                         <img src="/media/images/Menu/png/2016/09/Christmas.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/12/SundayLunch.png" />
+                                        <img src="/media/images/Menu/png/2016/12/Winter-1.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/12/FestiveAfternoonTea.png" />
+                                        <img src="/media/images/Menu/png/2016/12/Winter-2.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/09/2Specials.png" />
+                                        <img src="/media/images/Menu/png/2016/12/Winter-3.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/09/1Lunch.png" />
+                                        <img src="/media/images/Menu/png/2016/12/SundayLunch1.png" />
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/png/2016/12/FestiveAfternoonTea2.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2016/07/Breakfast.png" />
-                                    </div>
-                                    <div class="item">
-                                        <img src="/media/images/Menu/png/2016/09/3Wine.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2016/01/Kids.png" />
@@ -121,7 +121,7 @@
                                 <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the menu">Winter menu</a><br>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Click to download the menu">Sunday lunch</a><br>
                                 <!-- <a href="/media/images/Menu/pdf/2016/12/SundayLunch.docx" target="_blank" title="Click to download the Menu">Sunday lunch </a><br> -->
-                                <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea.pdf" target="_blank" title="Click to download the menu">Festive afternoon tea </a><br>
+                                <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea2.pdf" target="_blank" title="Click to download the menu">Festive afternoon tea </a><br>
                                 <a href="/media/images/Menu/pdf/2016/07/Breakfast.pdf" target="_blank" title="Click to download the Breakfast menu">Breakfast </a><br>
                                 <a href="/media/images/Menu/pdf/2015/Kids.pdf" target="_blank" title="Click to download the kids menu">For children </a><br>
                             </p>
