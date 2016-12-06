@@ -57,7 +57,7 @@
                     </div>
                     <div class="row middle-row">
 
-                        <div class="col-md-8 col-md-offset-2">
+                        <div class="col-md-8 col-md-offset-0">
                             <div id="carousel-menu" class="carousel slide" data-ride="carousel">
                                 <!-- Indicators -->
                                 <ol class="carousel-indicators">
@@ -73,25 +73,25 @@
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/ChristmasMenu2016.png" />
+                                        <img src="/media/images/Menu/png/2016/09/Christmas.png" />
                                     </div>
                                     <div class="item ">
-                                        <img src="/media/images/Menu/png/201609PalmCourtMenu2Specials.png" />
+                                        <img src="/media/images/Menu/png/2016/09/2Specials.png" />
                                     </div>
                                     <div class="item ">
-                                        <img src="/media/images/Menu/png/201609PalmCourtMenu1Lunch.png" />
+                                        <img src="/media/images/Menu/png/2016/09/1Lunch.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/BreakfastMenu-20160717-1.png" />
+                                        <img src="/media/images/Menu/png/2016/07/Breakfast.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/201609PalmCourtMenu3Wine.png" />
+                                        <img src="/media/images/Menu/png/2016/09/3Wine.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/KidsMenu2015-4.png" />
+                                        <img src="/media/images/Menu/png/2016/01/Kids.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/201609PalmCourtMenu4Drinks.png" />
+                                        <img src="/media/images/Menu/png/2016/09/4Drinks.png" />
                                     </div>
                                 </div>
 
@@ -104,17 +104,17 @@
                                 </a>
                             </div> <!-- Carousel -->
                         </div>
-                        <div class="col-md-2">
-                            <h4 class="title-sub">Download</h4>
+                        <div class="col-md-4">
+                            <h4 class="title-sub">PDF download</h4>
 
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/2016/09/Christmas.pdf" target="_blank" title="Download the menu. Book early!">Christmas </a><br>
+                                <a href="/media/images/Menu/pdf/2016/09/Christmas.pdf" target="_blank" title="Download the menu. Book early!">Christmas menu </a><br>
                                 <!-- <a href="/media/images/Menu/pdf/2016/09/Main.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br> -->
-                                <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the Menu">Winter </a><br>
+                                <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the Menu">Winter menu</a><br>
                                 <!-- <a href="/media/images/Menu/pdf/2016/12/SundayLunch.docx" target="_blank" title="Click to download the Menu">Sunday lunch </a><br> -->
                                 <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea.pdf" target="_blank" title="Click to download the Menu">Festive afternoon tea </a><br>
                                 <a href="/media/images/Menu/pdf/2016/07/Breakfast.pdf" target="_blank" title="Click to download the Breakfast Menu">Breakfast </a><br>
-                                <a href="/media/images/Menu/pdf/2015/Kids.pdf" target="_blank" title="Click to download the Kids Menu">Kid's menu </a><br>
+                                <a href="/media/images/Menu/pdf/2015/Kids.pdf" target="_blank" title="Click to download the Kids Menu">For children </a><br>
                             </p>
                         </div>
                     </div>
