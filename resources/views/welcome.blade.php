@@ -118,7 +118,7 @@
                             <p class="download-box">
                                 <a href="/media/images/Menu/pdf/2016/09/Christmas.pdf" target="_blank" title="Download the menu. Book early!">Christmas menu </a><br>
                                 <!-- <a href="/media/images/Menu/pdf/2016/09/Main.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br> -->
-                                <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the menu">Winter menu</a><br>
+                                <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the menu">Winter menu (Lunch, Mains, Wines)</a><br>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Click to download the menu">Sunday lunch</a><br>
                                 <!-- <a href="/media/images/Menu/pdf/2016/12/SundayLunch.docx" target="_blank" title="Click to download the Menu">Sunday lunch </a><br> -->
                                 <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea2.pdf" target="_blank" title="Click to download the menu">Festive afternoon tea </a><br>
