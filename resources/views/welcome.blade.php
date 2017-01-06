@@ -37,7 +37,7 @@
                     <!-- </div> -->
                     <div class="row bottom-row">
                         <div class="col-md-5 col-md-offset-7">
-                            <h4 class="opening-times float-text">2016 Autumn opening times:</h4>
+                            <h4 class="opening-times float-text">2017 Winter opening times:</h4>
                         </div>
                         <div class="col-md-5 col-md-offset-7">
                             <p class="opening-times float-text">
@@ -69,15 +69,11 @@
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
                                     <li data-target="#carousel-menu" data-slide-to="6"></li>
                                     <li data-target="#carousel-menu" data-slide-to="7"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="8"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/2016/09/Christmas.png" />
-                                    </div>
-                                    <div class="item">
                                         <img src="/media/images/Menu/png/2016/12/Winter-1.png" />
                                     </div>
                                     <div class="item">
@@ -116,12 +112,12 @@
                             <h4 class="title-sub">PDF download</h4>
 
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/2016/09/Christmas.pdf" target="_blank" title="Download the menu. Book early!">Christmas menu </a><br>
+                                {{--<a href="/media/images/Menu/pdf/2016/09/Christmas.pdf" target="_blank" title="Download the menu. Book early!">Christmas menu </a><br>--}}
                                 <!-- <a href="/media/images/Menu/pdf/2016/09/Main.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br> -->
                                 <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the menu">Winter menu (Lunch, Mains, Wines)</a><br>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Click to download the menu">Sunday lunch</a><br>
                                 <!-- <a href="/media/images/Menu/pdf/2016/12/SundayLunch.docx" target="_blank" title="Click to download the Menu">Sunday lunch </a><br> -->
-                                <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea.pdf" target="_blank" title="Click to download the menu">Festive afternoon tea </a><br>
+                                <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea.pdf" target="_blank" title="Click to download the menu">Winter afternoon tea </a><br>
                                 <a href="/media/images/Menu/pdf/2016/07/Breakfast.pdf" target="_blank" title="Click to download the Breakfast menu">Breakfast </a><br>
                                 <a href="/media/images/Menu/pdf/2015/Kids.pdf" target="_blank" title="Click to download the kids menu">For children </a><br>
                             </p>
@@ -206,7 +202,7 @@
                     </div>
                     <div class="row bottom-row">
                         <div class="col-md-4">
-                            <h4 class="opening-times float-text">2016 Autumn opening times:</h4>
+                            <h4 class="opening-times float-text">2017 Winter opening times:</h4>
                         </div>
                         <div class="col-md-8">
                             <p class="opening-times float-text">
