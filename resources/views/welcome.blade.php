@@ -36,14 +36,7 @@
                         <!-- </div> -->
                     <!-- </div> -->
                     <div class="row bottom-row">
-                        <div class="col-md-5 col-md-offset-7">
-                            <h4 class="opening-times float-text">2017 Winter opening times:</h4>
-                        </div>
-                        <div class="col-md-5 col-md-offset-7">
-                            <p class="opening-times float-text">
                                 @include('partials.opening_times')
-                            </p>
-                        </div>
                     </div>
                 </div>
             </section>
@@ -117,7 +110,7 @@
                                 <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the menu">Winter menu (Lunch, Mains, Wines)</a><br>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Click to download the menu">Sunday lunch</a><br>
                                 <!-- <a href="/media/images/Menu/pdf/2016/12/SundayLunch.docx" target="_blank" title="Click to download the Menu">Sunday lunch </a><br> -->
-                                <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea.pdf" target="_blank" title="Click to download the menu">Winter afternoon tea </a><br>
+                                <a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea.pdf" target="_blank" title="Click to download the menu">Afternoon tea </a><br>
                                 <a href="/media/images/Menu/pdf/2016/07/Breakfast.pdf" target="_blank" title="Click to download the Breakfast menu">Breakfast </a><br>
                                 <a href="/media/images/Menu/pdf/2015/Kids.pdf" target="_blank" title="Click to download the kids menu">For children </a><br>
                             </p>
@@ -201,14 +194,7 @@
                         </div>
                     </div>
                     <div class="row bottom-row">
-                        <div class="col-md-4">
-                            <h4 class="opening-times float-text">2017 Winter opening times:</h4>
-                        </div>
-                        <div class="col-md-8">
-                            <p class="opening-times float-text">
                                 @include('partials.opening_times')
-                            </p>
-                        </div>
                     </div>
                     <div class="row bottom-row">
                         <div class="col-md-12">
