@@ -62,15 +62,11 @@
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
                                     <li data-target="#carousel-menu" data-slide-to="6"></li>
                                     <li data-target="#carousel-menu" data-slide-to="7"></li>
-                                    {{--<li data-target="#carousel-menu" data-slide-to="8"></li>--}}
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/2017/01/valentines.png" />
-                                    </div>
-                                    <div class="item">
                                         <img src="/media/images/Menu/png/2016/12/Winter-1.png" />
                                     </div>
                                     <div class="item">
@@ -82,9 +78,6 @@
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2016/12/SundayLunch1.png" />
                                     </div>
-                                    {{--<div class="item">--}}
-                                        {{--<img src="/media/images/Menu/png/2016/12/FestiveAfternoonTea2.png" />--}}
-                                    {{--</div>--}}
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2016/07/Breakfast.png" />
                                     </div>
@@ -109,12 +102,8 @@
                             <h4 class="title-sub">PDF download</h4>
 
                             <p class="download-box">
-                                <!-- <a href="/media/images/Menu/pdf/2016/09/Main.pdf" target="_blank" title="Click to download the Menu">Main menu </a><br> -->
-                                <a href="/media/images/Menu/pdf/2017/01/valentines-2017.pdf" target="_blank" title="Click to download the menu">Valentine's Day</a><br>
                                 <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the menu">Winter menu (Lunch, Mains, Wines)</a><br>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Click to download the menu">Sunday lunch</a><br>
-                                <!-- <a href="/media/images/Menu/pdf/2016/12/SundayLunch.docx" target="_blank" title="Click to download the Menu">Sunday lunch </a><br> -->
-                                {{--<a href="/media/images/Menu/pdf/2016/12/FestiveAfternoonTea.pdf" target="_blank" title="Click to download the menu">Afternoon tea </a><br>--}}
                                 <a href="/media/images/Menu/pdf/2016/07/Breakfast.pdf" target="_blank" title="Click to download the Breakfast menu">Breakfast </a><br>
                                 <a href="/media/images/Menu/pdf/2015/Kids.pdf" target="_blank" title="Click to download the kids menu">For children </a><br>
                             </p>
