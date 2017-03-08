@@ -46,6 +46,13 @@ html, body {
     font-weight: 100;
 }
 
+/*.facebook-box {*/
+    /*font-size: 1.2em;*/
+    /*line-height: 170%;*/
+    /*background-color: rgba(240,240,240,0.99);*/
+    /*padding-top: 40px;*/
+/*}*/
+
 .address {
     color: rgba(255,255,255,.99);
     background-color: rgba(0, 0, 0, .35);

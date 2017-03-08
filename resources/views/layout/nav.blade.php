@@ -4,6 +4,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="/" class="navbar-brand header-link">
                         <img id="nav-logo" src="/media/images/Home/logo-transparent.png" class="nav-logo" width="210" ></a>
+                        <div class="fb-like" data-href="http://www.palmcourtpavilion.co.uk" data-width="40" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
                     </li>
                     <li><a href="/#section-welcome">Welcome</a></li>
                     <li><a href="/#section-menu">Our menu</a></li>
