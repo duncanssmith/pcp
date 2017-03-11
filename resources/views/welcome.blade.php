@@ -21,8 +21,8 @@
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 col-md-offset-6 title">
-                           <h1 class="pull-right">Palm Court Pavilion</h1>
+                        <div class="col-md-8 col-md-offset-4 ">
+                           <h1 class="title pull-right">Palm Court Pavilion </h1>
                         </div>
 
 
