@@ -70,33 +70,24 @@
                                     <li data-target="#carousel-menu" data-slide-to="2"></li>
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="5"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="6"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="7"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/2016/12/Winter-1.png" />
+                                        <img src="/media/images/Menu/png/2017/05/Main-1.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/12/Winter-2.png" />
-                                    </div>
-                                    <div class="item">
-                                        <img src="/media/images/Menu/png/2016/12/Winter-3.png" />
+                                        <img src="/media/images/Menu/png/2017/05/Main-2.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2016/12/SundayLunch1.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/07/Breakfast.png" />
+                                        <img src="/media/images/Menu/png/2017/05/Breakfast.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/01/Kids.png" />
-                                    </div>
-                                    <div class="item">
-                                        <img src="/media/images/Menu/png/2016/09/4Drinks.png" />
+                                        <img src="/media/images/Menu/png/2017/05/Kids.png" />
                                     </div>
                                 </div>
 
@@ -110,13 +101,23 @@
                             </div> <!-- Carousel -->
                         </div>
                         <div class="col-md-4">
-                            <h4 class="title-sub">PDF download</h4>
-
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/2016/12/Winter.pdf" target="_blank" title="Click to download the menu">Menu (Lunch, Mains, Wines)</a><br>
-                                <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Click to download the menu">Sunday lunch</a><br>
-                                <a href="/media/images/Menu/pdf/2016/07/Breakfast.pdf" target="_blank" title="Click to download the Breakfast menu">Breakfast </a><br>
-                                <a href="/media/images/Menu/pdf/2015/Kids.pdf" target="_blank" title="Click to download the kids menu">For children </a><br>
+                                <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
+                                    <i class="fa fa-download"></i>
+                                    Main Menu: (Sandwiches/Salads/Mains/Afternoon Tea/Drinks/Wines)
+                                </a><br>
+                                <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Download the Sunday Lunch menu">
+                                    <i class="fa fa-download"></i>
+                                    Sunday lunch
+                                </a><br>
+                                <a href="/media/images/Menu/pdf/2017/05/Breakfast.pdf" target="_blank" title="Download the Breakfast menu">
+                                    <i class="fa fa-download"></i>
+                                    Breakfast
+                                </a><br>
+                                <a href="/media/images/Menu/pdf/2017/05/Kids.pdf" target="_blank" title="Download the kids menu">
+                                    <i class="fa fa-download"></i>
+                                    Kids
+                                </a><br>
                             </p>
                         </div>
                     </div>
@@ -166,9 +167,8 @@
                         </p>
                     </div>
                     <div class="col-md-4 col-md-offset-8">
-                        <h4 class="title-sub">Download</h4>
                         <p class="download-box">
-                            <a href="/media/images/Docs/PalmCourtPavilionFunctionsCurrent.docx" target="_blank" title="Click to download details about Palm Court Pavilions Functions">Functions information </a><br>
+                            <a href="/media/images/Documents/Functions.pdf" target="_blank" title="Download Functions info">Functions Information <i class="fa fa-download"></i></a><br>
                         </p>
                     </div>
                     </div>
