@@ -8,6 +8,6 @@
                               Tuesday to Friday: 9am to 6pm<br>
                               Saturday and Sunday: 8am to 6pm<br>
                               Evenings and private functions available by arrangement<br>
-                              We may close earlier that stated depending on the weather
+                              We may close earlier than stated depending on the weather
                             </p>
                         </div>
