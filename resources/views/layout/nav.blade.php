@@ -7,7 +7,7 @@
                         <div class="fb-like" data-href="http://www.palmcourtpavilion.co.uk" data-width="40" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
                     </li>
                     <li><a href="/#section-welcome">Welcome</a></li>
-                    <li><a href="/#section-menu">Our menu</a></li>
+                    <li><a href="/#section-menu">Menu</a></li>
                     <li><a href="/#section-views">Views</a></li>
                     <li><a href="/#section-functions">Functions</a></li>
                     <li><a href="/#section-about">About us</a></li>
