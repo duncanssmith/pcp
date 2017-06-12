@@ -56,7 +56,7 @@
                 <div class="container">
                     <div class="row top-row">
                         <div class="col-md-6 col-md-offset-6">
-                            <h1 class="title pull-right">Our menu</h1>
+                            <h1 class="title pull-right">Menu</h1>
                         </div>
                     </div>
                     <div class="row middle-row">
@@ -104,8 +104,10 @@
                             <p class="download-box">
                                 <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
                                     <i class="fa fa-download"></i>
-                                    Main Menu: (Sandwiches/Salads/Mains/Afternoon Tea/Drinks/Wines)
-                                </a><br>
+                                    Main Menu:
+                                    Panini/Sandwiches/Salads<br>Mains/Afternoon Tea<br>Drinks/Wine
+                                </a>
+                                <br>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Download the Sunday Lunch menu">
                                     <i class="fa fa-download"></i>
                                     Sunday lunch
