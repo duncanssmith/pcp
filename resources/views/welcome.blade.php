@@ -168,7 +168,7 @@
                     </div>
                     <div class="col-md-4 col-md-offset-8">
                         <p class="download-box">
-                            <a href="/media/images/Documents/Functions.pdf" target="_blank" title="Download Functions info">Functions Information <i class="fa fa-download"></i></a><br>
+                            <a href="/media/images/Documents/2017/06/Functions.pdf" target="_blank" title="Download Functions info">Functions information <i class="fa fa-download"></i></a><br>
                         </p>
                     </div>
                     </div>

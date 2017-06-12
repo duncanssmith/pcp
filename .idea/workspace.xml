@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cde1b70a-1fff-4d99-b1fc-75d162ac3e6c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/Functions.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions20161206.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions20170101.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions20170502.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctionsCurrent.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionMothersDayMenu-2017.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/media/images/Documents/SundayLunch.docx" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Docs/PalmCourtPavilionFunctions.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Docs/PalmCourtPavilionFunctions20161206.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Docs/PalmCourtPavilionFunctions20170101.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Docs/PalmCourtPavilionFunctions20170502.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Docs/PalmCourtPavilionFunctionsCurrent.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Docs/SundayLunch.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Menu/pdf/2017/05/BreakfastMenu.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Menu/pdf/2017/05/KidsMenu.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Menu/pdf/2017/05/MainMenu.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/Functions.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions20161206.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions20170101.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctions20170502.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionFunctionsCurrent.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/PalmCourtPavilionMothersDayMenu-2017.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/media/images/Documents/SundayLunch.docx" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/palmcourtpavilion.local.iml" afterPath="$PROJECT_DIR$/.idea/palmcourtpavilion.local.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
     </list>
@@ -44,8 +36,8 @@
       <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+            <state relative-caret-position="139">
+              <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,8 +80,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -107,6 +100,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -305,7 +299,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,7 +309,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -399,15 +403,18 @@
       <workItem from="1487627486697" duration="101000" />
       <workItem from="1487934725594" duration="738000" />
       <workItem from="1488973570966" duration="520000" />
-      <workItem from="1493745388583" duration="1890000" />
+      <workItem from="1493745388583" duration="1997000" />
+      <workItem from="1497297801862" duration="20000" />
+      <workItem from="1497297867890" duration="134000" />
+      <workItem from="1497298176296" duration="314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9883000" />
+    <option name="totallyTimeSpent" value="10458000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -738,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="334" lean-forward="false" selection-start-line="0" selection-start-column="334" selection-end-line="0" selection-end-column="334" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,14 +794,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="652">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="86" column="79" lean-forward="false" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+        <state relative-caret-position="139">
+          <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
           <folding />
         </state>
       </provider>
