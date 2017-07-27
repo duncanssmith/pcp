@@ -4,50 +4,48 @@
         @include('layout.head')
     @show
     <body data-spy="scroll" data-target="#pcp-navbar" data-offset="90">
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
 
-        @section('nav')
-            @include('layout.nav')
-        @show
+        {{--<div id="fb-root">--}}
+            {{--<script>(function(d, s, id) {--}}
+                    {{--var js, fjs = d.getElementsByTagName(s)[0];--}}
+                    {{--if (d.getElementById(id)) return;--}}
+                    {{--js = d.createElement(s); js.id = id;--}}
+                    {{--js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";--}}
+                    {{--fjs.parentNode.insertBefore(js, fjs);--}}
+                {{--}(document, 'script', 'facebook-jssdk'));--}}
+{{--//            </script>--}}
+//        </div>
+
         <div id="content">
+
+            @section('nav')
+                @include('layout.nav')
+            @show
 
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-md-offset-4 ">
-                           <h1 class="title pull-right">Palm Court Pavilion </h1>
+                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                           <h1 class="title">Palm Court Pavilion </h1>
                         </div>
-
-
                     </div>
                     <div class="row">
-                        <div class="col-md-12 col-md-offset-0">
-                            <p class="float-text-main">
-                                @include('partials.text_1')
-                            </p>
+                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                            @include('partials.text_1')
                         </div>
                     </div>
                     <div class="row video">
-                        <div class="col-md-6 col-md-offset-1">
+                        <div class="col-lg-10 col-md-6 col-md-offset-1 col-sm-4 col-xs-2 visible-desktop visible-tablet hidden-phone">
                             @include('partials.you-tube-video')
                         </div>
                     </div>
-                    <!-- <div class="row"> -->
-                        <!-- <div class="col-md-5 col-md-offset-7"> -->
-                            <!-- <p class="float-text-main"> -->
-                                <!-- @include('partials.text_1') -->
-                            <!-- </p> -->
-                        <!-- </div> -->
-                    <!-- </div> -->
+                    <div class="row">
+                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                                @include('partials.text_1')
+                        </div>
+                    </div>
                     <div class="row bottom-row">
-                                @include('partials.opening_times')
+                         @include('partials.opening_times')
                     </div>
                 </div>
             </section>
@@ -55,8 +53,8 @@
             <section id="section-menu" class="section photo">
                 <div class="container">
                     <div class="row top-row">
-                        <div class="col-md-6 col-md-offset-6">
-                            <h1 class="title pull-right">Menu</h1>
+                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                            <h1 class="title">Menu</h1>
                         </div>
                     </div>
                     <div class="row middle-row">
@@ -105,21 +103,21 @@
                                 <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
                                     <i class="fa fa-download"></i>
                                     Main Menu:
-                                    Panini/Sandwiches/Salads<br>Mains/Afternoon Tea<br>Drinks/Wine
+                                    Panini/Sandwiches/Salads<br/>Mains/Afternoon Tea<br/>Drinks/Wine
                                 </a>
-                                <br>
+                                <br/>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Download the Sunday Lunch menu">
                                     <i class="fa fa-download"></i>
                                     Sunday lunch
-                                </a><br>
+                                </a><br/>
                                 <a href="/media/images/Menu/pdf/2017/05/Breakfast.pdf" target="_blank" title="Download the Breakfast menu">
                                     <i class="fa fa-download"></i>
                                     Breakfast
-                                </a><br>
+                                </a><br/>
                                 <a href="/media/images/Menu/pdf/2017/05/Kids.pdf" target="_blank" title="Download the kids menu">
                                     <i class="fa fa-download"></i>
                                     Kids
-                                </a><br>
+                                </a><br/>
                             </p>
                         </div>
                     </div>
@@ -129,12 +127,12 @@
             <section id="section-views" class="section photo">
                 <div class="container">
                     <div class="row top-row">
-                        <div class="col-md-6 col-md-offset-6">
-                            <h1 class="title pull-right">Enjoy the views</h1>
+                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                            <h1 class="title">Views</h1>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
+                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
                             <div class="fotorama" data-nav="thumbs">
                                 <img src="/media/images/Home/aMainFront-1.jpg" width="400px">
                                 <img src="/media/images/Home/aInteriorSpace-1.jpg" width="400px">
@@ -154,21 +152,16 @@
 
             <section id="section-functions" class="section photo">
                 <div class="container">
-                    <div class="col-md-4 col-md-offset-8">
+                    <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
                         <h1 class="title">Functions</h1>
                     </div>
-
-                    <div class="col-md-4 col-md-offset-8">
-                        <p class="float-text">
-                            @include('partials.text_2')
-                        </p>
+                    <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                        @include('partials.text_2')
                     </div>
-                    <div class="col-md-4 col-md-offset-8">
-                        <p class="float-text">
-                            @include('partials.text_3')
-                        </p>
+                    <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                        @include('partials.text_3')
                     </div>
-                    <div class="col-md-4 col-md-offset-8">
+                    <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
                         <p class="download-box">
                             <a href="/media/images/Documents/2017/06/Functions.pdf" target="_blank" title="Download Functions info">Functions information <i class="fa fa-download"></i></a><br>
                         </p>
@@ -180,30 +173,29 @@
             <section id="section-about" class="section photo">
                 <div class="container">
                     <div class="row top-row">
-                        <div class="col-md-6 col-md-offset-6">
-                            <h1 class="title pull-right">About us</h1>
+                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                            <h1 class="title">About us</h1>
                         </div>
                     </div>
                     <div class="row middle-row">
-                        <div class="col-md-5 ">
-                            <p class="address float-text">
-                                @include('partials.address')
-                            </p>
+                        <div class="col-lg-5 col-md-4 col-sm-4 col-xs-3">
+                            @include('partials.address')
                         </div>
-                        <div class="col-md-7">
-                            <p class="float-text">
-                                @include('partials.text_4')
-                            </p>
-                            <p class="float-text">
-                                @include('partials.text_5')
-                            </p>
+                        {{--<div class="col-lg-8 col-md-5 col-sm-4 col-xs-3">--}}
+                        <div class="col-lg-7 col-md-8 col-sm-8 col-xs-4">
+                             @include('partials.text_4')
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-3">
+                             @include('partials.text_5')
                         </div>
                     </div>
                     <div class="row bottom-row">
-                                @include('partials.opening_times')
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-3">
+                            @include('partials.opening_times')
+                        </div>
                     </div>
                     <div class="row bottom-row">
-                        <div class="col-md-12">
+                        <div class="col-lg-10 col-md-12 col-sm-6 col-xs-4">
                             <div class="google-map-container">
                                 <h1>How to find us</h1>
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.9094489491195!2d-0.36574868437995894!3d50.81431636896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDQ4JzUxLjUiTiAwwrAyMSc0OC44Ilc!5e0!3m2!1sen!2suk!4v1451944856246" width="100%" height="400px" frameborder="2" style="border:2px; padding:4px;" ></iframe>
