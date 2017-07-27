@@ -27,6 +27,6 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-//Route::get('/responsive', function () {
-//    return view('responsive');
-//});
+Route::get('/responsive', function () {
+    return view('responsive');
+});
