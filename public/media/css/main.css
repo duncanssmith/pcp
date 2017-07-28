@@ -35,7 +35,6 @@ html, body {
     font-family:'Oswald', sans-serif;
     font-weight: 100;
     font-size: 64px;
-    font-weight: 100;
     background-color: rgba(0, 0, 0, .45);
     color: rgba(255,255,255,.95);
 }
@@ -119,6 +118,7 @@ h4.opening-times {
 #section-welcome {
     padding-top: 40px;
     background: #282828 url('../images/Home/aMainFront-5.jpg') no-repeat center center;
+    /*background: #282828;*/
     background-size: cover;
     color: rgba(255,255,255,1);
     font-size: 1.0em;
@@ -128,12 +128,14 @@ h4.opening-times {
     padding-top: 40px;
     text-align: left;
     background: #282828 url('../images/Home/gCoffeeMachine.jpg') no-repeat center center;
+    /*background: #282828;*/
     background-size: cover;
     color: rgba(255,255,255,1);
 }
 #section-functions {
     padding-top: 40px;
     background: #282828 url('../images/Home/gQuartet.jpg') no-repeat center center;
+    /*background: #282828;*/
     background-size: cover;
     color: rgba(255,255,255,1);
     font-size: 1.0em;
@@ -142,12 +144,14 @@ h4.opening-times {
 #section-views {
     padding-top: 40px;
     background: #282828 url('../images/Home/aInteriorSpace-1.jpg') no-repeat center center;
+    /*background: #282828;*/
     background-size: cover;
     color: rgba(255,255,255,1);
 }
 #section-menu {
     padding-top: 40px;
     background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
+    /*background: #282828;*/
     background-size: cover;
 }
 .menu-page-1 {
@@ -158,6 +162,7 @@ h4.opening-times {
 }
 .top-photo {
   background: #eee url('../images/Home/gOffer1.jpg') no-repeat center center;
+  /*background: #282828;*/
   min-height: 285px;
   background-size: cover;
   color: #fff;
@@ -301,7 +306,7 @@ h1 {
 }
 
 .top-photo {
-    background: #282828 url('') no-repeat top center;
+    /*background: #282828 url('') no-repeat top center;*/
     min-height: 285px;
     background-size: cover;
     color: rgba(100,100,100,.9);

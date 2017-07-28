@@ -35,17 +35,14 @@
                         </div>
                     </div>
                     <div class="row video">
-                        <div class="col-lg-10 col-md-6 col-md-offset-1 col-sm-4 col-xs-2 visible-desktop visible-tablet hidden-phone">
+                        <div class="col-lg-10 col-md-6 col-sm-4 col-xs-2">
                             @include('partials.you-tube-video')
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
-                                @include('partials.text_1')
+                            @include('partials.opening_times')
                         </div>
-                    </div>
-                    <div class="row bottom-row">
-                         @include('partials.opening_times')
                     </div>
                 </div>
             </section>
