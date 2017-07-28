@@ -55,7 +55,7 @@ html, body {
 .address {
     color: rgba(255,255,255,.99);
     background-color: rgba(0, 0, 0, .35);
-    font-family: Old Standard TT;
+    font-family: Old Standard TT, Georgia, Times, "Times New Roman", serif;
     font-size: 1.2em;
     line-height: 170%;
     font-weight: 200;
@@ -63,7 +63,7 @@ html, body {
 .address-email {
     color: rgba(255,255,255,.99);
     background-color: rgba(0, 0, 0, 0);
-    font-family: Old Standard TT;
+    font-family: Old Standard TT, Georgia, Times, "Times New Roman", serif;
     font-size: 1em;
     line-height: 100%;
     font-weight: 200;
@@ -72,7 +72,7 @@ html, body {
 .opening-times {
     color: rgba(255,255,255,.99);
     background-color: rgba(0, 0, 0, .35);
-    font-family: Old Standard TT;
+    font-family: Old Standard TT, Georgia, Times, "Times New Roman", serif;
     font-size: 1.2em;
     line-height: 170%;
     font-weight: 200;
@@ -117,8 +117,8 @@ h4.opening-times {
 
 #section-welcome {
     padding-top: 40px;
-    background: #282828 url('../images/Home/aMainFront-5.jpg') no-repeat center center;
-    /*background: #282828;*/
+    /*background: #282828 url('../images/Home/aMainFront-5.jpg') no-repeat center center;*/
+    background: #282828;
     background-size: cover;
     color: rgba(255,255,255,1);
     font-size: 1.0em;
@@ -183,7 +183,7 @@ section.flat > .container {
     padding: 0;
 }
 section.flat > .container > .photo-float {
-    padding: 30px 0px 30px 0px;
+    padding: 30px 0 30px 0;
     min-height: 285px;
 }
 .groupon-logo-style {
@@ -235,7 +235,7 @@ section.photo > .container > .row {
 }
 
 .welcome {
-    text-align;left;
+    text-align: left;
     width: 300px;
     height: 200px;
     position: absolute;
@@ -283,7 +283,7 @@ h1 {
     background: rgba(255, 255, 255, .0);
 }
 .work-container {
-    border: 0px solid #00f;
+    border: 0 solid #00f;
     width: 200px;
     padding: 10px 40px ;
     font-size: 0.8em;
@@ -295,7 +295,7 @@ h1 {
 }
 .text-container {
     margin: 80px 0 0 0;
-    border: 0px solid #f00;
+    border: 0 solid #f00;
     padding: 10px 40px ;
     font-size: 0.9em;
     color: #444;

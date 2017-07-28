@@ -25,38 +25,48 @@
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                        {{--<div class="col-lg-12 col-md-9 col-sm-6 col-sm-3">--}}
+                        <div class="col-lg-9 col-md-9 col-sm-6 col-xs-3">
+                        {{--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">--}}
                            <h1 class="title">Palm Court Pavilion </h1>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                        {{--</div>--}}
+                        {{--<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">--}}
                             @include('partials.text_1')
                         </div>
-                    </div>
-                    <div class="row video">
-                        <div class="col-lg-10 col-md-6 col-sm-4 col-xs-2">
-                            @include('partials.you-tube-video')
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                        {{--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">--}}
+                        {{--<div class="col-lg-3">--}}
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                             @include('partials.opening_times')
                         </div>
                     </div>
+                    {{--<div class="row">--}}
+                        {{--<div class="col-lg-10 col-md-8 col-sm-6 col-xs-3 float-text">--}}
+                            {{--@include('partials.text_1')--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                    <div class="row video">
+                        <div class="col-lg-10 col-md-6 col-sm-4 col-xs-3">
+                            @include('partials.you-tube-video')
+                        </div>
+                    </div>
+                    {{--<div class="row">--}}
+                        {{--<div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">--}}
+                            {{--@include('partials.opening_times')--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
                 </div>
             </section>
 
             <section id="section-menu" class="section photo">
                 <div class="container">
                     <div class="row top-row">
-                        <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <h1 class="title">Menu</h1>
                         </div>
                     </div>
                     <div class="row middle-row">
 
-                        <div class="col-md-8 col-md-offset-0">
+                        <div class="col-lg-8 col-md-8 col-sm-6 col-xs-6">
                             <div id="carousel-menu" class="carousel slide" data-ride="carousel">
                                 <!-- Indicators -->
                                 <ol class="carousel-indicators">
@@ -95,7 +105,7 @@
                                 </a>
                             </div> <!-- Carousel -->
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
                             <p class="download-box">
                                 <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
                                     <i class="fa fa-download"></i>
