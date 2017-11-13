@@ -65,11 +65,15 @@
                                     <li data-target="#carousel-menu" data-slide-to="2"></li>
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
+                                    <li data-target="#carousel-menu" data-slide-to="5"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
+                                        <img src="/media/images/Menu/png/2017/11/Christmas.png" />
+                                    </div>
+                                    <div class="item">
                                         <img src="/media/images/Menu/png/2017/05/Main-1.png" />
                                     </div>
                                     <div class="item">
@@ -97,6 +101,11 @@
                         </div>
                         <div class="col-md-4">
                             <p class="download-box">
+                                <a href="/media/images/Menu/pdf/2017/11/Christmas.pdf" target="_blank" title="Download the Main Menu">
+                                    <i class="fa fa-download"></i>
+                                    Christmas 2017 Menu and Booking Form
+                                </a>
+                                <br/>
                                 <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
                                     <i class="fa fa-download"></i>
                                     Main Menu:
@@ -160,7 +169,7 @@
                     </div>
                     <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
                         <p class="download-box">
-                            <a href="/media/images/Documents/2017/06/Functions.pdf" target="_blank" title="Download Functions info">Functions information <i class="fa fa-download"></i></a><br>
+                            <a href="/media/images/Documents/2017/11/Functions.pdf" target="_blank" title="Download Functions info">Functions information <i class="fa fa-download"></i></a><br>
                         </p>
                     </div>
                     </div>
