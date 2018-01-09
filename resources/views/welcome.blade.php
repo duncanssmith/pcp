@@ -71,9 +71,6 @@
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/2017/11/Christmas.png" />
-                                    </div>
-                                    <div class="item">
                                         <img src="/media/images/Menu/png/2017/05/Main-1.png" />
                                     </div>
                                     <div class="item">
@@ -101,11 +98,11 @@
                         </div>
                         <div class="col-md-4">
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/2017/11/Christmas.pdf" target="_blank" title="Download the Main Menu">
-                                    <i class="fa fa-download"></i>
-                                    Christmas 2017 Menu and Booking Form
-                                </a>
-                                <br/>
+                                {{--  <a href="/media/images/Menu/pdf/2017/11/Christmas.pdf" target="_blank" title="Download the Main Menu">  --}}
+                                    {{--  <i class="fa fa-download"></i>  --}}
+                                    {{--  Christmas 2017 Menu and Booking Form  --}}
+                                {{--  </a>  --}}
+                                {{--  <br/>  --}}
                                 <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
                                     <i class="fa fa-download"></i>
                                     Main Menu:
