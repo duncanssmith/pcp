@@ -170,7 +170,8 @@
                             <a href="/media/images/Documents/2017/11/Functions.pdf" target="_blank" title="Download Functions info">Functions information <i class="fa fa-download"></i></a><br>
                         </p>
                         -->
-                        <h1 class="">Please note: we are currently updating our Functions information for 2018</h4>
+                            <h1 class="">Please note: we are currently updating our Functions information for 2018.</h1>
+                            <h1>Please call us on 01903 212 011 for a quote</h1>
                     </div>
                     </div>
                 </div>
