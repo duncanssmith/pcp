@@ -66,15 +66,15 @@
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
-                                    <li data-target="#carousel-menu" data-slide-to="6"></li>
+                                    {{--  <li data-target="#carousel-menu" data-slide-to="6"></li>  --}}
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="/media/images/Menu/png/2018/01/Valentines.png" />
-                                    </div>
-                                    <div class="item">
+                                        {{--  <img src="/media/images/Menu/png/2018/01/Valentines.png" />  --}}
+                                    {{--  </div>  --}}
+                                    {{--  <div class="item">  --}}
                                         <img src="/media/images/Menu/png/2017/05/Main-1.png" />
                                     </div>
                                     <div class="item">
@@ -107,11 +107,11 @@
                                     {{--  Christmas 2017 Menu and Booking Form  --}}
                                 {{--  </a>  --}}
                                 {{--  <br/>  --}}
-                                <a href="/media/images/Menu/pdf/2018/01/Valentines.pdf" target="_blank" title="Download the Valentine's Day Menu">
-                                    <i class="fa fa-download"></i>
-                                    Valentine's Day Menu
-                                </a>
-                                <br/>
+                                {{--  <a href="/media/images/Menu/pdf/2018/01/Valentines.pdf" target="_blank" title="Download the Valentine's Day Menu">  --}}
+                                    {{--  <i class="fa fa-download"></i>  --}}
+                                    {{--  Valentine's Day Menu  --}}
+                                {{--  </a>  --}}
+                                {{--  <br/>  --}}
                                 <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
                                     <i class="fa fa-download"></i>
                                     Main Menu:
@@ -175,7 +175,7 @@
                     </div>
                     <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
                         <p class="download-box">
-                            <a href="/media/images/Documents/2018/01/Functions.pdf" target="_blank" title="Download Functions info">Functions information <i class="fa fa-download"></i></a><br>
+                            <a href="/media/images/Documents/2018/02/Functions.pdf" target="_blank" title="Download Functions info">Functions information <i class="fa fa-download"></i></a><br>
                             <h1>Please call us on 01903 212 011 for a quote</h1>
                         </p>
                     </div>
