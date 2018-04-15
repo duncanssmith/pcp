@@ -55,7 +55,6 @@
                         </div>
                     </div>
                     <div class="row middle-row">
-
                         <div class="col-md-8 col-md-offset-0">
                             <div id="carousel-menu" class="carousel slide" data-ride="carousel">
                                 <!-- Indicators -->
@@ -66,7 +65,7 @@
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
-                                    {{--  <li data-target="#carousel-menu" data-slide-to="6"></li>  --}}
+                                    {{-- <li data-target="#carousel-menu" data-slide-to="6"></li>  --}}
                                 </ol>
 
                                 <!-- Wrapper for slides -->
@@ -75,17 +74,23 @@
                                         {{--  <img src="/media/images/Menu/png/2018/01/Valentines.png" />  --}}
                                     {{--  </div>  --}}
                                     {{--  <div class="item">  --}}
-                                        <img src="/media/images/Menu/png/2017/05/Main-1.png" />
+                                        <img src="/media/images/Menu/png/2018/04/mains-1.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2017/05/Main-2.png" />
+                                        <img src="/media/images/Menu/png/2018/04/mains-2.png" />
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/png/2018/04/veganVeggie.png" />
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/png/2018/04/drinks.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2016/12/SundayLunch1.png" />
                                     </div>
-                                    <div class="item">
-                                        <img src="/media/images/Menu/png/2017/05/Breakfast.png" />
-                                    </div>
+                                    {{-- <div class="item"> --}}
+                                        {{-- <img src="/media/images/Menu/png/2017/05/Breakfast.png" /> --}}
+                                    {{-- </div> --}}
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2017/05/Kids.png" />
                                     </div>
@@ -112,20 +117,33 @@
                                     {{--  Valentine's Day Menu  --}}
                                 {{--  </a>  --}}
                                 {{--  <br/>  --}}
-                                <a href="/media/images/Menu/pdf/2017/05/Main.pdf" target="_blank" title="Download the Main Menu">
+                                <a href="/media/images/Menu/pdf/2018/04/mains.pdf" target="_blank" title="Download the Main Menu">
                                     <i class="fa fa-download"></i>
                                     Main Menu:
-                                    Panini/Sandwiches/Salads<br/>Mains/Afternoon Tea<br/>Drinks/Wine
+                                    Breakfast/Sandwiches/Salads
+                                    <br/>
+                                    Mains/Afternoon Tea
+                                </a>
+                                <br/>
+                                <a href="/media/images/Menu/pdf/2018/04/veganVeggie.pdf" target="_blank" title="Download the Vegetarian/Vegan Menu">
+                                    <i class="fa fa-download"></i>
+                                    Vegetarian/Vegan
+                                </a>
+                                <br/>
+                                <a href="/media/images/Menu/pdf/2018/04/drinks.pdf" target="_blank" title="Download the Drinks Menu">
+                                    <i class="fa fa-download"></i>
+                                    Drinks/Wine
                                 </a>
                                 <br/>
                                 <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Download the Sunday Lunch menu">
                                     <i class="fa fa-download"></i>
                                     Sunday lunch
-                                </a><br/>
-                                <a href="/media/images/Menu/pdf/2017/05/Breakfast.pdf" target="_blank" title="Download the Breakfast menu">
-                                    <i class="fa fa-download"></i>
-                                    Breakfast
-                                </a><br/>
+                                </a>
+                                <br/>
+                                {{-- <a href="/media/images/Menu/pdf/2017/05/Breakfast.pdf" target="_blank" title="Download the Breakfast menu"> --}}
+                                    {{-- <i class="fa fa-download"></i> --}}
+                                    {{-- Breakfast --}}
+                                {{-- </a><br/> --}}
                                 <a href="/media/images/Menu/pdf/2017/05/Kids.pdf" target="_blank" title="Download the kids menu">
                                     <i class="fa fa-download"></i>
                                     Kids
