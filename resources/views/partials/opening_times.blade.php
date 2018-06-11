@@ -3,7 +3,7 @@
   Monday: Closed (available for private functions)<br/>
   Bank Holidays: Open 9am to 5pm<br/>
   Tuesday to Friday: 9am to 5pm<br/>
-  Saturday and Sunday: 8am to 5pm<br/>
+  Saturday and Sunday: 8am to 5pm (last orders 4pm)<br/>
 </p>
 <p class="opening-times float-text">
   <u>Please note</u><br/> 
