@@ -170,13 +170,16 @@
                             <div class="fotorama" data-nav="thumbs">
                                 <img src="/media/images/Home/aMainFront-1.jpg" width="400px">
                                 <img src="/media/images/Home/aInteriorSpace-1.jpg" width="400px">
+                                <img src="/media/images/Home/aBreakfastBuffetRoom.jpg" width="400px">
+                                <img src="/media/images/Home/aBreakfastBuffetContinental.jpg" width="400px">
+                                <img src="/media/images/Home/aBreakfastBuffetBakery.jpg" width="400px">
                                 <img src="/media/images/Home/aMainFront-2.jpg" width="400px">
                                 <img src="/media/images/Home/aInteriorSpace-2.jpg" width="400px">
-                                <img src="/media/images/Home/aMainFront-3.jpg" width="400px">
-                                <img src="/media/images/Home/gCoffeeMachine.jpg" width="200px">
-                                <img src="/media/images/Home/aMainFront-4.jpg" width="400px">
-                                <img src="/media/images/Home/gCoffeePour.jpg" width="400px">
-                                <img src="/media/images/Home/gFacade.jpg" width="400px">
+                                {{-- <img src="/media/images/Home/aMainFront-3.jpg" width="400px"> --}}
+                                {{-- <img src="/media/images/Home/gCoffeeMachine.jpg" width="200px"> --}}
+                                {{-- <img src="/media/images/Home/aMainFront-4.jpg" width="400px"> --}}
+                                {{-- <img src="/media/images/Home/gCoffeePour.jpg" width="400px"> --}}
+                                {{-- <img src="/media/images/Home/gFacade.jpg" width="400px"> --}}
                             </div>
 
                         </div>
