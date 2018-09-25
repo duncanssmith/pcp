@@ -30,9 +30,6 @@
                         </div>
                     </div>
                     <div class="row">
-                            <img src="media/images/Documents/2018/06/MusicInThePark2018.jpg" width="60%"/>
-                    </div>
-                    <div class="row">
                         <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
                             @include('partials.text_1')
                         </div>
