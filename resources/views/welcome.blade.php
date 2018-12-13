@@ -140,7 +140,7 @@
                                     <i class="fa fa-download"></i>
                                     Brunch
                                 </a><br/>
-                                <a href="/media/images/Menu/pdf/2018/11/brunch.pdf" target="_blank" title="Download the Brunch Menu">
+                                <a href="/media/images/Menu/pdf/2018/11/lunch.pdf" target="_blank" title="Download the Brunch Menu">
                                     <i class="fa fa-download"></i>
                                     Lunch
                                 </a><br/>
