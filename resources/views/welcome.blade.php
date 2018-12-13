@@ -75,10 +75,15 @@
                                          <img src="/media/images/Menu/png/2018/11/Christmas.png" />
                                      </div>
                                      <div class="item">
-                                        <img src="/media/images/Menu/png/2018/04/mains-1.png" />
+                                        {{-- <img src="/media/images/Menu/png/2018/04/mains-1.png" /> --}}
+                                        <img src="/media/images/Menu/png/2018/11/breakfast.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2018/04/mains-2.png" />
+                                        {{-- <img src="/media/images/Menu/png/2018/04/mains-2.png" /> --}}
+                                        <img src="/media/images/Menu/png/2018/11/brunch.png" />
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/png/2018/11/lunch.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2018/04/veganVeggie.png" />
@@ -87,7 +92,8 @@
                                         <img src="/media/images/Menu/png/2018/04/drinks.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2016/12/SundayLunch1.png" />
+                                        {{-- <img src="/media/images/Menu/png/2016/12/SundayLunch1.png" /> --}}
+                                        <img src="/media/images/Menu/png/2018/11/sundayLunch.png" />
                                     </div>
                                     {{-- <div class="item"> --}}
                                         {{-- <img src="/media/images/Menu/png/2017/05/Breakfast.png" /> --}}
@@ -118,14 +124,26 @@
                                     {{--  Valentine's Day Menu  --}}
                                 {{--  </a>  --}}
                                 {{--  <br/>  --}}
-                                <a href="/media/images/Menu/pdf/2018/04/mains.pdf" target="_blank" title="Download the Main Menu">
+                                {{-- <a href="/media/images/Menu/pdf/2018/04/mains.pdf" target="_blank" title="Download the Main Menu"> --}}
+                                    {{-- <i class="fa fa-download"></i> --}}
+                                    {{-- Main Menu: --}}
+                                    {{-- Breakfast/Sandwiches/Salads --}}
+                                    {{-- <br/> --}}
+                                    {{-- Mains/Afternoon Tea --}}
+                                {{-- </a> --}}
+                                {{-- <br/> --}}
+                                <a href="/media/images/Menu/pdf/2018/11/breakfast.pdf" target="_blank" title="Download the Breakfast Menu">
                                     <i class="fa fa-download"></i>
-                                    Main Menu:
-                                    Breakfast/Sandwiches/Salads
-                                    <br/>
-                                    Mains/Afternoon Tea
-                                </a>
-                                <br/>
+                                    Breakfast
+                                </a><br/>
+                                <a href="/media/images/Menu/pdf/2018/11/brunch.pdf" target="_blank" title="Download the Brunch Menu">
+                                    <i class="fa fa-download"></i>
+                                    Brunch
+                                </a><br/>
+                                <a href="/media/images/Menu/pdf/2018/11/brunch.pdf" target="_blank" title="Download the Brunch Menu">
+                                    <i class="fa fa-download"></i>
+                                    Lunch
+                                </a><br/>
                                 <a href="/media/images/Menu/pdf/2018/04/veganVeggie.pdf" target="_blank" title="Download the Vegetarian/Vegan Menu">
                                     <i class="fa fa-download"></i>
                                     Vegetarian/Vegan
@@ -136,7 +154,7 @@
                                     Drinks/Wine
                                 </a>
                                 <br/>
-                                <a href="/media/images/Menu/pdf/2016/12/SundayLunch.pdf" target="_blank" title="Download the Sunday Lunch menu">
+                                <a href="/media/images/Menu/pdf/2018/11/SundayLunch.pdf" target="_blank" title="Download the Sunday Lunch menu">
                                     <i class="fa fa-download"></i>
                                     Sunday lunch
                                 </a>
