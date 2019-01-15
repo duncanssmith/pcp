@@ -114,11 +114,11 @@
                         </div>
                         <div class="col-md-4">
                             <p class="download-box">
-                                 <a href="/media/images/Menu/pdf/2018/11/Christmas.pdf" target="_blank" title="Download the Main Menu">
-                                     <i class="fa fa-download"></i>
-                                     Christmas 2018 Menu and Booking Form
-                                 </a>
-                                 <br/>
+                                 {{-- <a href="/media/images/Menu/pdf/2018/11/Christmas.pdf" target="_blank" title="Download the Main Menu"> --}}
+                                     {{-- <i class="fa fa-download"></i> --}}
+                                     {{-- Christmas 2018 Menu and Booking Form --}}
+                                 {{-- </a> --}}
+                                 {{-- <br/> --}}
                                 {{--  <a href="/media/images/Menu/pdf/2018/01/Valentines.pdf" target="_blank" title="Download the Valentine's Day Menu">  --}}
                                     {{--  <i class="fa fa-download"></i>  --}}
                                     {{--  Valentine's Day Menu  --}}
