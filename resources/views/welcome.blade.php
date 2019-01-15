@@ -66,20 +66,15 @@
                                     <li data-target="#carousel-menu" data-slide-to="3"></li>
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
-                                    {{-- <li data-target="#carousel-menu" data-slide-to="6"></li>  --}}
+                                    <li data-target="#carousel-menu" data-slide-to="6"></li> 
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
-                                    <div class="item active">
-                                         <img src="/media/images/Menu/png/2018/11/Christmas.png" />
-                                     </div>
-                                     <div class="item">
-                                        {{-- <img src="/media/images/Menu/png/2018/04/mains-1.png" /> --}}
+                                     <div class="item active">
                                         <img src="/media/images/Menu/png/2018/11/breakfast.png" />
                                     </div>
                                     <div class="item">
-                                        {{-- <img src="/media/images/Menu/png/2018/04/mains-2.png" /> --}}
                                         <img src="/media/images/Menu/png/2018/11/brunch.png" />
                                     </div>
                                     <div class="item">
@@ -92,12 +87,8 @@
                                         <img src="/media/images/Menu/png/2018/04/drinks.png" />
                                     </div>
                                     <div class="item">
-                                        {{-- <img src="/media/images/Menu/png/2016/12/SundayLunch1.png" /> --}}
                                         <img src="/media/images/Menu/png/2018/11/sundayLunch.png" />
                                     </div>
-                                    {{-- <div class="item"> --}}
-                                        {{-- <img src="/media/images/Menu/png/2017/05/Breakfast.png" /> --}}
-                                    {{-- </div> --}}
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2017/05/Kids.png" />
                                     </div>
@@ -114,24 +105,6 @@
                         </div>
                         <div class="col-md-4">
                             <p class="download-box">
-                                 {{-- <a href="/media/images/Menu/pdf/2018/11/Christmas.pdf" target="_blank" title="Download the Main Menu"> --}}
-                                     {{-- <i class="fa fa-download"></i> --}}
-                                     {{-- Christmas 2018 Menu and Booking Form --}}
-                                 {{-- </a> --}}
-                                 {{-- <br/> --}}
-                                {{--  <a href="/media/images/Menu/pdf/2018/01/Valentines.pdf" target="_blank" title="Download the Valentine's Day Menu">  --}}
-                                    {{--  <i class="fa fa-download"></i>  --}}
-                                    {{--  Valentine's Day Menu  --}}
-                                {{--  </a>  --}}
-                                {{--  <br/>  --}}
-                                {{-- <a href="/media/images/Menu/pdf/2018/04/mains.pdf" target="_blank" title="Download the Main Menu"> --}}
-                                    {{-- <i class="fa fa-download"></i> --}}
-                                    {{-- Main Menu: --}}
-                                    {{-- Breakfast/Sandwiches/Salads --}}
-                                    {{-- <br/> --}}
-                                    {{-- Mains/Afternoon Tea --}}
-                                {{-- </a> --}}
-                                {{-- <br/> --}}
                                 <a href="/media/images/Menu/pdf/2018/11/breakfast.pdf" target="_blank" title="Download the Breakfast Menu">
                                     <i class="fa fa-download"></i>
                                     Breakfast
@@ -159,10 +132,6 @@
                                     Sunday lunch
                                 </a>
                                 <br/>
-                                {{-- <a href="/media/images/Menu/pdf/2017/05/Breakfast.pdf" target="_blank" title="Download the Breakfast menu"> --}}
-                                    {{-- <i class="fa fa-download"></i> --}}
-                                    {{-- Breakfast --}}
-                                {{-- </a><br/> --}}
                                 <a href="/media/images/Menu/pdf/2017/05/Kids.pdf" target="_blank" title="Download the kids menu">
                                     <i class="fa fa-download"></i>
                                     Kids
