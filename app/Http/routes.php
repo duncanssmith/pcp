@@ -15,6 +15,10 @@ Route::get('/', array('as' => 'home', function () {
     return View::make('welcome');
 }));
 
+Route::get('senh', array('as' => 'senh', function () {
+    return View::make('senh');
+}));
+
 Route::get('menu', array('as' => 'menu', function () {
     return View::make('menus');
 }));
