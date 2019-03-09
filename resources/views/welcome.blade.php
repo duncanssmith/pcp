@@ -67,11 +67,15 @@
                                     <li data-target="#carousel-menu" data-slide-to="4"></li>
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
                                     <li data-target="#carousel-menu" data-slide-to="6"></li> 
+                                    <li data-target="#carousel-menu" data-slide-to="7"></li> 
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                      <div class="item active">
+                                        <img src="/media/images/Menu/png/2017/05/Main-1.png" />
+                                    </div>
+                                    <div class="item">
                                         <img src="/media/images/Menu/png/2018/11/breakfast.png" />
                                     </div>
                                     <div class="item">
@@ -105,34 +109,38 @@
                         </div>
                         <div class="col-md-4">
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/2018/11/breakfast.pdf" target="_blank" title="Download the Breakfast Menu">
+                                <a href="/media/images/Menu/pdf/2017/05/PalmCourtMenu.pdf" target="_blank" title="Download our menu">
+                                    <i class="fa fa-download"></i>
+                                    Main menu
+                                </a><br/>
+                                <a href="/media/images/Menu/pdf/2018/11/breakfast.pdf" target="_blank" title="Download our breakfast menu">
                                     <i class="fa fa-download"></i>
                                     Breakfast
                                 </a><br/>
-                                <a href="/media/images/Menu/pdf/2018/11/brunch.pdf" target="_blank" title="Download the Brunch Menu">
+                                <a href="/media/images/Menu/pdf/2018/11/brunch.pdf" target="_blank" title="Download our brunch menu">
                                     <i class="fa fa-download"></i>
                                     Brunch
                                 </a><br/>
-                                <a href="/media/images/Menu/pdf/2018/11/lunch.pdf" target="_blank" title="Download the Brunch Menu">
+                                <a href="/media/images/Menu/pdf/2018/11/lunch.pdf" target="_blank" title="Download our lunch menu">
                                     <i class="fa fa-download"></i>
                                     Lunch
                                 </a><br/>
-                                <a href="/media/images/Menu/pdf/2018/04/veganVeggie.pdf" target="_blank" title="Download the Vegetarian/Vegan Menu">
+                                <a href="/media/images/Menu/pdf/2018/04/veganVeggie.pdf" target="_blank" title="Download our vegetarian/Vegan menu">
                                     <i class="fa fa-download"></i>
                                     Vegetarian/Vegan
                                 </a>
                                 <br/>
-                                <a href="/media/images/Menu/pdf/2018/04/drinks.pdf" target="_blank" title="Download the Drinks Menu">
+                                <a href="/media/images/Menu/pdf/2018/04/drinks.pdf" target="_blank" title="Download our Drinks Menu">
                                     <i class="fa fa-download"></i>
                                     Drinks/Wine
                                 </a>
                                 <br/>
-                                <a href="/media/images/Menu/pdf/2018/11/SundayLunch.pdf" target="_blank" title="Download the Sunday Lunch menu">
+                                <a href="/media/images/Menu/pdf/2018/11/SundayLunch.pdf" target="_blank" title="Download our Sunday Lunch menu">
                                     <i class="fa fa-download"></i>
                                     Sunday lunch
                                 </a>
                                 <br/>
-                                <a href="/media/images/Menu/pdf/2017/05/Kids.pdf" target="_blank" title="Download the kids menu">
+                                <a href="/media/images/Menu/pdf/2017/05/Kids.pdf" target="_blank" title="Download our kids menu">
                                     <i class="fa fa-download"></i>
                                     Kids
                                 </a><br/>
