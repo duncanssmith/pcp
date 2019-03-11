@@ -135,7 +135,7 @@
                                     Drinks/Wine
                                 </a>
                                 <br/>
-                                <a href="/media/images/Menu/pdf/2018/11/SundayLunch.pdf" target="_blank" title="Download our Sunday Lunch menu">
+                                <a href="/media/images/Menu/pdf/2018/11/sundayLunch.pdf" target="_blank" title="Download our Sunday Lunch menu">
                                     <i class="fa fa-download"></i>
                                     Sunday lunch
                                 </a>
