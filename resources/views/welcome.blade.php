@@ -68,12 +68,16 @@
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
                                     <li data-target="#carousel-menu" data-slide-to="6"></li> 
                                     <li data-target="#carousel-menu" data-slide-to="7"></li> 
+                                    <li data-target="#carousel-menu" data-slide-to="8"></li> 
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                      <div class="item active">
-                                        <img src="/media/images/Menu/png/2017/05/Main-1.png" />
+                                        <img src="/media/images/Menu/png/2019/03/Mains.png" />
+                                    </div>
+                                    <div class="item">
+                                        <img src="/media/images/Menu/png/2019/03/AfternoonTea.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2018/11/breakfast.png" />
@@ -88,13 +92,13 @@
                                         <img src="/media/images/Menu/png/2018/04/veganVeggie.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2018/04/drinks.png" />
+                                        <img src="/media/images/Menu/png/2019/03/Drinks.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2019/03/SundayLunch.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2017/05/Kids.png" />
+                                        <img src="/media/images/Menu/png/2019/03/Kids.png" />
                                     </div>
                                 </div>
 
@@ -109,7 +113,7 @@
                         </div>
                         <div class="col-md-4">
                             <p class="download-box">
-                                <a href="/media/images/Menu/pdf/2017/05/PalmCourtMenu.pdf" target="_blank" title="Download our menu">
+                                <a href="/media/images/Menu/pdf/2019/03/MainsAfternoonTea.pdf" target="_blank" title="Download our menu">
                                     <i class="fa fa-download"></i>
                                     Main menu
                                 </a><br/>
@@ -130,7 +134,7 @@
                                     Vegetarian/Vegan
                                 </a>
                                 <br/>
-                                <a href="/media/images/Menu/pdf/2018/04/drinks.pdf" target="_blank" title="Download our Drinks Menu">
+                                <a href="/media/images/Menu/pdf/2019/03/Drinks.pdf" target="_blank" title="Download our Drinks Menu">
                                     <i class="fa fa-download"></i>
                                     Drinks/Wine
                                 </a>
@@ -140,7 +144,7 @@
                                     Sunday lunch
                                 </a>
                                 <br/>
-                                <a href="/media/images/Menu/pdf/2017/05/Kids.pdf" target="_blank" title="Download our kids menu">
+                                <a href="/media/images/Menu/pdf/2019/03/Kids.pdf" target="_blank" title="Download our kids menu">
                                     <i class="fa fa-download"></i>
                                     Kids
                                 </a><br/>
