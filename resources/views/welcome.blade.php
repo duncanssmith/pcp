@@ -4,24 +4,10 @@
         @include('layout.head')
     @show
     <body data-spy="scroll" data-target="#pcp-navbar" data-offset="90">
-
-        {{--<div id="fb-root">--}}
-            {{--<script>(function(d, s, id) {--}}
-                    {{--var js, fjs = d.getElementsByTagName(s)[0];--}}
-                    {{--if (d.getElementById(id)) return;--}}
-                    {{--js = d.createElement(s); js.id = id;--}}
-                    {{--js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";--}}
-                    {{--fjs.parentNode.insertBefore(js, fjs);--}}
-                {{--}(document, 'script', 'facebook-jssdk'));--}}
-{{--//            </script>--}}
-//        </div>
-
+        @section('nav')
+            @include('layout.nav')
+        @show
         <div id="content">
-
-            @section('nav')
-                @include('layout.nav')
-            @show
-
             <section id="section-welcome" class="section photo">
                 <div class="container">
                     <div class="row">
@@ -42,7 +28,6 @@
                     <div class="row">
                         <div class="col-lg-10 col-md-8 col-sm-6 col-xs-3">
                             @include('partials.opening_times')
-
                         </div>
                     </div>
                 </div>
@@ -68,7 +53,7 @@
                                     <li data-target="#carousel-menu" data-slide-to="5"></li>
                                     <li data-target="#carousel-menu" data-slide-to="6"></li> 
                                     <li data-target="#carousel-menu" data-slide-to="7"></li> 
-                                    <li data-target="#carousel-menu" data-slide-to="8"></li> 
+                                    {{--<li data-target="#carousel-menu" data-slide-to="8"></li>--}}
                                 </ol>
 
                                 <!-- Wrapper for slides -->
@@ -88,9 +73,9 @@
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2019/03/LunchSpringTones.png" />
                                     </div>
-                                    <div class="item">
-                                        <img src="/media/images/Menu/png/2018/04/veganVeggie.png" />
-                                    </div>
+                                    {{--<div class="item">--}}
+                                        {{--<img src="/media/images/Menu/png/2018/04/veganVeggie.png" />--}}
+                                    {{--</div>--}}
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2019/03/Drinks.png" />
                                     </div>
@@ -129,7 +114,7 @@
                                     <i class="fa fa-download"></i>
                                     Lunch - Spring tones
                                 </a><br/>
-                                <a href="/media/images/Menu/pdf/2018/04/veganVeggie.pdf" target="_blank" title="Download our vegetarian/Vegan menu">
+                                <a href="/media/images/Menu/pdf/2019/03/MainsAfternoonTea.pdf" target="_blank" title="Download our vegetarian/Vegan menu">
                                     <i class="fa fa-download"></i>
                                     Vegetarian/Vegan
                                 </a>
