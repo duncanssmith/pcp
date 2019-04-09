@@ -65,7 +65,7 @@
                                         <img src="/media/images/Menu/png/2019/03/AfternoonTea.png" />
                                     </div>
                                     <div class="item">
-                                        <img src="/media/images/Menu/png/2018/11/breakfast.png" />
+                                        <img src="/media/images/Menu/png/2019/03/Breakfast.png" />
                                     </div>
                                     <div class="item">
                                         <img src="/media/images/Menu/png/2018/11/brunch.png" />
