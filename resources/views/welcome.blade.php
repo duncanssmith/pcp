@@ -102,7 +102,7 @@
                                     <i class="fa fa-download"></i>
                                     Main menu
                                 </a><br/>
-                                <a href="/media/images/Menu/pdf/2018/11/breakfast.pdf" target="_blank" title="Download our breakfast menu">
+                                <a href="/media/images/Menu/pdf/2019/03/Breakfast.pdf" target="_blank" title="Download our breakfast menu">
                                     <i class="fa fa-download"></i>
                                     Breakfast
                                 </a><br/>
